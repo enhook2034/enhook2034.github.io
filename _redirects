@@ -1,0 +1,9 @@
+# Redirect app URLs to English version
+/app/obsidian/ /en/app/obsidian/ 302
+/app/vscode/ /en/app/vscode/ 302
+/app/ /en/app/ 302
+
+# Also redirect without trailing slash
+/app/obsidian /en/app/obsidian/ 302
+/app/vscode /en/app/vscode/ 302
+/app/ /en/app/ 302
