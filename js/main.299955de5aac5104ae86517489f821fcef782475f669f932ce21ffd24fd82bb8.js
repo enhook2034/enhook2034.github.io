@@ -24,9 +24,8 @@
       </div>
       <style>
         .search-container {
-          max-width: 768px;
-          margin: 0 auto;
-          padding: 2rem 1rem;
+          /* Container uses main's padding and max-width */
+          background-color: #0d1117;
         }
         
         .search-header {
@@ -117,7 +116,7 @@
         
         @media (max-width: 768px) {
           .search-container {
-            padding: 0;
+            /* Use main's mobile padding */
           }
           
           .search-header h1 {
