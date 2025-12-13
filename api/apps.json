@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a3cf",
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "version": "1.10.6",
+    "description": {
+      "en": "This is a powerful knowledge management and note-taking application.",
+      "cn": "这是一个强大的知识管理和笔记应用。"
+    },
+    "download_count": 0,
+    "icon": "/icons/ic_obsidian.png",
+    "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe",
+    "homepage": "https://obsidian.md/"
+  },
+  {
+    "id": "b7e2",
+    "slug": "vscode",
+    "name": "Visual Studio Code",
+    "version": "1.107.0",
+    "description": {
+      "en": "This is a code editor from Microsoft.",
+      "cn": "这是微软出品的代码编辑器。"
+    }, 
+    "download_count": 0,
+    "icon": "/icons/ic_vscode.png",
+    "download_url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+    "homepage": "https://code.visualstudio.com/"
+  }
+]
