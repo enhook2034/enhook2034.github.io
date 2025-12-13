@@ -28,5 +28,25 @@
       "en": "Screenshot, screen recording, OCR - a fast and flexible tool.",
       "cn": "截图、录屏、OCR - 一款快速灵活的工具。"
     }
+  },
+  {
+    "id": "d9f4",
+    "slug": "bulk-crap-uninstaller",
+    "name": "Bulk Crap Uninstaller",
+    "version": "5.9",
+    "description": {
+      "en": "Remove large amounts of unwanted applications quickly.",
+      "cn": "快速卸载大量不需要的应用程序。"
+    }
+  },
+  {
+    "id": "e5g5",
+    "slug": "super-productivity",
+    "name": "Super Productivity",
+    "version": "16.6.0",
+    "description": {
+      "en": "A powerful and flexible To-Do and time management application, easy to use.",
+      "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
+    }
   }
 ]
