@@ -58,5 +58,15 @@
       "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
       "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
     }
+  },
+  {
+    "id": "d9f3",
+    "slug": "project-eye",
+    "name": "Project Eye",
+    "version": "1.4.3",
+    "description": {
+      "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
+      "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
+    }
   }
 ]
