@@ -48,5 +48,15 @@
       "en": "A powerful and flexible To-Do and time management application, easy to use.",
       "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
     }
+  },
+  {
+    "id": "a3cf",
+    "slug": "keepassxc",
+    "name": "KeePassXC",
+    "version": "2.7.11",
+    "description": {
+      "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
+      "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
+    }
   }
 ]
