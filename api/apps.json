@@ -68,5 +68,15 @@
       "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
       "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
     }
+  },
+  {
+    "id": "b3x1",
+    "slug": "task-manager-ex",
+    "name": "TaskManagerEx",
+    "version": "1.4.1",
+    "description": {
+      "en": "Windows XP's Task Manager with more features.",
+      "cn": "Windows XP的任务管理器，增加了一些新功能。"
+    }
   }
 ]
