@@ -78,5 +78,15 @@
       "en": "Windows XP's Task Manager with more features.",
       "cn": "Windows XP的任务管理器，增加了一些新功能。"
     }
+  },
+  {
+    "id": "b3ab",
+    "slug": "clickshow",
+    "name": "ClickShow",
+    "version": "1.4.1",
+    "description": {
+      "en": "A small tool for indicating mouse clicks and mouse position.",
+      "cn": "用于提示鼠标点击、鼠标位置的小工具。"
+    }
   }
 ]
