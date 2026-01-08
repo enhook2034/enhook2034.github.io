@@ -86,7 +86,7 @@
     "version": "1.4.1",
     "description": {
       "en": "A small tool for indicating mouse clicks and mouse position.",
-      "cn": "用于提示鼠标点击、鼠标位置的小工具。"
+      "cn": "用于提示鼠标点击、鼠标位置的小工具"
     }
   }
 ]
