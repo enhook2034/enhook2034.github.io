@@ -88,5 +88,15 @@
       "en": "A small tool for indicating mouse clicks and mouse position.",
       "cn": "用于提示鼠标点击、鼠标位置的小工具"
     }
+  },
+  {
+    "id": "1767",
+    "slug": "explorer-tab-utility",
+    "name": "ExplorerTabUtility",
+    "version": "2.5.0",
+    "description": {
+      "en": "A utility to make Windows 11 File Explorer better, with new windows automatically unified.",
+      "cn": "让Windows 11的文件浏览器更好用，新开窗口自动统一"
+    }
   }
 ]
