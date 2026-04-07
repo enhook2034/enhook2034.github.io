@@ -1,23 +1,88 @@
 [
   {
+    "id": "d9f4",
+    "slug": "bulk-crap-uninstaller",
+    "name": "Bulk Crap Uninstaller",
+    "version": "5.9",
+    "description": {
+      "en": "Remove large amounts of unwanted applications quickly.",
+      "cn": "快速卸载大量不需要的应用程序。"
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.9/BCUninstaller_5.9.0_setup.exe",
+    "homepage": "https://www.bcuninstaller.com/",
+    "category": "tool"
+  },
+  {
+    "id": "b3ab",
+    "slug": "clickshow",
+    "name": "ClickShow",
+    "version": "1.4.1",
+    "size": "",
+    "publisher": "",
+    "license": "Free",
+    "screenshots": [],
+    "description": {
+      "en": "A small tool for indicating mouse clicks and mouse position.",
+      "cn": "用于提示鼠标点击、鼠标位置的小工具"
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/cuiliang/ClickShow/releases/download/1.4.1/ClickShow1_4_1.zip",
+    "homepage": "https://github.com/cuiliang/ClickShow",
+    "category": "tool"
+  },
+  {
+    "id": "1767",
+    "slug": "explorer-tab-utility",
+    "name": "ExplorerTabUtility",
+    "version": "2.5.0",
+    "size": "831 KB",
+    "publisher": "w4po",
+    "license": "Free",
+    "screenshots": [],
+    "description": {
+      "en": "A utility to make Windows 11 File Explorer better, with new windows automatically unified.",
+      "cn": "让Windows 11的文件浏览器更好用，新开窗口自动统一"
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/w4po/ExplorerTabUtility/releases/download/v2.5.0/ExplorerTabUtility_v2.5.0_x64_Net9.0_FrameworkDependent.zip",
+    "homepage": "https://github.com/w4po/ExplorerTabUtility",
+    "category": "create"
+  },
+  {
+    "id": "a3d0",
+    "slug": "keepassxc",
+    "name": "KeePassXC",
+    "version": "2.7.11",
+    "description": {
+      "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
+      "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
+    },
+    "category": "tool",
+    "download_count": 0,
+    "download_url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.11/KeePassXC-2.7.11-Win64.msi",
+    "homepage": "https://keepassxc.org/"
+  },
+  {
     "id": "a3cf",
     "slug": "obsidian",
     "name": "Obsidian",
     "version": "1.10.6",
+    "size": "415 KB",
+    "publisher": "Obsidian MD",
+    "license": "免费",
+    "screenshots": [
+      "https://obsidian.md/assets/screenshots/obsidian-graph-view.png",
+      "https://obsidian.md/assets/screenshots/obsidian-canvas.png"
+    ],
     "description": {
       "en": "This is a powerful knowledge management and note-taking application.",
       "cn": "这是一个强大的知识管理和笔记应用。"
-    }
-  },
-  {
-    "id": "b7e2",
-    "slug": "vscode",
-    "name": "Visual Studio Code",
-    "version": "1.107.0",
-    "description": {
-      "en": "This is a code editor from Microsoft.",
-      "cn": "这是微软出品的代码编辑器。"
-    }
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe",
+    "homepage": "https://obsidian.md/",
+    "category": "create"
   },
   {
     "id": "c8f3",
@@ -27,37 +92,11 @@
     "description": {
       "en": "Screenshot, screen recording, OCR - a fast and flexible tool.",
       "cn": "截图、录屏、OCR - 一款快速灵活的工具。"
-    }
-  },
-  {
-    "id": "d9f4",
-    "slug": "bulk-crap-uninstaller",
-    "name": "Bulk Crap Uninstaller",
-    "version": "5.9",
-    "description": {
-      "en": "Remove large amounts of unwanted applications quickly.",
-      "cn": "快速卸载大量不需要的应用程序。"
-    }
-  },
-  {
-    "id": "e5g5",
-    "slug": "super-productivity",
-    "name": "Super Productivity",
-    "version": "16.6.0",
-    "description": {
-      "en": "A powerful and flexible To-Do and time management application, easy to use.",
-      "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
-    }
-  },
-  {
-    "id": "a3cf",
-    "slug": "keepassxc",
-    "name": "KeePassXC",
-    "version": "2.7.11",
-    "description": {
-      "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
-      "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
-    }
+    },
+    "download_count": 0,
+    "download_url": "https://download.pixpin.cn/PixPin_cn_zh-cn_2.2.4.1.exe",
+    "homepage": "https://pixpin.cn/",
+    "category": "tool"
   },
   {
     "id": "d9f3",
@@ -67,7 +106,25 @@
     "description": {
       "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
       "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
-    }
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/Planshit/ProjectEye/releases/download/1.4.3/ProjectEye.zip",
+    "homepage": "https://github.com/Planshit/ProjectEye",
+    "category": "work"
+  },
+  {
+    "id": "e5g5",
+    "slug": "super-productivity",
+    "name": "Super Productivity",
+    "version": "16.6.0",
+    "description": {
+      "en": "A powerful and flexible To-Do and time management application, easy to use.",
+      "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/johannesjo/super-productivity/releases/latest/download/Super-Productivity-Setup.exe",
+    "homepage": "https://super-productivity.com/",
+    "category": "work"
   },
   {
     "id": "b3x1",
@@ -77,26 +134,25 @@
     "description": {
       "en": "Windows XP's Task Manager with more features.",
       "cn": "Windows XP的任务管理器，增加了一些新功能。"
-    }
+    },
+    "download_count": 0,
+    "download_url": "https://github.com/aubymori/TaskManagerEx/releases/download/1.4.1/TaskManagerEx-v1.4.1.zip",
+    "homepage": "https://github.com/aubymori/TaskManagerEx",
+    "category": "tool"
   },
   {
-    "id": "b3ab",
-    "slug": "clickshow",
-    "name": "ClickShow",
-    "version": "1.4.1",
+    "id": "b7e2",
+    "slug": "vscode",
+    "name": "Visual Studio Code",
+    "version": "1.107.0",
     "description": {
-      "en": "A small tool for indicating mouse clicks and mouse position.",
-      "cn": "用于提示鼠标点击、鼠标位置的小工具"
-    }
-  },
-  {
-    "id": "1767",
-    "slug": "explorer-tab-utility",
-    "name": "ExplorerTabUtility",
-    "version": "2.5.0",
-    "description": {
-      "en": "A utility to make Windows 11 File Explorer better, with new windows automatically unified.",
-      "cn": "让Windows 11的文件浏览器更好用，新开窗口自动统一"
-    }
+      "en": "This is a code editor from Microsoft.",
+      "cn": "这是微软出品的代码编辑器。"
+    },
+    "publisher": "Microsoft",
+    "download_count": 0,
+    "download_url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+    "homepage": "https://code.visualstudio.com/",
+    "category": "create"
   }
 ]
