@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: Golutra.",
     "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 3297,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,20 +18,9 @@
   "homepage": "https://github.com/golutra/golutra",
   "category": "tool",
   "linuxdo": {
-    "post_title": "【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）",
     "post_url": "https://linux.do/t/topic/1709670",
     "author_username": "XiaoHuang",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png",
-    "category": "开发调优",
-    "tags": [
-      "人工智能",
-      "软件开发",
-      "作品集",
-      "openclaw",
-      "开源推广"
-    ],
-    "repo": "golutra/golutra"
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/golutra/golutra/releases/tag/v0.2.4",

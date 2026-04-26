@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: CC Desktop Zh Cn WIN Portable.",
     "cn": "来自 linux.do 帖子“Windows 版本的 Claude Desktop 绿色中文汉化的脚本”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 16,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,18 +18,9 @@
   "homepage": "https://github.com/fomo-run/cc-desktop-zh-cn-win-portable",
   "category": "tool",
   "linuxdo": {
-    "post_title": "Windows 版本的 Claude Desktop 绿色中文汉化的脚本",
     "post_url": "https://linux.do/t/topic/2054504",
     "author_username": "OnlyAIGC",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/onlyaigc/48/1060671_2.png",
-    "category": "开发调优",
-    "tags": [
-      "ChatGPT",
-      "软件开发",
-      "开源推广"
-    ],
-    "repo": "fomo-run/cc-desktop-zh-cn-win-portable"
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/onlyaigc/48/1060671_2.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.1.0",

@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: Bilibili Manga Watermark Remover.",
     "cn": "来自 linux.do 帖子“哔哩哔哩漫画下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 256,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,18 +18,9 @@
   "homepage": "https://github.com/lanyeeee/bilibili-manga-watermark-remover",
   "category": "tool",
   "linuxdo": {
-    "post_title": "哔哩哔哩漫画下载器，带图形界面，下载速度飞快",
     "post_url": "https://linux.do/t/topic/242058",
     "author_username": "CatFaceWest",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png",
-    "category": "资源荟萃",
-    "tags": [
-      "GitHub",
-      "作品集",
-      "开源推广"
-    ],
-    "repo": "lanyeeee/bilibili-manga-watermark-remover"
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/lanyeeee/bilibili-manga-watermark-remover/releases/tag/v0.10.0",

@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: sublinkPro.",
     "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 1133,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,19 +18,9 @@
   "homepage": "https://github.com/zerodeng01/sublinkpro",
   "category": "tool",
   "linuxdo": {
-    "post_title": "[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具",
     "post_url": "https://linux.do/t/topic/1211797",
     "author_username": "ZeroDeng",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png",
-    "category": "开发调优",
-    "tags": [
-      "白嫖",
-      "订阅节点",
-      "软件开发",
-      "开源推广"
-    ],
-    "repo": "zerodeng01/sublinkpro"
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.8",

@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: OpenFlare.",
     "cn": "来自 linux.do 帖子“【开源更新】自建CDN用来加速网站, 支持 POW 保护网站”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 51,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,19 +18,9 @@
   "homepage": "https://github.com/rain-kl/openflare",
   "category": "tool",
   "linuxdo": {
-    "post_title": "【开源更新】自建CDN用来加速网站, 支持 POW 保护网站",
     "post_url": "https://linux.do/t/topic/2058533",
     "author_username": "Wyrm",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/wyrm/48/428410_2.png",
-    "category": "开发调优",
-    "tags": [
-      "网络安全",
-      "软件开发",
-      "计算机网络",
-      "开源推广"
-    ],
-    "repo": "rain-kl/openflare"
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/wyrm/48/428410_2.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/Rain-kl/OpenFlare/releases/tag/v1.5.0",

@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: Ccpane.",
     "cn": "来自 linux.do 帖子“CC-Panes：Claude/codex cli 多实例分屏牛马工作流，转为超级个体打造的开发工具。”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 376,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,18 +18,9 @@
   "homepage": "https://github.com/wuxiran/ccpane",
   "category": "tool",
   "linuxdo": {
-    "post_title": "CC-Panes：Claude/codex cli 多实例分屏牛马工作流，转为超级个体打造的开发工具。",
     "post_url": "https://linux.do/t/topic/1692336",
     "author_username": "wuxiran01",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.linux.do/letter_avatar/wuxiran01/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png",
-    "category": "开发调优",
-    "tags": [
-      "人工智能",
-      "软件开发",
-      "开源推广"
-    ],
-    "repo": "wuxiran/ccpane"
+    "author_avatar_url": "https://cdn.linux.do/letter_avatar/wuxiran01/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",

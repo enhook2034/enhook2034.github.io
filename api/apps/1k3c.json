@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: MinerU2PPT.",
     "cn": "来自 linux.do 帖子“【开源自荐】gpt-image2-ppt-skills：丢一张 .pptx 模板进去，AI 仿版式换内容”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 145,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,20 +18,9 @@
   "homepage": "https://github.com/juniversecoder/mineru2ppt",
   "category": "tool",
   "linuxdo": {
-    "post_title": "【开源自荐】gpt-image2-ppt-skills：丢一张 .pptx 模板进去，AI 仿版式换内容",
     "post_url": "https://linux.do/t/topic/2053515",
     "author_username": "JLL6",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/jll6/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png",
-    "category": "开发调优",
-    "tags": [
-      "ChatGPT",
-      "OpenAI",
-      "人工智能",
-      "软件开发",
-      "开源推广"
-    ],
-    "repo": "juniversecoder/mineru2ppt"
+    "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/jll6/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/JuniverseCoder/MinerU2PPT/releases/tag/v2.0.0",

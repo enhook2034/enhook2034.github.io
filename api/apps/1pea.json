@@ -7,7 +7,7 @@
     "en": "A Windows open-source project collected from linux.do: Myclaude.",
     "cn": "来自 linux.do 帖子“【补档】CCG v2.1.1 : Claude Code 编排三 CLI 协作 | Codex + Gemini + Claude | 加入多种实用skills”的 Windows 开源项目。"
   },
-  "stars": 0,
+  "stars": 2621,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [
@@ -18,23 +18,9 @@
   "homepage": "https://github.com/cexll/myclaude",
   "category": "tool",
   "linuxdo": {
-    "post_title": "【补档】CCG v2.1.1 : Claude Code 编排三 CLI 协作 | Codex + Gemini + Claude | 加入多种实用skills",
     "post_url": "https://linux.do/t/topic/1710380",
     "author_username": "feng_li",
-    "author_name": "",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/feng_li/48/1642003_2.png",
-    "category": "开发调优",
-    "tags": [
-      "Claude",
-      "Gemini",
-      "人工智能",
-      "软件开发",
-      "Codex",
-      "workflow",
-      "ccg",
-      "开源推广"
-    ],
-    "repo": "cexll/myclaude"
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/feng_li/48/1642003_2.png"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/stellarlinkco/myclaude/releases/tag/v6.8.2",
