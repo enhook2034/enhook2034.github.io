@@ -18,9 +18,18 @@
   "homepage": "https://github.com/scottsloan/bili23-downloader",
   "category": "tool",
   "linuxdo": {
+    "post_title": "可能是全网最好用的 B站 bilibili 视频下载器，带图形界面",
     "post_url": "https://linux.do/t/topic/953272",
     "author_username": "CatFaceWest",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "GitHub",
+      "作品集",
+      "开源推广"
+    ],
+    "repo": "scottsloan/bili23-downloader"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.00.1",

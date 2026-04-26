@@ -18,9 +18,18 @@
   "homepage": "https://github.com/zeal-l/bilibili-manga-downloader",
   "category": "tool",
   "linuxdo": {
+    "post_title": "哔哩哔哩漫画去水印工具，无损、无痕",
     "post_url": "https://linux.do/t/topic/164088",
     "author_username": "CatFaceWest",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "GitHub",
+      "作品集",
+      "开源推广"
+    ],
+    "repo": "zeal-l/bilibili-manga-downloader"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/tag/v1.5.1",

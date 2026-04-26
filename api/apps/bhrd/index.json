@@ -18,9 +18,17 @@
   "homepage": "https://github.com/qwqcode/subrenamer",
   "category": "tool",
   "linuxdo": {
+    "post_title": "十几个扩展和脚本推荐（附介绍和链接）",
     "post_url": "https://linux.do/t/topic/1334842",
     "author_username": "uoht",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "原创",
+      "开源推广"
+    ],
+    "repo": "qwqcode/subrenamer"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",

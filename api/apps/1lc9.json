@@ -18,9 +18,18 @@
   "homepage": "https://github.com/lanyeeee/picacomic-downloader",
   "category": "tool",
   "linuxdo": {
+    "post_title": "哔咔漫画 PicACG 下载器，带图形界面，支持多线程下载",
     "post_url": "https://linux.do/t/topic/211581",
     "author_username": "CatFaceWest",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "GitHub",
+      "作品集",
+      "开源推广"
+    ],
+    "repo": "lanyeeee/picacomic-downloader"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/lanyeeee/picacomic-downloader/releases/tag/v0.8.0",

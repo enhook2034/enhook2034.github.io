@@ -18,9 +18,20 @@
   "homepage": "https://github.com/openclaw/openclaw",
   "category": "tool",
   "linuxdo": {
+    "post_title": "【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）",
     "post_url": "https://linux.do/t/topic/1709670",
     "author_username": "XiaoHuang",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png",
+    "category": "开发调优",
+    "tags": [
+      "人工智能",
+      "软件开发",
+      "作品集",
+      "openclaw",
+      "开源推广"
+    ],
+    "repo": "openclaw/openclaw"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",

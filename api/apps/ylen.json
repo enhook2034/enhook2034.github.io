@@ -18,9 +18,19 @@
   "homepage": "https://github.com/rain-kl/openflare",
   "category": "tool",
   "linuxdo": {
+    "post_title": "【开源更新】自建CDN用来加速网站, 支持 POW 保护网站",
     "post_url": "https://linux.do/t/topic/2058533",
     "author_username": "Wyrm",
-    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/wyrm/48/428410_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/wyrm/48/428410_2.png",
+    "category": "开发调优",
+    "tags": [
+      "网络安全",
+      "软件开发",
+      "计算机网络",
+      "开源推广"
+    ],
+    "repo": "rain-kl/openflare"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/Rain-kl/OpenFlare/releases/tag/v1.5.0",

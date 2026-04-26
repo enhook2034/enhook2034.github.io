@@ -18,9 +18,20 @@
   "homepage": "https://github.com/yinbuliao/animex",
   "category": "tool",
   "linuxdo": {
+    "post_title": "[开源推广]用GPT5.5开发了一个看动漫的项目",
     "post_url": "https://linux.do/t/topic/2054327",
     "author_username": "BiLo8",
-    "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/bilo8/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/bilo8/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png",
+    "category": "资源荟萃",
+    "tags": [
+      "ChatGPT",
+      "动漫",
+      "影视",
+      "软件开发",
+      "开源推广"
+    ],
+    "repo": "yinbuliao/animex"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/YinBuLiao/AnimeX/releases/tag/v0.1.1",

@@ -18,9 +18,19 @@
   "homepage": "https://github.com/castor6/tactus",
   "category": "tool",
   "linuxdo": {
+    "post_title": "Tactus V1.2.0 更新：上线官网（Skills 广场）、御三家模型齐活、预设快捷操作、标签页锁定",
     "post_url": "https://linux.do/t/topic/1684094",
     "author_username": "castor",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/castor/48/1037177_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/castor/48/1037177_2.png",
+    "category": "开发调优",
+    "tags": [
+      "人工智能",
+      "软件开发",
+      "原创",
+      "开源推广"
+    ],
+    "repo": "castor6/tactus"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/Castor6/tactus/releases/tag/v1.3.3",

@@ -18,9 +18,21 @@
   "homepage": "https://github.com/martialbe/one-hub",
   "category": "tool",
   "linuxdo": {
+    "post_title": "All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强",
     "post_url": "https://linux.do/t/topic/1001042",
     "author_username": "qi_xing_jk",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png",
+    "category": "开发调优",
+    "tags": [
+      "new-api",
+      "人工智能",
+      "软件开发",
+      "作品集",
+      "原创",
+      "开源推广"
+    ],
+    "repo": "martialbe/one-hub"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",

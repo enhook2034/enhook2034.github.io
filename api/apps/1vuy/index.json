@@ -18,9 +18,17 @@
   "homepage": "https://github.com/hiroi-sora/umi-ocr",
   "category": "tool",
   "linuxdo": {
+    "post_title": "软件与不限速的下载站推荐（附介绍和链接）",
     "post_url": "https://linux.do/t/topic/1587558",
     "author_username": "uoht",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "原创",
+      "开源推广"
+    ],
+    "repo": "hiroi-sora/umi-ocr"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/hiroi-sora/Umi-OCR/releases/tag/v2.1.5",

@@ -18,9 +18,18 @@
   "homepage": "https://github.com/fivif/sam3-an",
   "category": "tool",
   "linuxdo": {
+    "post_title": "【开源自荐】基于Meta SAM3 的智能数据标注工具------支持提示词批量标注【YOLO格式+coco格式导出】",
     "post_url": "https://linux.do/t/topic/1306118",
     "author_username": "fivif",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/fivif/48/1274003_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/fivif/48/1274003_2.png",
+    "category": "开发调优",
+    "tags": [
+      "人工智能",
+      "软件开发",
+      "开源推广"
+    ],
+    "repo": "fivif/sam3-an"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/fivif/Sam3-AN/releases/tag/V1.1.0",

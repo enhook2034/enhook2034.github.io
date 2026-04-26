@@ -18,9 +18,18 @@
   "homepage": "https://github.com/lanyeeee/manhuagui-downloader",
   "category": "tool",
   "linuxdo": {
+    "post_title": "漫画柜 manhuagui 下载器，带图形界面",
     "post_url": "https://linux.do/t/topic/459372",
     "author_username": "CatFaceWest",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "GitHub",
+      "作品集",
+      "开源推广"
+    ],
+    "repo": "lanyeeee/manhuagui-downloader"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/tag/v0.4.2",

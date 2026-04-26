@@ -18,9 +18,17 @@
   "homepage": "https://github.com/qxcnm/codex-manager",
   "category": "tool",
   "linuxdo": {
+    "post_title": "CodexManager(Codex网关)开源保姆级别配置说明",
     "post_url": "https://linux.do/t/topic/1688401",
     "author_username": "qxnm",
-    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qxnm/48/1352128_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qxnm/48/1352128_2.png",
+    "category": "开发调优",
+    "tags": [
+      "软件开发",
+      "开源推广"
+    ],
+    "repo": "qxcnm/codex-manager"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.2.5",

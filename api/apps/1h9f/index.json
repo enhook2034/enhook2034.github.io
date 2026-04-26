@@ -18,9 +18,18 @@
   "homepage": "https://github.com/que01/kindlelocalsend",
   "category": "tool",
   "linuxdo": {
+    "post_title": "vibe coding写了个kindle无线传书工具(需要越狱)",
     "post_url": "https://linux.do/t/topic/2056548",
     "author_username": "que01",
-    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/que01/48/1165759_2.png"
+    "author_name": "",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/que01/48/1165759_2.png",
+    "category": "资源荟萃",
+    "tags": [
+      "人工智能",
+      "软件开发",
+      "开源推广"
+    ],
+    "repo": "que01/kindlelocalsend"
   },
   "source": "linuxdo",
   "release_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
