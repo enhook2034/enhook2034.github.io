@@ -4,8 +4,8 @@
   "name": "QKeyMapper",
   "version": "v1.3.8.20260424",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: QKeyMapper.",
-    "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+    "en": "[按键映射工具] QKeyMapper，Qt开发Win10&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。",
+    "cn": "[按键映射工具] QKeyMapper，Qt开发Win10&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。"
   },
   "stars": 598,
   "updated_at": "2026-04-26T09:53:50Z",

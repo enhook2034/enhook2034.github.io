@@ -4,10 +4,10 @@
   "name": "Cherry Studio",
   "version": "v1.9.3",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Cherry Studio.",
-    "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    "en": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "cn": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
   },
-  "stars": 44458,
+  "stars": 44460,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [

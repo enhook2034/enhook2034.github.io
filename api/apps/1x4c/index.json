@@ -4,8 +4,8 @@
   "name": "Bili23 Downloader",
   "version": "v2.00.1",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Bili23 Downloader.",
-    "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+    "en": "Bili23-Downloader 是一款跨平台的 B 站视频下载工具，兼容 Windows（含 Win7）、Linux 和 macOS。它拥有现代化 UI，支持音视频流分离下载、多线程加速、弹幕与字幕获取、封面提取、元数据刮削等丰富功能，并可自定义文件命名与分类，满足多样化需求。",
+    "cn": "Bili23-Downloader 是一款跨平台的 B 站视频下载工具，兼容 Windows（含 Win7）、Linux 和 macOS。它拥有现代化 UI，支持音视频流分离下载、多线程加速、弹幕与字幕获取、封面提取、元数据刮削等丰富功能，并可自定义文件命名与分类，满足多样化需求。"
   },
   "stars": 4121,
   "updated_at": "2026-04-26T09:53:50Z",

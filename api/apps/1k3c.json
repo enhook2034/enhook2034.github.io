@@ -4,8 +4,8 @@
   "name": "MinerU2PPT",
   "version": "v2.0.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: MinerU2PPT.",
-    "cn": "来自 linux.do 帖子“【开源自荐】gpt-image2-ppt-skills：丢一张 .pptx 模板进去，AI 仿版式换内容”的 Windows 开源项目。"
+    "en": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document.",
+    "cn": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document."
   },
   "stars": 145,
   "updated_at": "2026-04-26T09:53:50Z",

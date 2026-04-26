@@ -4,8 +4,8 @@
   "name": "SyncNos",
   "version": "v1.6.1",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: SyncNos.",
-    "cn": "来自 linux.do 帖子“【SyncNos开源】【v1.4.0，支持在网页文章中做评论笔记（类似高亮笔记）！】—— 自动保存AI对话、文章剪藏，并且可以增量同步到 Notion、Obsidian，支持11+AI对话平台”的 Windows 开源项目。"
+    "en": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian.",
+    "cn": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian."
   },
   "stars": 130,
   "updated_at": "2026-04-26T09:53:50Z",

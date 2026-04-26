@@ -4,8 +4,8 @@
   "name": "Jmcomic Downloader",
   "version": "v0.17.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Jmcomic Downloader.",
-    "cn": "来自 linux.do 帖子“禁漫天堂 jm 下载器，带图形界面，免费下载收费的漫画”的 Windows 开源项目。"
+    "en": "禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快",
+    "cn": "禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快"
   },
   "stars": 1368,
   "updated_at": "2026-04-26T09:53:50Z",

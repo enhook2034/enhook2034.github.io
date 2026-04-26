@@ -4,8 +4,8 @@
   "name": "Copymanga Downloader",
   "version": "v0.12.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Copymanga Downloader.",
-    "cn": "来自 linux.do 帖子“拷贝漫画 copymanga 下载器，带图形界面”的 Windows 开源项目。"
+    "en": "拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快",
+    "cn": "拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快"
   },
   "stars": 785,
   "updated_at": "2026-04-26T09:53:50Z",

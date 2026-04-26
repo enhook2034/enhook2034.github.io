@@ -4,8 +4,8 @@
   "name": "OpenFlare",
   "version": "v1.5.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: OpenFlare.",
-    "cn": "来自 linux.do 帖子“【开源更新】自建CDN用来加速网站, 支持 POW 保护网站”的 Windows 开源项目。"
+    "en": "分布式CDN边缘节点, 由统一的控制中心对节点进行管控。",
+    "cn": "分布式CDN边缘节点, 由统一的控制中心对节点进行管控。"
   },
   "stars": 51,
   "updated_at": "2026-04-26T09:53:50Z",

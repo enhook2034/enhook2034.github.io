@@ -4,8 +4,8 @@
   "name": "Myclaude",
   "version": "v6.8.2",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Myclaude.",
-    "cn": "来自 linux.do 帖子“【补档】CCG v2.1.1 : Claude Code 编排三 CLI 协作 | Codex + Gemini + Claude | 加入多种实用skills”的 Windows 开源项目。"
+    "en": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)",
+    "cn": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)"
   },
   "stars": 2621,
   "updated_at": "2026-04-26T09:53:50Z",

@@ -6,10 +6,10 @@
     "version": "5.9",
     "description": {
       "en": "Remove large amounts of unwanted applications quickly.",
-      "cn": "快速卸载大量不需要的应用程序。"
+      "cn": "Remove large amounts of unwanted applications quickly."
     },
     "source": "linuxdo",
-    "stars": 18774,
+    "stars": 18776,
     "updated_at": "2026-04-10T16:30:00Z",
     "icon": "",
     "collections_tags": [
@@ -32,8 +32,8 @@
     "license": "Free",
     "screenshots": [],
     "description": {
-      "en": "A small tool for indicating mouse clicks and mouse position.",
-      "cn": "用于提示鼠标点击、鼠标位置的小工具"
+      "en": "鼠标点击特效",
+      "cn": "鼠标点击特效"
     },
     "source": "xuanli199",
     "stars": 1139,
@@ -59,8 +59,8 @@
     "license": "Free",
     "screenshots": [],
     "description": {
-      "en": "A utility to make Windows 11 File Explorer better, with new windows automatically unified.",
-      "cn": "让Windows 11的文件浏览器更好用，新开窗口自动统一"
+      "en": "🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!",
+      "cn": "🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!"
     },
     "source": "xuanli199",
     "stars": 2669,
@@ -82,11 +82,11 @@
     "name": "KeePassXC",
     "version": "2.7.11",
     "description": {
-      "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
-      "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
+      "en": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+      "cn": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
     },
     "source": "linuxdo",
-    "stars": 26744,
+    "stars": 26745,
     "updated_at": "2026-04-22T08:45:00Z",
     "icon": "",
     "collections_tags": [
@@ -112,11 +112,11 @@
       "https://obsidian.md/assets/screenshots/obsidian-canvas.png"
     ],
     "description": {
-      "en": "This is a powerful knowledge management and note-taking application.",
-      "cn": "这是一个强大的知识管理和笔记应用。"
+      "en": "Community plugins list, theme list, and releases of Obsidian.",
+      "cn": "Community plugins list, theme list, and releases of Obsidian."
     },
     "source": "ruanyifeng",
-    "stars": 17073,
+    "stars": 17074,
     "updated_at": "2026-04-25T18:30:00Z",
     "icon": "",
     "collections_tags": [
@@ -158,8 +158,8 @@
     "name": "Project Eye",
     "version": "1.4.3",
     "description": {
-      "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
-      "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
+      "en": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件",
+      "cn": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件"
     },
     "source": "ruanyifeng",
     "stars": 1193,
@@ -181,8 +181,8 @@
     "name": "Super Productivity",
     "version": "16.6.0",
     "description": {
-      "en": "A powerful and flexible To-Do and time management application, easy to use.",
-      "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
+      "en": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "cn": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project."
     },
     "source": "ruanyifeng",
     "stars": 18854,
@@ -204,8 +204,8 @@
     "name": "TaskManagerEx",
     "version": "1.4.1",
     "description": {
-      "en": "Windows XP's Task Manager with more features.",
-      "cn": "Windows XP的任务管理器，增加了一些新功能。"
+      "en": "Windows XP's Task Manager with more features",
+      "cn": "Windows XP's Task Manager with more features"
     },
     "source": "",
     "stars": 68,
@@ -247,8 +247,8 @@
     "name": "All Api Hub",
     "version": "v3.34.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: All Api Hub.",
-      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+      "en": "​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management",
+      "cn": "​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management"
     },
     "stars": 3217,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -337,8 +337,8 @@
     "name": "One Hub",
     "version": "v0.14.27",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: One Hub.",
-      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+      "en": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
+      "cn": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。"
     },
     "stars": 2786,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -365,10 +365,10 @@
     "name": "Cherry Studio",
     "version": "v1.9.3",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Cherry Studio.",
-      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+      "en": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "cn": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
     },
-    "stars": 44458,
+    "stars": 44460,
     "updated_at": "2026-04-26T09:53:50Z",
     "icon": "",
     "collections_tags": [
@@ -402,8 +402,8 @@
     "name": "Ccpane",
     "version": "v0.9.37",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Ccpane.",
-      "cn": "来自 linux.do 帖子“CC-Panes：Claude/codex cli 多实例分屏牛马工作流，转为超级个体打造的开发工具。”的 Windows 开源项目。"
+      "en": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2",
+      "cn": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2"
     },
     "stars": 376,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -435,8 +435,8 @@
     "name": "Codex Manager",
     "version": "v0.2.5",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Codex Manager.",
-      "cn": "来自 linux.do 帖子“CodexManager(Codex网关)开源保姆级别配置说明”的 Windows 开源项目。"
+      "en": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。",
+      "cn": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。"
     },
     "stars": 1662,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -473,8 +473,8 @@
     "name": "Tactus",
     "version": "v1.3.3",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Tactus.",
-      "cn": "来自 linux.do 帖子“Tactus V1.2.0 更新：上线官网（Skills 广场）、御三家模型齐活、预设快捷操作、标签页锁定”的 Windows 开源项目。"
+      "en": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！",
+      "cn": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
     },
     "stars": 322,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -535,8 +535,8 @@
     "name": "Sqlearner",
     "version": "v0.4.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Sqlearner.",
-      "cn": "来自 linux.do 帖子“[开源]SQLearner：本地运行的自学&amp;练习SQL的小软件”的 Windows 开源项目。"
+      "en": "Learn SQL by yourself. Step by step. 闯关交互式SQL自学，从零基础开始进阶，祝你一路过关斩将！",
+      "cn": "Learn SQL by yourself. Step by step. 闯关交互式SQL自学，从零基础开始进阶，祝你一路过关斩将！"
     },
     "stars": 28,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -563,8 +563,8 @@
     "name": "sublinkPro",
     "version": "v1.1.8",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: sublinkPro.",
-      "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
+      "en": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！",
+      "cn": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！"
     },
     "stars": 1133,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -591,8 +591,8 @@
     "name": "BestSub",
     "version": "v1.8.7",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: BestSub.",
-      "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
+      "en": "Best Sub, Best for Your Net",
+      "cn": "Best Sub, Best for Your Net"
     },
     "stars": 2051,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -628,8 +628,8 @@
     "name": "Palaude",
     "version": "v0.5.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Palaude.",
-      "cn": "来自 linux.do 帖子“[开源推广]用GPT5.5开发了一个看动漫的项目”的 Windows 开源项目。"
+      "en": "法克劳德，啥也不是。",
+      "cn": "法克劳德，啥也不是。"
     },
     "stars": 1620,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -667,8 +667,8 @@
     "name": "AnimeX",
     "version": "v0.1.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: AnimeX.",
-      "cn": "来自 linux.do 帖子“[开源推广]用GPT5.5开发了一个看动漫的项目”的 Windows 开源项目。"
+      "en": "AnimeX 是一个基于 Mikan Project、Bangumi.tv 与多储存桶后端的番剧管理系统，支持自动追番、媒体库搜刮、在线播放、用户权限、管理员面板、下载申请、PikPak / 115 / 本地 / NAS 存储和 Docker 一体化部署。",
+      "cn": "AnimeX 是一个基于 Mikan Project、Bangumi.tv 与多储存桶后端的番剧管理系统，支持自动追番、媒体库搜刮、在线播放、用户权限、管理员面板、下载申请、PikPak / 115 / 本地 / NAS 存储和 Docker 一体化部署。"
     },
     "stars": 54,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -695,8 +695,8 @@
     "name": "Hitomi Downloader",
     "version": "v0.1.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Hitomi Downloader.",
-      "cn": "来自 linux.do 帖子“hitomi hitomi.la 下载器，带图形界面，简单易用”的 Windows 开源项目。"
+      "en": "A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器",
+      "cn": "A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器"
     },
     "stars": 124,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -726,8 +726,8 @@
     "name": "KindleLocalSend",
     "version": "1.10",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: KindleLocalSend.",
-      "cn": "来自 linux.do 帖子“vibe coding写了个kindle无线传书工具(需要越狱)”的 Windows 开源项目。"
+      "en": "`KindleLocalSend` is a LocalSend launcher package for Kindle",
+      "cn": "`KindleLocalSend` is a LocalSend launcher package for Kindle"
     },
     "stars": 0,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -754,8 +754,8 @@
     "name": "SyncNos",
     "version": "v1.6.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: SyncNos.",
-      "cn": "来自 linux.do 帖子“【SyncNos开源】【v1.4.0，支持在网页文章中做评论笔记（类似高亮笔记）！】—— 自动保存AI对话、文章剪藏，并且可以增量同步到 Notion、Obsidian，支持11+AI对话平台”的 Windows 开源项目。"
+      "en": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian.",
+      "cn": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian."
     },
     "stars": 130,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -785,10 +785,10 @@
     "name": "Openclaw",
     "version": "v2026.4.24",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Openclaw.",
-      "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+      "en": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "cn": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 "
     },
-    "stars": 364453,
+    "stars": 364463,
     "updated_at": "2026-04-26T09:53:50Z",
     "icon": "",
     "collections_tags": [
@@ -816,8 +816,8 @@
     "name": "Golutra",
     "version": "v0.2.4",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Golutra.",
-      "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+      "en": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
+      "cn": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace."
     },
     "stars": 3297,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -849,8 +849,8 @@
     "name": "Mdcz",
     "version": "v0.9.2",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Mdcz.",
-      "cn": "来自 linux.do 帖子“【开源】日本电影刮削工具 - UI重构的版本更新”的 Windows 开源项目。"
+      "en": "基于 Electron 的 JAV 影片元数据刮削与管理工具",
+      "cn": "基于 Electron 的 JAV 影片元数据刮削与管理工具"
     },
     "stars": 153,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -877,8 +877,8 @@
     "name": "OpenFlare",
     "version": "v1.5.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: OpenFlare.",
-      "cn": "来自 linux.do 帖子“【开源更新】自建CDN用来加速网站, 支持 POW 保护网站”的 Windows 开源项目。"
+      "en": "分布式CDN边缘节点, 由统一的控制中心对节点进行管控。",
+      "cn": "分布式CDN边缘节点, 由统一的控制中心对节点进行管控。"
     },
     "stars": 51,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -905,8 +905,8 @@
     "name": "MinerU2PPT",
     "version": "v2.0.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: MinerU2PPT.",
-      "cn": "来自 linux.do 帖子“【开源自荐】gpt-image2-ppt-skills：丢一张 .pptx 模板进去，AI 仿版式换内容”的 Windows 开源项目。"
+      "en": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document.",
+      "cn": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document."
     },
     "stars": 145,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -938,8 +938,8 @@
     "name": "Sam3 AN",
     "version": "V1.1.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Sam3 AN.",
-      "cn": "来自 linux.do 帖子“【开源自荐】基于Meta SAM3 的智能数据标注工具------支持提示词批量标注【YOLO格式+coco格式导出】”的 Windows 开源项目。"
+      "en": "基于Meta sam3模型的数据标注工具",
+      "cn": "基于Meta sam3模型的数据标注工具"
     },
     "stars": 72,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -966,8 +966,8 @@
     "name": "Skills Dock",
     "version": "v0.1.14",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Skills Dock.",
-      "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+      "en": "Skill-Dock 是一个专门对skill/map进行可视化管理的app，用来统一查看、发现和管理散落在不同工具中的 AI Skills。支持显示skill的调用次数、一键打包导入导出skill、skill分类管理，等等",
+      "cn": "Skill-Dock 是一个专门对skill/map进行可视化管理的app，用来统一查看、发现和管理散落在不同工具中的 AI Skills。支持显示skill的调用次数、一键打包导入导出skill、skill分类管理，等等"
     },
     "stars": 46,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -999,8 +999,8 @@
     "name": "Skill Flow",
     "version": "v1.3.5",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Skill Flow.",
-      "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+      "en": "Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.",
+      "cn": "Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more."
     },
     "stars": 216,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1031,8 +1031,8 @@
     "name": "Myclaude",
     "version": "v6.8.2",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Myclaude.",
-      "cn": "来自 linux.do 帖子“【补档】CCG v2.1.1 : Claude Code 编排三 CLI 协作 | Codex + Gemini + Claude | 加入多种实用skills”的 Windows 开源项目。"
+      "en": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)",
+      "cn": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)"
     },
     "stars": 2621,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1062,10 +1062,10 @@
     "name": "Ai Toolbox",
     "version": "v0.8.6",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Ai Toolbox.",
-      "cn": "来自 linux.do 帖子“写了个 OpenCode 插件：再也不用手动维护模型参数了”的 Windows 开源项目。"
+      "en": "Personal AI Toolbox",
+      "cn": "Personal AI Toolbox"
     },
-    "stars": 680,
+    "stars": 681,
     "updated_at": "2026-04-26T09:53:50Z",
     "icon": "",
     "collections_tags": [
@@ -1095,8 +1095,8 @@
     "name": "SubRenamer",
     "version": "v2.4.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: SubRenamer.",
-      "cn": "来自 linux.do 帖子“十几个扩展和脚本推荐（附介绍和链接）”的 Windows 开源项目。"
+      "en": "🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click.",
+      "cn": "🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click."
     },
     "stars": 1207,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1127,8 +1127,8 @@
     "name": "BBDown",
     "version": "1.6.3",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: BBDown.",
-      "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+      "en": "Bilibili Downloader. 一个命令行式哔哩哔哩下载器.",
+      "cn": "Bilibili Downloader. 一个命令行式哔哩哔哩下载器."
     },
     "stars": 13777,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1162,8 +1162,8 @@
     "name": "Bili23 Downloader",
     "version": "v2.00.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Bili23 Downloader.",
-      "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+      "en": "Bili23-Downloader 是一款跨平台的 B 站视频下载工具，兼容 Windows（含 Win7）、Linux 和 macOS。它拥有现代化 UI，支持音视频流分离下载、多线程加速、弹幕与字幕获取、封面提取、元数据刮削等丰富功能，并可自定义文件命名与分类，满足多样化需求。",
+      "cn": "Bili23-Downloader 是一款跨平台的 B 站视频下载工具，兼容 Windows（含 Win7）、Linux 和 macOS。它拥有现代化 UI，支持音视频流分离下载、多线程加速、弹幕与字幕获取、封面提取、元数据刮削等丰富功能，并可自定义文件命名与分类，满足多样化需求。"
     },
     "stars": 4121,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1194,8 +1194,8 @@
     "name": "Bilibili Video Downloader",
     "version": "v0.2.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Bilibili Video Downloader.",
-      "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+      "en": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库",
+      "cn": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库"
     },
     "stars": 1284,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1225,8 +1225,8 @@
     "name": "Picacomic Downloader",
     "version": "v0.8.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Picacomic Downloader.",
-      "cn": "来自 linux.do 帖子“哔咔漫画 PicACG 下载器，带图形界面，支持多线程下载”的 Windows 开源项目。"
+      "en": "哔咔漫画 picacomic pica漫画 bika漫画 PicACG 多线程下载器，带图形界面 带收藏夹，已打包exe 下载速度飞快",
+      "cn": "哔咔漫画 picacomic pica漫画 bika漫画 PicACG 多线程下载器，带图形界面 带收藏夹，已打包exe 下载速度飞快"
     },
     "stars": 606,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1256,8 +1256,8 @@
     "name": "Bilibili Manga Watermark Remover",
     "version": "v0.10.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Bilibili Manga Watermark Remover.",
-      "cn": "来自 linux.do 帖子“哔哩哔哩漫画下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
+      "en": "bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe",
+      "cn": "bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe"
     },
     "stars": 256,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1287,8 +1287,8 @@
     "name": "BiliBili Manga Downloader",
     "version": "v1.5.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: BiliBili Manga Downloader.",
-      "cn": "来自 linux.do 帖子“哔哩哔哩漫画去水印工具，无损、无痕”的 Windows 开源项目。"
+      "en": "一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！",
+      "cn": "一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！"
     },
     "stars": 1243,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1318,8 +1318,8 @@
     "name": "Copymanga Downloader",
     "version": "v0.12.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Copymanga Downloader.",
-      "cn": "来自 linux.do 帖子“拷贝漫画 copymanga 下载器，带图形界面”的 Windows 开源项目。"
+      "en": "拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快",
+      "cn": "拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快"
     },
     "stars": 785,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1349,8 +1349,8 @@
     "name": "Manhuagui Downloader",
     "version": "v0.4.2",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Manhuagui Downloader.",
-      "cn": "来自 linux.do 帖子“漫画柜 manhuagui 下载器，带图形界面”的 Windows 开源项目。"
+      "en": "漫画柜 manhuagui 看漫画 下载器，带图形界面 支持下载隐藏内容 支持导出cbz和pdf，已打包exe 免安装版解压后可以双击直接运行",
+      "cn": "漫画柜 manhuagui 看漫画 下载器，带图形界面 支持下载隐藏内容 支持导出cbz和pdf，已打包exe 免安装版解压后可以双击直接运行"
     },
     "stars": 295,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1380,8 +1380,8 @@
     "name": "Jmcomic Downloader",
     "version": "v0.17.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Jmcomic Downloader.",
-      "cn": "来自 linux.do 帖子“禁漫天堂 jm 下载器，带图形界面，免费下载收费的漫画”的 Windows 开源项目。"
+      "en": "禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快",
+      "cn": "禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快"
     },
     "stars": 1368,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1411,8 +1411,8 @@
     "name": "Wnacg Downloader",
     "version": "v0.5.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Wnacg Downloader.",
-      "cn": "来自 linux.do 帖子“绅士漫画 wnacg 下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
+      "en": "绅士漫画 wnacg.com wnacg 的多线程下载器，带图形界面 支持导出cbz和pdf，已打包exe 下载速度飞快",
+      "cn": "绅士漫画 wnacg.com wnacg 的多线程下载器，带图形界面 支持导出cbz和pdf，已打包exe 下载速度飞快"
     },
     "stars": 284,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1442,8 +1442,8 @@
     "name": "Catime",
     "version": "v1.4.0",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Catime.",
-      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+      "en": "💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g",
+      "cn": "💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g"
     },
     "stars": 4166,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1470,8 +1470,8 @@
     "name": "Magpie",
     "version": "v0.12.1",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Magpie.",
-      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+      "en": "A general-purpose window upscaler for Windows 10/11.",
+      "cn": "A general-purpose window upscaler for Windows 10/11."
     },
     "stars": 13636,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1501,8 +1501,8 @@
     "name": "QKeyMapper",
     "version": "v1.3.8.20260424",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: QKeyMapper.",
-      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+      "en": "[按键映射工具] QKeyMapper，Qt开发Win10&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。",
+      "cn": "[按键映射工具] QKeyMapper，Qt开发Win10&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。"
     },
     "stars": 598,
     "updated_at": "2026-04-26T09:53:50Z",
@@ -1533,8 +1533,8 @@
     "name": "Umi OCR",
     "version": "v2.1.5",
     "description": {
-      "en": "A Windows open-source project collected from linux.do: Umi OCR.",
-      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+      "en": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+      "cn": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。"
     },
     "stars": 43681,
     "updated_at": "2026-04-26T09:53:50Z",

@@ -4,8 +4,8 @@
   "name": "Magpie",
   "version": "v0.12.1",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Magpie.",
-    "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+    "en": "A general-purpose window upscaler for Windows 10/11.",
+    "cn": "A general-purpose window upscaler for Windows 10/11."
   },
   "stars": 13636,
   "updated_at": "2026-04-26T09:53:50Z",

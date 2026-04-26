@@ -4,8 +4,8 @@
   "name": "Project Eye",
   "version": "1.4.3",
   "description": {
-    "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
-    "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
+    "en": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件",
+    "cn": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件"
   },
   "source": "ruanyifeng",
   "stars": 1193,

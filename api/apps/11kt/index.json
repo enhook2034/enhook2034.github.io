@@ -4,8 +4,8 @@
   "name": "Ccpane",
   "version": "v0.9.37",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Ccpane.",
-    "cn": "来自 linux.do 帖子“CC-Panes：Claude/codex cli 多实例分屏牛马工作流，转为超级个体打造的开发工具。”的 Windows 开源项目。"
+    "en": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2",
+    "cn": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2"
   },
   "stars": 376,
   "updated_at": "2026-04-26T09:53:50Z",

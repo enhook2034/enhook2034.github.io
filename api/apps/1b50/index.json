@@ -4,8 +4,8 @@
   "name": "Hitomi Downloader",
   "version": "v0.1.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Hitomi Downloader.",
-    "cn": "来自 linux.do 帖子“hitomi hitomi.la 下载器，带图形界面，简单易用”的 Windows 开源项目。"
+    "en": "A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器",
+    "cn": "A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器"
   },
   "stars": 124,
   "updated_at": "2026-04-26T09:53:50Z",

@@ -4,10 +4,10 @@
   "name": "Ai Toolbox",
   "version": "v0.8.6",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Ai Toolbox.",
-    "cn": "来自 linux.do 帖子“写了个 OpenCode 插件：再也不用手动维护模型参数了”的 Windows 开源项目。"
+    "en": "Personal AI Toolbox",
+    "cn": "Personal AI Toolbox"
   },
-  "stars": 680,
+  "stars": 681,
   "updated_at": "2026-04-26T09:53:50Z",
   "icon": "",
   "collections_tags": [

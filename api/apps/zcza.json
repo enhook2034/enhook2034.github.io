@@ -4,8 +4,8 @@
   "name": "Golutra",
   "version": "v0.2.4",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Golutra.",
-    "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+    "en": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
+    "cn": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace."
   },
   "stars": 3297,
   "updated_at": "2026-04-26T09:53:50Z",

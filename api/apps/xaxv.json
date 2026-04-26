@@ -4,8 +4,8 @@
   "name": "Codex Manager",
   "version": "v0.2.5",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Codex Manager.",
-    "cn": "来自 linux.do 帖子“CodexManager(Codex网关)开源保姆级别配置说明”的 Windows 开源项目。"
+    "en": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。",
+    "cn": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。"
   },
   "stars": 1662,
   "updated_at": "2026-04-26T09:53:50Z",

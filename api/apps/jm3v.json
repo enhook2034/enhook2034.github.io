@@ -4,8 +4,8 @@
   "name": "Mdcz",
   "version": "v0.9.2",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Mdcz.",
-    "cn": "来自 linux.do 帖子“【开源】日本电影刮削工具 - UI重构的版本更新”的 Windows 开源项目。"
+    "en": "基于 Electron 的 JAV 影片元数据刮削与管理工具",
+    "cn": "基于 Electron 的 JAV 影片元数据刮削与管理工具"
   },
   "stars": 153,
   "updated_at": "2026-04-26T09:53:50Z",

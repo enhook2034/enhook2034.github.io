@@ -4,8 +4,8 @@
   "name": "Picacomic Downloader",
   "version": "v0.8.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Picacomic Downloader.",
-    "cn": "来自 linux.do 帖子“哔咔漫画 PicACG 下载器，带图形界面，支持多线程下载”的 Windows 开源项目。"
+    "en": "哔咔漫画 picacomic pica漫画 bika漫画 PicACG 多线程下载器，带图形界面 带收藏夹，已打包exe 下载速度飞快",
+    "cn": "哔咔漫画 picacomic pica漫画 bika漫画 PicACG 多线程下载器，带图形界面 带收藏夹，已打包exe 下载速度飞快"
   },
   "stars": 606,
   "updated_at": "2026-04-26T09:53:50Z",

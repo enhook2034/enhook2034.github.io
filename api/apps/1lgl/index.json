@@ -4,8 +4,8 @@
   "name": "Wnacg Downloader",
   "version": "v0.5.1",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Wnacg Downloader.",
-    "cn": "来自 linux.do 帖子“绅士漫画 wnacg 下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
+    "en": "绅士漫画 wnacg.com wnacg 的多线程下载器，带图形界面 支持导出cbz和pdf，已打包exe 下载速度飞快",
+    "cn": "绅士漫画 wnacg.com wnacg 的多线程下载器，带图形界面 支持导出cbz和pdf，已打包exe 下载速度飞快"
   },
   "stars": 284,
   "updated_at": "2026-04-26T09:53:50Z",

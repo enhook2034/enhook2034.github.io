@@ -11,11 +11,11 @@
     "https://obsidian.md/assets/screenshots/obsidian-canvas.png"
   ],
   "description": {
-    "en": "This is a powerful knowledge management and note-taking application.",
-    "cn": "这是一个强大的知识管理和笔记应用。"
+    "en": "Community plugins list, theme list, and releases of Obsidian.",
+    "cn": "Community plugins list, theme list, and releases of Obsidian."
   },
   "source": "ruanyifeng",
-  "stars": 17073,
+  "stars": 17074,
   "updated_at": "2026-04-25T18:30:00Z",
   "icon": "",
   "collections_tags": [

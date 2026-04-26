@@ -4,8 +4,8 @@
   "name": "BiliBili Manga Downloader",
   "version": "v1.5.1",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: BiliBili Manga Downloader.",
-    "cn": "来自 linux.do 帖子“哔哩哔哩漫画去水印工具，无损、无痕”的 Windows 开源项目。"
+    "en": "一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！",
+    "cn": "一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！"
   },
   "stars": 1243,
   "updated_at": "2026-04-26T09:53:50Z",

@@ -4,8 +4,8 @@
   "name": "Super Productivity",
   "version": "16.6.0",
   "description": {
-    "en": "A powerful and flexible To-Do and time management application, easy to use.",
-    "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
+    "en": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+    "cn": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project."
   },
   "source": "ruanyifeng",
   "stars": 18854,

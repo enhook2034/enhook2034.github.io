@@ -4,8 +4,8 @@
   "name": "Sam3 AN",
   "version": "V1.1.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Sam3 AN.",
-    "cn": "来自 linux.do 帖子“【开源自荐】基于Meta SAM3 的智能数据标注工具------支持提示词批量标注【YOLO格式+coco格式导出】”的 Windows 开源项目。"
+    "en": "基于Meta sam3模型的数据标注工具",
+    "cn": "基于Meta sam3模型的数据标注工具"
   },
   "stars": 72,
   "updated_at": "2026-04-26T09:53:50Z",

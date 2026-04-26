@@ -4,8 +4,8 @@
   "name": "Manhuagui Downloader",
   "version": "v0.4.2",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Manhuagui Downloader.",
-    "cn": "来自 linux.do 帖子“漫画柜 manhuagui 下载器，带图形界面”的 Windows 开源项目。"
+    "en": "漫画柜 manhuagui 看漫画 下载器，带图形界面 支持下载隐藏内容 支持导出cbz和pdf，已打包exe 免安装版解压后可以双击直接运行",
+    "cn": "漫画柜 manhuagui 看漫画 下载器，带图形界面 支持下载隐藏内容 支持导出cbz和pdf，已打包exe 免安装版解压后可以双击直接运行"
   },
   "stars": 295,
   "updated_at": "2026-04-26T09:53:50Z",

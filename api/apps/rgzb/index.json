@@ -4,8 +4,8 @@
   "name": "Bilibili Video Downloader",
   "version": "v0.2.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Bilibili Video Downloader.",
-    "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+    "en": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库",
+    "cn": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库"
   },
   "stars": 1284,
   "updated_at": "2026-04-26T09:53:50Z",

@@ -4,8 +4,8 @@
   "name": "Skill Flow",
   "version": "v1.3.5",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Skill Flow.",
-    "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+    "en": "Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.",
+    "cn": "Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more."
   },
   "stars": 216,
   "updated_at": "2026-04-26T09:53:50Z",

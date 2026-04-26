@@ -5,10 +5,10 @@
   "version": "5.9",
   "description": {
     "en": "Remove large amounts of unwanted applications quickly.",
-    "cn": "快速卸载大量不需要的应用程序。"
+    "cn": "Remove large amounts of unwanted applications quickly."
   },
   "source": "linuxdo",
-  "stars": 18774,
+  "stars": 18776,
   "updated_at": "2026-04-10T16:30:00Z",
   "icon": "",
   "collections_tags": [

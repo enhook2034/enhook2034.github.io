@@ -4,8 +4,8 @@
   "name": "Bilibili Manga Watermark Remover",
   "version": "v0.10.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Bilibili Manga Watermark Remover.",
-    "cn": "来自 linux.do 帖子“哔哩哔哩漫画下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
+    "en": "bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe",
+    "cn": "bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe"
   },
   "stars": 256,
   "updated_at": "2026-04-26T09:53:50Z",

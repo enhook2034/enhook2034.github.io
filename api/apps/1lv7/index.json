@@ -4,8 +4,8 @@
   "name": "Sqlearner",
   "version": "v0.4.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: Sqlearner.",
-    "cn": "来自 linux.do 帖子“[开源]SQLearner：本地运行的自学&amp;练习SQL的小软件”的 Windows 开源项目。"
+    "en": "Learn SQL by yourself. Step by step. 闯关交互式SQL自学，从零基础开始进阶，祝你一路过关斩将！",
+    "cn": "Learn SQL by yourself. Step by step. 闯关交互式SQL自学，从零基础开始进阶，祝你一路过关斩将！"
   },
   "stars": 28,
   "updated_at": "2026-04-26T09:53:50Z",

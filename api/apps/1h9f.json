@@ -4,8 +4,8 @@
   "name": "KindleLocalSend",
   "version": "1.10",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: KindleLocalSend.",
-    "cn": "来自 linux.do 帖子“vibe coding写了个kindle无线传书工具(需要越狱)”的 Windows 开源项目。"
+    "en": "`KindleLocalSend` is a LocalSend launcher package for Kindle",
+    "cn": "`KindleLocalSend` is a LocalSend launcher package for Kindle"
   },
   "stars": 0,
   "updated_at": "2026-04-26T09:53:50Z",

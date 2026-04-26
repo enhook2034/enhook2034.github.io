@@ -4,8 +4,8 @@
   "name": "One Hub",
   "version": "v0.14.27",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: One Hub.",
-    "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    "en": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
+    "cn": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。"
   },
   "stars": 2786,
   "updated_at": "2026-04-26T09:53:50Z",

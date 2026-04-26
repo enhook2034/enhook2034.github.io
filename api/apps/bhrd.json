@@ -4,8 +4,8 @@
   "name": "SubRenamer",
   "version": "v2.4.0",
   "description": {
-    "en": "A Windows open-source project collected from linux.do: SubRenamer.",
-    "cn": "来自 linux.do 帖子“十几个扩展和脚本推荐（附介绍和链接）”的 Windows 开源项目。"
+    "en": "🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click.",
+    "cn": "🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click."
   },
   "stars": 1207,
   "updated_at": "2026-04-26T09:53:50Z",
