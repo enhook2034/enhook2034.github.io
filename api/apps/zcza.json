@@ -1,0 +1,33 @@
+{
+  "id": "zcza",
+  "slug": "golutra",
+  "name": "Golutra",
+  "version": "v0.2.4",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Golutra.",
+    "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/golutra/golutra/releases/tag/v0.2.4",
+  "homepage": "https://github.com/golutra/golutra",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1709670",
+    "author_username": "XiaoHuang",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/golutra/golutra/releases/tag/v0.2.4",
+  "windows_assets": [
+    "golutra_windows_aarch64.msi",
+    "golutra_windows_aarch64.msi.sig",
+    "golutra_windows_x86_64.msi",
+    "golutra_windows_x86_64.msi.sig"
+  ]
+}

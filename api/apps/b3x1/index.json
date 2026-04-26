@@ -1,6 +1,19 @@
 {
   "id": "b3x1",
-  "name": "TaskManagerEx",
   "slug": "task-manager-ex",
-  "version": "1.4.1"
+  "name": "TaskManagerEx",
+  "version": "1.4.1",
+  "description": {
+    "en": "Windows XP's Task Manager with more features.",
+    "cn": "Windows XP的任务管理器，增加了一些新功能。"
+  },
+  "source": "",
+  "stars": 0,
+  "updated_at": "",
+  "icon": "",
+  "collections_tags": [],
+  "download_count": 0,
+  "download_url": "https://github.com/aubymori/TaskManagerEx/releases/download/1.4.1/TaskManagerEx-v1.4.1.zip",
+  "homepage": "https://github.com/aubymori/TaskManagerEx",
+  "category": "tool"
 }

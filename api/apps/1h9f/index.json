@@ -1,0 +1,28 @@
+{
+  "id": "1h9f",
+  "slug": "kindlelocalsend",
+  "name": "KindleLocalSend",
+  "version": "1.10",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: KindleLocalSend.",
+    "cn": "来自 linux.do 帖子“vibe coding写了个kindle无线传书工具(需要越狱)”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
+  "homepage": "https://github.com/que01/kindlelocalsend",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/2056548",
+    "author_username": "que01",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/que01/48/1165759_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
+  "windows_assets": "KindleLocalSend-package.zip"
+}

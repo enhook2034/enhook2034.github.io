@@ -1,0 +1,33 @@
+{
+  "id": "1wsi",
+  "slug": "skills-dock",
+  "name": "Skills Dock",
+  "version": "v0.1.14",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Skills Dock.",
+    "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.14",
+  "homepage": "https://github.com/1lck/skills-dock",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/2054419",
+    "author_username": "lick",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/lick/48/1622015_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.14",
+  "windows_assets": [
+    "Skills.Dock_0.1.14_x64-setup.exe",
+    "Skills.Dock_0.1.14_x64-setup.exe.sig",
+    "Skills.Dock_0.1.14_x64_en-US.msi",
+    "Skills.Dock_0.1.14_x64_en-US.msi.sig"
+  ]
+}

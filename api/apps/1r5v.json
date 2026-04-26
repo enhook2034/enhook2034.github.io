@@ -1,0 +1,31 @@
+{
+  "id": "1r5v",
+  "slug": "syncnos",
+  "name": "SyncNos",
+  "version": "v1.6.1",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: SyncNos.",
+    "cn": "来自 linux.do 帖子“【SyncNos开源】【v1.4.0，支持在网页文章中做评论笔记（类似高亮笔记）！】—— 自动保存AI对话、文章剪藏，并且可以增量同步到 Notion、Obsidian，支持11+AI对话平台”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.1",
+  "homepage": "https://github.com/chiimagnus/syncnos",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1635410",
+    "author_username": "hawki",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/hawki/48/996813_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.1",
+  "windows_assets": [
+    "syncnos-webclipper-chrome-v1.6.1.zip",
+    "syncnos-webclipper-edge-v1.6.1.zip"
+  ]
+}

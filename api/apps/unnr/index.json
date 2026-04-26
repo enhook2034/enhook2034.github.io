@@ -1,0 +1,31 @@
+{
+  "id": "unnr",
+  "slug": "openclaw",
+  "name": "Openclaw",
+  "version": "v2026.4.24",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Openclaw.",
+    "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1709670",
+    "author_username": "XiaoHuang",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",
+  "windows_assets": [
+    "OpenClaw-2026.4.24.dSYM.zip",
+    "OpenClaw-2026.4.24.zip"
+  ]
+}

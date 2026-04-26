@@ -1,0 +1,32 @@
+{
+  "id": "1x97",
+  "slug": "skill-flow",
+  "name": "Skill Flow",
+  "version": "v1.3.5",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Skill Flow.",
+    "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/VintLin/skill-flow/releases/tag/v1.3.5",
+  "homepage": "https://github.com/vintlin/skill-flow",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/2054419",
+    "author_username": "lick",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/lick/48/1622015_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/VintLin/skill-flow/releases/tag/v1.3.5",
+  "windows_assets": [
+    "Skill-Flow-arm64.zip",
+    "Skill-Flow-universal.zip",
+    "Skill-Flow-x86_64.zip"
+  ]
+}

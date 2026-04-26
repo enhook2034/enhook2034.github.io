@@ -1,0 +1,28 @@
+{
+  "id": "7f45",
+  "slug": "sublinkpro",
+  "name": "sublinkPro",
+  "version": "v1.1.8",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: sublinkPro.",
+    "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.8",
+  "homepage": "https://github.com/zerodeng01/sublinkpro",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1211797",
+    "author_username": "ZeroDeng",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.8",
+  "windows_assets": "sublinkPro-windows-amd64.exe"
+}

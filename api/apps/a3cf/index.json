@@ -1,6 +1,30 @@
 {
   "id": "a3cf",
-  "name": "Obsidian",
   "slug": "obsidian",
-  "version": "1.10.6"
+  "name": "Obsidian",
+  "version": "1.10.6",
+  "size": "415 KB",
+  "publisher": "Obsidian MD",
+  "license": "免费",
+  "screenshots": [
+    "https://obsidian.md/assets/screenshots/obsidian-graph-view.png",
+    "https://obsidian.md/assets/screenshots/obsidian-canvas.png"
+  ],
+  "description": {
+    "en": "This is a powerful knowledge management and note-taking application.",
+    "cn": "这是一个强大的知识管理和笔记应用。"
+  },
+  "source": "ruanyifeng",
+  "stars": 8500,
+  "updated_at": "2026-04-25T18:30:00Z",
+  "icon": "",
+  "collections_tags": [
+    "knowledge",
+    "notes",
+    "markdown"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe",
+  "homepage": "https://obsidian.md/",
+  "category": "create"
 }

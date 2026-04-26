@@ -1,0 +1,33 @@
+{
+  "id": "1lmt",
+  "slug": "ai-toolbox",
+  "name": "Ai Toolbox",
+  "version": "v0.8.6",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Ai Toolbox.",
+    "cn": "来自 linux.do 帖子“写了个 OpenCode 插件：再也不用手动维护模型参数了”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.6",
+  "homepage": "https://github.com/coulsontl/ai-toolbox",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/2055664",
+    "author_username": "baran",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/baran/48/1758328_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.6",
+  "windows_assets": [
+    "AI.Toolbox_0.8.6_x64-setup.exe",
+    "AI.Toolbox_0.8.6_x64-setup.exe.sig",
+    "AI.Toolbox_0.8.6_x64_en-US.msi",
+    "AI.Toolbox_0.8.6_x64_en-US.msi.sig"
+  ]
+}

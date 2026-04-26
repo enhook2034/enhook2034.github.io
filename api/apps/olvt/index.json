@@ -1,0 +1,28 @@
+{
+  "id": "olvt",
+  "slug": "catime",
+  "name": "Catime",
+  "version": "v1.4.0",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Catime.",
+    "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/vladelaina/Catime/releases/tag/v1.4.0",
+  "homepage": "https://github.com/vladelaina/catime",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1587558",
+    "author_username": "uoht",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/vladelaina/Catime/releases/tag/v1.4.0",
+  "windows_assets": "catime_1.4.0.exe"
+}

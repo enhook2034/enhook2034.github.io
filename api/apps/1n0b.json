@@ -1,0 +1,31 @@
+{
+  "id": "1n0b",
+  "slug": "jmcomic-downloader",
+  "name": "Jmcomic Downloader",
+  "version": "v0.17.0",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Jmcomic Downloader.",
+    "cn": "来自 linux.do 帖子“禁漫天堂 jm 下载器，带图形界面，免费下载收费的漫画”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/lanyeeee/jmcomic-downloader/releases/tag/v0.17.0",
+  "homepage": "https://github.com/lanyeeee/jmcomic-downloader",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/220034",
+    "author_username": "CatFaceWest",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/lanyeeee/jmcomic-downloader/releases/tag/v0.17.0",
+  "windows_assets": [
+    "jmcomic-downloader_0.17.0_windows_x64.exe",
+    "jmcomic-downloader_0.17.0_windows_x64_portable.zip"
+  ]
+}

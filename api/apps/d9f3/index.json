@@ -1,6 +1,23 @@
 {
   "id": "d9f3",
-  "name": "Project Eye",
   "slug": "project-eye",
-  "version": "1.4.3"
+  "name": "Project Eye",
+  "version": "1.4.3",
+  "description": {
+    "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
+    "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
+  },
+  "source": "ruanyifeng",
+  "stars": 1200,
+  "updated_at": "2026-04-05T11:00:00Z",
+  "icon": "",
+  "collections_tags": [
+    "health",
+    "focus",
+    "work"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/Planshit/ProjectEye/releases/download/1.4.3/ProjectEye.zip",
+  "homepage": "https://github.com/Planshit/ProjectEye",
+  "category": "work"
 }

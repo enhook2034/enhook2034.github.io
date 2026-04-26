@@ -1,0 +1,31 @@
+{
+  "id": "1pea",
+  "slug": "myclaude",
+  "name": "Myclaude",
+  "version": "v6.8.2",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Myclaude.",
+    "cn": "来自 linux.do 帖子“【补档】CCG v2.1.1 : Claude Code 编排三 CLI 协作 | Codex + Gemini + Claude | 加入多种实用skills”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/stellarlinkco/myclaude/releases/tag/v6.8.2",
+  "homepage": "https://github.com/cexll/myclaude",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1710380",
+    "author_username": "feng_li",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/feng_li/48/1642003_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/stellarlinkco/myclaude/releases/tag/v6.8.2",
+  "windows_assets": [
+    "codeagent-wrapper-windows-amd64.exe",
+    "codeagent-wrapper-windows-arm64.exe"
+  ]
+}

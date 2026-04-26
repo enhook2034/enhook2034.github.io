@@ -1,0 +1,31 @@
+{
+  "id": "1ih6",
+  "slug": "copymanga-downloader",
+  "name": "Copymanga Downloader",
+  "version": "v0.12.0",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Copymanga Downloader.",
+    "cn": "来自 linux.do 帖子“拷贝漫画 copymanga 下载器，带图形界面”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/lanyeeee/copymanga-downloader/releases/tag/v0.12.0",
+  "homepage": "https://github.com/lanyeeee/copymanga-downloader",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/268407",
+    "author_username": "CatFaceWest",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/lanyeeee/copymanga-downloader/releases/tag/v0.12.0",
+  "windows_assets": [
+    "copymanga-downloader_0.12.0_windows_x64.exe",
+    "copymanga-downloader_0.12.0_windows_x64_portable.zip"
+  ]
+}

@@ -1,6 +1,23 @@
 {
   "id": "e5g5",
-  "name": "Super Productivity",
   "slug": "super-productivity",
-  "version": "16.6.0"
+  "name": "Super Productivity",
+  "version": "16.6.0",
+  "description": {
+    "en": "A powerful and flexible To-Do and time management application, easy to use.",
+    "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
+  },
+  "source": "ruanyifeng",
+  "stars": 2100,
+  "updated_at": "2026-04-18T14:20:00Z",
+  "icon": "",
+  "collections_tags": [
+    "todo",
+    "time-tracking",
+    "work"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/johannesjo/super-productivity/releases/latest/download/Super-Productivity-Setup.exe",
+  "homepage": "https://super-productivity.com/",
+  "category": "work"
 }

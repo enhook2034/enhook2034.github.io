@@ -1,0 +1,31 @@
+{
+  "id": "1lc9",
+  "slug": "picacomic-downloader",
+  "name": "Picacomic Downloader",
+  "version": "v0.8.0",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Picacomic Downloader.",
+    "cn": "来自 linux.do 帖子“哔咔漫画 PicACG 下载器，带图形界面，支持多线程下载”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/lanyeeee/picacomic-downloader/releases/tag/v0.8.0",
+  "homepage": "https://github.com/lanyeeee/picacomic-downloader",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/211581",
+    "author_username": "CatFaceWest",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/lanyeeee/picacomic-downloader/releases/tag/v0.8.0",
+  "windows_assets": [
+    "picacomic-downloader_0.8.0_windows_x64.exe",
+    "picacomic-downloader_0.8.0_windows_x64_portable.zip"
+  ]
+}

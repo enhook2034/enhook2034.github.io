@@ -1,0 +1,32 @@
+{
+  "id": "1x4c",
+  "slug": "bili23-downloader",
+  "name": "Bili23 Downloader",
+  "version": "v2.00.1",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Bili23 Downloader.",
+    "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.00.1",
+  "homepage": "https://github.com/scottsloan/bili23-downloader",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/953272",
+    "author_username": "CatFaceWest",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.00.1",
+  "windows_assets": [
+    "Bili23-Downloader_2.00.1_windows_x64.exe",
+    "Bili23-Downloader_2.00.1_windows_x64_for_win7.exe",
+    "Bili23-Downloader_2.00.1_windows_x64_portable.zip"
+  ]
+}

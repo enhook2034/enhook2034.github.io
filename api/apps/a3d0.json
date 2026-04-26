@@ -1,6 +1,23 @@
 {
   "id": "a3d0",
-  "name": "KeePassXC",
   "slug": "keepassxc",
-  "version": "2.7.11"
+  "name": "KeePassXC",
+  "version": "2.7.11",
+  "description": {
+    "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
+    "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
+  },
+  "source": "linuxdo",
+  "stars": 5600,
+  "updated_at": "2026-04-22T08:45:00Z",
+  "icon": "",
+  "collections_tags": [
+    "security",
+    "password",
+    "privacy"
+  ],
+  "category": "tool",
+  "download_count": 0,
+  "download_url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.11/KeePassXC-2.7.11-Win64.msi",
+  "homepage": "https://keepassxc.org/"
 }

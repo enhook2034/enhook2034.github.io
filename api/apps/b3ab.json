@@ -1,6 +1,27 @@
 {
   "id": "b3ab",
-  "name": "ClickShow",
   "slug": "clickshow",
-  "version": "1.4.1"
+  "name": "ClickShow",
+  "version": "1.4.1",
+  "size": "",
+  "publisher": "",
+  "license": "Free",
+  "screenshots": [],
+  "description": {
+    "en": "A small tool for indicating mouse clicks and mouse position.",
+    "cn": "用于提示鼠标点击、鼠标位置的小工具"
+  },
+  "source": "xuanli199",
+  "stars": 890,
+  "updated_at": "2026-04-15T09:00:00Z",
+  "icon": "",
+  "collections_tags": [
+    "presentation",
+    "screen",
+    "productivity"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/cuiliang/ClickShow/releases/download/1.4.1/ClickShow1_4_1.zip",
+  "homepage": "https://github.com/cuiliang/ClickShow",
+  "category": "tool"
 }

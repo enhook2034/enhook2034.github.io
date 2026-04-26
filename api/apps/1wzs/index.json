@@ -1,0 +1,37 @@
+{
+  "id": "1wzs",
+  "slug": "cherry-studio",
+  "name": "Cherry Studio",
+  "version": "v1.9.3",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Cherry Studio.",
+    "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.3",
+  "homepage": "https://github.com/cherryhq/cherry-studio",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1001042",
+    "author_username": "qi_xing_jk",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.3",
+  "windows_assets": [
+    "Cherry-Studio-1.9.3-arm64-portable.exe",
+    "Cherry-Studio-1.9.3-arm64-setup.exe",
+    "Cherry-Studio-1.9.3-arm64.zip",
+    "Cherry-Studio-1.9.3-arm64.zip.blockmap",
+    "Cherry-Studio-1.9.3-x64-portable.exe",
+    "Cherry-Studio-1.9.3-x64-setup.exe",
+    "Cherry-Studio-1.9.3-x64.zip",
+    "Cherry-Studio-1.9.3-x64.zip.blockmap"
+  ]
+}

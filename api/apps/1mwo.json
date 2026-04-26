@@ -1,0 +1,39 @@
+{
+  "id": "1mwo",
+  "slug": "palaude",
+  "name": "Palaude",
+  "version": "v0.5.1",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Palaude.",
+    "cn": "来自 linux.do 帖子“[开源推广]用GPT5.5开发了一个看动漫的项目”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/wozulong/fuclaude/releases/tag/v0.5.1",
+  "homepage": "https://github.com/wozulong/palaude",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/2054327",
+    "author_username": "BiLo8",
+    "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/bilo8/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/wozulong/fuclaude/releases/tag/v0.5.1",
+  "windows_assets": [
+    "fuclaude-v0.5.1-darwin-amd64-12114b0.zip",
+    "fuclaude-v0.5.1-darwin-arm64-12114b0.zip",
+    "fuclaude-v0.5.1-freebsd-386-12114b0.zip",
+    "fuclaude-v0.5.1-freebsd-amd64-12114b0.zip",
+    "fuclaude-v0.5.1-freebsd-arm-12114b0.zip",
+    "fuclaude-v0.5.1-freebsd-arm64-12114b0.zip",
+    "fuclaude-v0.5.1-linux-386-12114b0.zip",
+    "fuclaude-v0.5.1-linux-amd64-12114b0.zip",
+    "fuclaude-v0.5.1-linux-arm-12114b0.zip",
+    "fuclaude-v0.5.1-linux-arm64-12114b0.zip"
+  ]
+}

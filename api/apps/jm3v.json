@@ -1,0 +1,28 @@
+{
+  "id": "jm3v",
+  "slug": "mdcz",
+  "name": "Mdcz",
+  "version": "v0.9.2",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Mdcz.",
+    "cn": "来自 linux.do 帖子“【开源】日本电影刮削工具 - UI重构的版本更新”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/ShotHeadman/mdcz/releases/tag/v0.9.2",
+  "homepage": "https://github.com/shotheadman/mdcz",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/2059660",
+    "author_username": "momoMessage",
+    "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/momomessage/48/426095_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/ShotHeadman/mdcz/releases/tag/v0.9.2",
+  "windows_assets": "MDCz.0.9.2.exe"
+}

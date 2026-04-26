@@ -1,6 +1,23 @@
 {
   "id": "c8f3",
-  "name": "PixPin",
   "slug": "pixpin",
-  "version": "2.2.4.1"
+  "name": "PixPin",
+  "version": "2.2.4.1",
+  "description": {
+    "en": "Screenshot, screen recording, OCR - a fast and flexible tool.",
+    "cn": "截图、录屏、OCR - 一款快速灵活的工具。"
+  },
+  "source": "xuanli199",
+  "stars": 3200,
+  "updated_at": "2026-04-20T10:15:00Z",
+  "icon": "",
+  "collections_tags": [
+    "screenshot",
+    "ocr",
+    "productivity"
+  ],
+  "download_count": 0,
+  "download_url": "https://download.pixpin.cn/PixPin_cn_zh-cn_2.2.4.1.exe",
+  "homepage": "https://pixpin.cn/",
+  "category": "tool"
 }

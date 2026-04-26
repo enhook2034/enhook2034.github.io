@@ -1,0 +1,31 @@
+{
+  "id": "4xbt",
+  "slug": "manhuagui-downloader",
+  "name": "Manhuagui Downloader",
+  "version": "v0.4.2",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Manhuagui Downloader.",
+    "cn": "来自 linux.do 帖子“漫画柜 manhuagui 下载器，带图形界面”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/tag/v0.4.2",
+  "homepage": "https://github.com/lanyeeee/manhuagui-downloader",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/459372",
+    "author_username": "CatFaceWest",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/tag/v0.4.2",
+  "windows_assets": [
+    "manhuagui-downloader_0.4.2_windows_x64.exe",
+    "manhuagui-downloader_0.4.2_windows_x64_portable.zip"
+  ]
+}

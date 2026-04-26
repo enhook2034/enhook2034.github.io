@@ -8,6 +8,15 @@
       "en": "Remove large amounts of unwanted applications quickly.",
       "cn": "快速卸载大量不需要的应用程序。"
     },
+    "source": "linuxdo",
+    "stars": 4300,
+    "updated_at": "2026-04-10T16:30:00Z",
+    "icon": "",
+    "collections_tags": [
+      "cleanup",
+      "system",
+      "windows"
+    ],
     "download_count": 0,
     "download_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.9/BCUninstaller_5.9.0_setup.exe",
     "homepage": "https://www.bcuninstaller.com/",
@@ -26,6 +35,15 @@
       "en": "A small tool for indicating mouse clicks and mouse position.",
       "cn": "用于提示鼠标点击、鼠标位置的小工具"
     },
+    "source": "xuanli199",
+    "stars": 890,
+    "updated_at": "2026-04-15T09:00:00Z",
+    "icon": "",
+    "collections_tags": [
+      "presentation",
+      "screen",
+      "productivity"
+    ],
     "download_count": 0,
     "download_url": "https://github.com/cuiliang/ClickShow/releases/download/1.4.1/ClickShow1_4_1.zip",
     "homepage": "https://github.com/cuiliang/ClickShow",
@@ -44,6 +62,15 @@
       "en": "A utility to make Windows 11 File Explorer better, with new windows automatically unified.",
       "cn": "让Windows 11的文件浏览器更好用，新开窗口自动统一"
     },
+    "source": "xuanli199",
+    "stars": 670,
+    "updated_at": "2026-03-28T07:20:00Z",
+    "icon": "",
+    "collections_tags": [
+      "file-management",
+      "windows",
+      "workflow"
+    ],
     "download_count": 0,
     "download_url": "https://github.com/w4po/ExplorerTabUtility/releases/download/v2.5.0/ExplorerTabUtility_v2.5.0_x64_Net9.0_FrameworkDependent.zip",
     "homepage": "https://github.com/w4po/ExplorerTabUtility",
@@ -58,6 +85,15 @@
       "en": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
       "cn": "让 KeePassXC 安全地存储您的密码并将其自动填充到您喜欢的应用程序中，这样您就可以完全忘记它们。"
     },
+    "source": "linuxdo",
+    "stars": 5600,
+    "updated_at": "2026-04-22T08:45:00Z",
+    "icon": "",
+    "collections_tags": [
+      "security",
+      "password",
+      "privacy"
+    ],
     "category": "tool",
     "download_count": 0,
     "download_url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.11/KeePassXC-2.7.11-Win64.msi",
@@ -79,6 +115,15 @@
       "en": "This is a powerful knowledge management and note-taking application.",
       "cn": "这是一个强大的知识管理和笔记应用。"
     },
+    "source": "ruanyifeng",
+    "stars": 8500,
+    "updated_at": "2026-04-25T18:30:00Z",
+    "icon": "",
+    "collections_tags": [
+      "knowledge",
+      "notes",
+      "markdown"
+    ],
     "download_count": 0,
     "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe",
     "homepage": "https://obsidian.md/",
@@ -93,6 +138,15 @@
       "en": "Screenshot, screen recording, OCR - a fast and flexible tool.",
       "cn": "截图、录屏、OCR - 一款快速灵活的工具。"
     },
+    "source": "xuanli199",
+    "stars": 3200,
+    "updated_at": "2026-04-20T10:15:00Z",
+    "icon": "",
+    "collections_tags": [
+      "screenshot",
+      "ocr",
+      "productivity"
+    ],
     "download_count": 0,
     "download_url": "https://download.pixpin.cn/PixPin_cn_zh-cn_2.2.4.1.exe",
     "homepage": "https://pixpin.cn/",
@@ -107,6 +161,15 @@
       "en": "A 20-20-20 rule-based eye rest reminder software (Windows), helping you maintain a healthy work status and track your daily eye usage.",
       "cn": "一个基于 20-20-20 规则的用眼休息提醒软件（Windows），帮助你保持健康的工作状态，追踪每天的用眼情况。"
     },
+    "source": "ruanyifeng",
+    "stars": 1200,
+    "updated_at": "2026-04-05T11:00:00Z",
+    "icon": "",
+    "collections_tags": [
+      "health",
+      "focus",
+      "work"
+    ],
     "download_count": 0,
     "download_url": "https://github.com/Planshit/ProjectEye/releases/download/1.4.3/ProjectEye.zip",
     "homepage": "https://github.com/Planshit/ProjectEye",
@@ -121,6 +184,15 @@
       "en": "A powerful and flexible To-Do and time management application, easy to use.",
       "cn": "功能非常强大的ToDo和时间管理应用，用起来非常简单"
     },
+    "source": "ruanyifeng",
+    "stars": 2100,
+    "updated_at": "2026-04-18T14:20:00Z",
+    "icon": "",
+    "collections_tags": [
+      "todo",
+      "time-tracking",
+      "work"
+    ],
     "download_count": 0,
     "download_url": "https://github.com/johannesjo/super-productivity/releases/latest/download/Super-Productivity-Setup.exe",
     "homepage": "https://super-productivity.com/",
@@ -135,6 +207,11 @@
       "en": "Windows XP's Task Manager with more features.",
       "cn": "Windows XP的任务管理器，增加了一些新功能。"
     },
+    "source": "",
+    "stars": 0,
+    "updated_at": "",
+    "icon": "",
+    "collections_tags": [],
     "download_count": 0,
     "download_url": "https://github.com/aubymori/TaskManagerEx/releases/download/1.4.1/TaskManagerEx-v1.4.1.zip",
     "homepage": "https://github.com/aubymori/TaskManagerEx",
@@ -150,9 +227,1335 @@
       "cn": "这是微软出品的代码编辑器。"
     },
     "publisher": "Microsoft",
+    "source": "linuxdo",
+    "stars": 11200,
+    "updated_at": "2026-04-26T02:00:00Z",
+    "icon": "",
+    "collections_tags": [
+      "editor",
+      "developer",
+      "workflow"
+    ],
     "download_count": 0,
     "download_url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
     "homepage": "https://code.visualstudio.com/",
     "category": "create"
+  },
+  {
+    "id": "5tc5",
+    "slug": "all-api-hub",
+    "name": "All Api Hub",
+    "version": "v3.34.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: All Api Hub.",
+      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/qixing-jk/all-api-hub/releases/tag/v3.34.0",
+    "homepage": "https://github.com/qixing-jk/all-api-hub",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1001042",
+      "author_username": "qi_xing_jk",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/qixing-jk/all-api-hub/releases/tag/v3.34.0",
+    "windows_assets": [
+      "all-api-hub-3.34.0-chrome.zip",
+      "all-api-hub-3.34.0-firefox.zip",
+      "all-api-hub-3.34.0-safari-xcode-bundle.zip",
+      "all-api-hub-3.34.0-safari.zip",
+      "all-api-hub-3.34.0-sources.zip"
+    ]
+  },
+  {
+    "id": "141o",
+    "slug": "veloera",
+    "name": "Veloera",
+    "version": "v0.5.12",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Veloera.",
+      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Veloera/Veloera/releases/tag/v0.5.12",
+    "homepage": "https://github.com/veloera/veloera",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1001042",
+      "author_username": "qi_xing_jk",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/Veloera/Veloera/releases/tag/v0.5.12",
+    "windows_assets": "veloera-windows.exe"
+  },
+  {
+    "id": "rhug",
+    "slug": "done-hub",
+    "name": "Done Hub",
+    "version": "v1.20.39",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Done Hub.",
+      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/deanxv/done-hub/releases/tag/v1.20.39",
+    "homepage": "https://github.com/deanxv/done-hub",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1001042",
+      "author_username": "qi_xing_jk",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/deanxv/done-hub/releases/tag/v1.20.39",
+    "windows_assets": "done-hub.exe"
+  },
+  {
+    "id": "9xvb",
+    "slug": "one-hub",
+    "name": "One Hub",
+    "version": "v0.14.27",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: One Hub.",
+      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",
+    "homepage": "https://github.com/martialbe/one-hub",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1001042",
+      "author_username": "qi_xing_jk",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",
+    "windows_assets": "one-api.exe"
+  },
+  {
+    "id": "1wzs",
+    "slug": "cherry-studio",
+    "name": "Cherry Studio",
+    "version": "v1.9.3",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Cherry Studio.",
+      "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.3",
+    "homepage": "https://github.com/cherryhq/cherry-studio",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1001042",
+      "author_username": "qi_xing_jk",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.3",
+    "windows_assets": [
+      "Cherry-Studio-1.9.3-arm64-portable.exe",
+      "Cherry-Studio-1.9.3-arm64-setup.exe",
+      "Cherry-Studio-1.9.3-arm64.zip",
+      "Cherry-Studio-1.9.3-arm64.zip.blockmap",
+      "Cherry-Studio-1.9.3-x64-portable.exe",
+      "Cherry-Studio-1.9.3-x64-setup.exe",
+      "Cherry-Studio-1.9.3-x64.zip",
+      "Cherry-Studio-1.9.3-x64.zip.blockmap"
+    ]
+  },
+  {
+    "id": "11kt",
+    "slug": "ccpane",
+    "name": "Ccpane",
+    "version": "v0.9.37",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Ccpane.",
+      "cn": "来自 linux.do 帖子“CC-Panes：Claude/codex cli 多实例分屏牛马工作流，转为超级个体打造的开发工具。”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",
+    "homepage": "https://github.com/wuxiran/ccpane",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1692336",
+      "author_username": "wuxiran01",
+      "author_avatar_url": "https://cdn.linux.do/letter_avatar/wuxiran01/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",
+    "windows_assets": [
+      "cc-panes_0.9.37_arm64-setup.exe",
+      "cc-panes_0.9.37_arm64-setup.exe.sig",
+      "cc-panes_0.9.37_x64-setup.exe",
+      "cc-panes_0.9.37_x64-setup.exe.sig"
+    ]
+  },
+  {
+    "id": "xaxv",
+    "slug": "codex-manager",
+    "name": "Codex Manager",
+    "version": "v0.2.5",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Codex Manager.",
+      "cn": "来自 linux.do 帖子“CodexManager(Codex网关)开源保姆级别配置说明”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.2.5",
+    "homepage": "https://github.com/qxcnm/codex-manager",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1688401",
+      "author_username": "qxnm",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qxnm/48/1352128_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.2.5",
+    "windows_assets": [
+      "CodexManager-linux-portable.zip",
+      "CodexManager-macos-portable.zip",
+      "CodexManager-portable.exe",
+      "CodexManager-service-linux-x86_64.zip",
+      "CodexManager-service-macos-arm64.zip",
+      "CodexManager-service-macos-x64.zip",
+      "CodexManager-service-windows-x86_64.zip",
+      "CodexManager-web-linux-x86_64.zip",
+      "CodexManager_0.2.5_x64-setup.exe"
+    ]
+  },
+  {
+    "id": "jwe6",
+    "slug": "tactus",
+    "name": "Tactus",
+    "version": "v1.3.3",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Tactus.",
+      "cn": "来自 linux.do 帖子“Tactus V1.2.0 更新：上线官网（Skills 广场）、御三家模型齐活、预设快捷操作、标签页锁定”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Castor6/tactus/releases/tag/v1.3.3",
+    "homepage": "https://github.com/castor6/tactus",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1684094",
+      "author_username": "castor",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/castor/48/1037177_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/Castor6/tactus/releases/tag/v1.3.3",
+    "windows_assets": [
+      "tactus-1.3.3-chrome.zip",
+      "tactus-1.3.3-firefox.zip"
+    ]
+  },
+  {
+    "id": "a508",
+    "slug": "cc-desktop-zh-cn-win-portable",
+    "name": "CC Desktop Zh Cn WIN Portable",
+    "version": "v0.1.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: CC Desktop Zh Cn WIN Portable.",
+      "cn": "来自 linux.do 帖子“Windows 版本的 Claude Desktop 绿色中文汉化的脚本”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.1.0",
+    "homepage": "https://github.com/fomo-run/cc-desktop-zh-cn-win-portable",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2054504",
+      "author_username": "OnlyAIGC",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/onlyaigc/48/1060671_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.1.0",
+    "windows_assets": [
+      "CC-desktop-zh-cn-WIN-portable-v0.1.0.zip",
+      "CC-desktop-zh-cn-WIN-portable-v0.1.0.zip.sha256"
+    ]
+  },
+  {
+    "id": "1lv7",
+    "slug": "sqlearner",
+    "name": "Sqlearner",
+    "version": "v0.4.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Sqlearner.",
+      "cn": "来自 linux.do 帖子“[开源]SQLearner：本地运行的自学&amp;练习SQL的小软件”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/AperturePlus/sqlearner/releases/tag/v0.4.0",
+    "homepage": "https://github.com/apertureplus/sqlearner",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1637578",
+      "author_username": "leetype",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/leetype/48/1707421_2.gif"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/AperturePlus/sqlearner/releases/tag/v0.4.0",
+    "windows_assets": "Lite-SQLearner-0.2.0-Setup-x64.exe"
+  },
+  {
+    "id": "7f45",
+    "slug": "sublinkpro",
+    "name": "sublinkPro",
+    "version": "v1.1.8",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: sublinkPro.",
+      "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.8",
+    "homepage": "https://github.com/zerodeng01/sublinkpro",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1211797",
+      "author_username": "ZeroDeng",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.8",
+    "windows_assets": "sublinkPro-windows-amd64.exe"
+  },
+  {
+    "id": "c5br",
+    "slug": "bestsub",
+    "name": "BestSub",
+    "version": "v1.8.7",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: BestSub.",
+      "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/bestruirui/BestSub/releases/tag/v1.8.7",
+    "homepage": "https://github.com/bestruirui/bestsub",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1211797",
+      "author_username": "ZeroDeng",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/bestruirui/BestSub/releases/tag/v1.8.7",
+    "windows_assets": [
+      "bestsub-darwin-arm64.zip",
+      "bestsub-darwin-x86_64.zip",
+      "bestsub-linux-arm64.zip",
+      "bestsub-linux-armv7.zip",
+      "bestsub-linux-x86.zip",
+      "bestsub-linux-x86_64.zip",
+      "bestsub-windows-x86.zip",
+      "bestsub-windows-x86_64.zip"
+    ]
+  },
+  {
+    "id": "1mwo",
+    "slug": "palaude",
+    "name": "Palaude",
+    "version": "v0.5.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Palaude.",
+      "cn": "来自 linux.do 帖子“[开源推广]用GPT5.5开发了一个看动漫的项目”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/wozulong/fuclaude/releases/tag/v0.5.1",
+    "homepage": "https://github.com/wozulong/palaude",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2054327",
+      "author_username": "BiLo8",
+      "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/bilo8/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/wozulong/fuclaude/releases/tag/v0.5.1",
+    "windows_assets": [
+      "fuclaude-v0.5.1-darwin-amd64-12114b0.zip",
+      "fuclaude-v0.5.1-darwin-arm64-12114b0.zip",
+      "fuclaude-v0.5.1-freebsd-386-12114b0.zip",
+      "fuclaude-v0.5.1-freebsd-amd64-12114b0.zip",
+      "fuclaude-v0.5.1-freebsd-arm-12114b0.zip",
+      "fuclaude-v0.5.1-freebsd-arm64-12114b0.zip",
+      "fuclaude-v0.5.1-linux-386-12114b0.zip",
+      "fuclaude-v0.5.1-linux-amd64-12114b0.zip",
+      "fuclaude-v0.5.1-linux-arm-12114b0.zip",
+      "fuclaude-v0.5.1-linux-arm64-12114b0.zip"
+    ]
+  },
+  {
+    "id": "1hyc",
+    "slug": "animex",
+    "name": "AnimeX",
+    "version": "v0.1.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: AnimeX.",
+      "cn": "来自 linux.do 帖子“[开源推广]用GPT5.5开发了一个看动漫的项目”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/YinBuLiao/AnimeX/releases/tag/v0.1.1",
+    "homepage": "https://github.com/yinbuliao/animex",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2054327",
+      "author_username": "BiLo8",
+      "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/bilo8/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/YinBuLiao/AnimeX/releases/tag/v0.1.1",
+    "windows_assets": "bangumi-pikpak-20260425-161836-windows-amd64.zip"
+  },
+  {
+    "id": "1b50",
+    "slug": "hitomi-downloader",
+    "name": "Hitomi Downloader",
+    "version": "v0.1.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Hitomi Downloader.",
+      "cn": "来自 linux.do 帖子“hitomi hitomi.la 下载器，带图形界面，简单易用”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/hitomi-downloader/releases/tag/v0.1.0",
+    "homepage": "https://github.com/lanyeeee/hitomi-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/770750",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/hitomi-downloader/releases/tag/v0.1.0",
+    "windows_assets": [
+      "hitomi-downloader_0.1.0_windows_x64.exe",
+      "hitomi-downloader_0.1.0_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "1h9f",
+    "slug": "kindlelocalsend",
+    "name": "KindleLocalSend",
+    "version": "1.10",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: KindleLocalSend.",
+      "cn": "来自 linux.do 帖子“vibe coding写了个kindle无线传书工具(需要越狱)”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
+    "homepage": "https://github.com/que01/kindlelocalsend",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2056548",
+      "author_username": "que01",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/que01/48/1165759_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
+    "windows_assets": "KindleLocalSend-package.zip"
+  },
+  {
+    "id": "1r5v",
+    "slug": "syncnos",
+    "name": "SyncNos",
+    "version": "v1.6.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: SyncNos.",
+      "cn": "来自 linux.do 帖子“【SyncNos开源】【v1.4.0，支持在网页文章中做评论笔记（类似高亮笔记）！】—— 自动保存AI对话、文章剪藏，并且可以增量同步到 Notion、Obsidian，支持11+AI对话平台”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.1",
+    "homepage": "https://github.com/chiimagnus/syncnos",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1635410",
+      "author_username": "hawki",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/hawki/48/996813_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.1",
+    "windows_assets": [
+      "syncnos-webclipper-chrome-v1.6.1.zip",
+      "syncnos-webclipper-edge-v1.6.1.zip"
+    ]
+  },
+  {
+    "id": "unnr",
+    "slug": "openclaw",
+    "name": "Openclaw",
+    "version": "v2026.4.24",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Openclaw.",
+      "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",
+    "homepage": "https://github.com/openclaw/openclaw",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1709670",
+      "author_username": "XiaoHuang",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",
+    "windows_assets": [
+      "OpenClaw-2026.4.24.dSYM.zip",
+      "OpenClaw-2026.4.24.zip"
+    ]
+  },
+  {
+    "id": "zcza",
+    "slug": "golutra",
+    "name": "Golutra",
+    "version": "v0.2.4",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Golutra.",
+      "cn": "来自 linux.do 帖子“【开源】基于OpenClaw实现Agent自组织、自修复、自进化的能力OpenMOSS（含实际成果）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/golutra/golutra/releases/tag/v0.2.4",
+    "homepage": "https://github.com/golutra/golutra",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1709670",
+      "author_username": "XiaoHuang",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/golutra/golutra/releases/tag/v0.2.4",
+    "windows_assets": [
+      "golutra_windows_aarch64.msi",
+      "golutra_windows_aarch64.msi.sig",
+      "golutra_windows_x86_64.msi",
+      "golutra_windows_x86_64.msi.sig"
+    ]
+  },
+  {
+    "id": "jm3v",
+    "slug": "mdcz",
+    "name": "Mdcz",
+    "version": "v0.9.2",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Mdcz.",
+      "cn": "来自 linux.do 帖子“【开源】日本电影刮削工具 - UI重构的版本更新”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/ShotHeadman/mdcz/releases/tag/v0.9.2",
+    "homepage": "https://github.com/shotheadman/mdcz",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2059660",
+      "author_username": "momoMessage",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/momomessage/48/426095_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/ShotHeadman/mdcz/releases/tag/v0.9.2",
+    "windows_assets": "MDCz.0.9.2.exe"
+  },
+  {
+    "id": "ylen",
+    "slug": "openflare",
+    "name": "OpenFlare",
+    "version": "v1.5.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: OpenFlare.",
+      "cn": "来自 linux.do 帖子“【开源更新】自建CDN用来加速网站, 支持 POW 保护网站”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Rain-kl/OpenFlare/releases/tag/v1.5.0",
+    "homepage": "https://github.com/rain-kl/openflare",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2058533",
+      "author_username": "Wyrm",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/wyrm/48/428410_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/Rain-kl/OpenFlare/releases/tag/v1.5.0",
+    "windows_assets": "openflare-server-windows-amd64.exe"
+  },
+  {
+    "id": "1k3c",
+    "slug": "mineru2ppt",
+    "name": "MinerU2PPT",
+    "version": "v2.0.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: MinerU2PPT.",
+      "cn": "来自 linux.do 帖子“【开源自荐】gpt-image2-ppt-skills：丢一张 .pptx 模板进去，AI 仿版式换内容”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/JuniverseCoder/MinerU2PPT/releases/tag/v2.0.0",
+    "homepage": "https://github.com/juniversecoder/mineru2ppt",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2053515",
+      "author_username": "JLL6",
+      "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/jll6/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/JuniverseCoder/MinerU2PPT/releases/tag/v2.0.0",
+    "windows_assets": [
+      "MinerU2PPT-win64-cpu-setup.exe",
+      "MinerU2PPT-win64-gpu-cu118-setup.exe",
+      "MinerU2PPT-win64-gpu-cu126-setup.exe",
+      "MinerU2PPT-win64-gpu-cu129-setup.exe"
+    ]
+  },
+  {
+    "id": "28w7",
+    "slug": "sam3-an",
+    "name": "Sam3 AN",
+    "version": "V1.1.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Sam3 AN.",
+      "cn": "来自 linux.do 帖子“【开源自荐】基于Meta SAM3 的智能数据标注工具------支持提示词批量标注【YOLO格式+coco格式导出】”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/fivif/Sam3-AN/releases/tag/V1.1.0",
+    "homepage": "https://github.com/fivif/sam3-an",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1306118",
+      "author_username": "fivif",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/fivif/48/1274003_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/fivif/Sam3-AN/releases/tag/V1.1.0",
+    "windows_assets": "Sam3.AN.zip"
+  },
+  {
+    "id": "1wsi",
+    "slug": "skills-dock",
+    "name": "Skills Dock",
+    "version": "v0.1.14",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Skills Dock.",
+      "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.14",
+    "homepage": "https://github.com/1lck/skills-dock",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2054419",
+      "author_username": "lick",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/lick/48/1622015_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.14",
+    "windows_assets": [
+      "Skills.Dock_0.1.14_x64-setup.exe",
+      "Skills.Dock_0.1.14_x64-setup.exe.sig",
+      "Skills.Dock_0.1.14_x64_en-US.msi",
+      "Skills.Dock_0.1.14_x64_en-US.msi.sig"
+    ]
+  },
+  {
+    "id": "1x97",
+    "slug": "skill-flow",
+    "name": "Skill Flow",
+    "version": "v1.3.5",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Skill Flow.",
+      "cn": "来自 linux.do 帖子“【开源自荐】自己开发了一个便于管理/下载/整理多个ai ide的skill管理工具，求各位大佬指点～”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/VintLin/skill-flow/releases/tag/v1.3.5",
+    "homepage": "https://github.com/vintlin/skill-flow",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2054419",
+      "author_username": "lick",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/lick/48/1622015_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/VintLin/skill-flow/releases/tag/v1.3.5",
+    "windows_assets": [
+      "Skill-Flow-arm64.zip",
+      "Skill-Flow-universal.zip",
+      "Skill-Flow-x86_64.zip"
+    ]
+  },
+  {
+    "id": "1pea",
+    "slug": "myclaude",
+    "name": "Myclaude",
+    "version": "v6.8.2",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Myclaude.",
+      "cn": "来自 linux.do 帖子“【补档】CCG v2.1.1 : Claude Code 编排三 CLI 协作 | Codex + Gemini + Claude | 加入多种实用skills”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/stellarlinkco/myclaude/releases/tag/v6.8.2",
+    "homepage": "https://github.com/cexll/myclaude",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1710380",
+      "author_username": "feng_li",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/feng_li/48/1642003_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/stellarlinkco/myclaude/releases/tag/v6.8.2",
+    "windows_assets": [
+      "codeagent-wrapper-windows-amd64.exe",
+      "codeagent-wrapper-windows-arm64.exe"
+    ]
+  },
+  {
+    "id": "1lmt",
+    "slug": "ai-toolbox",
+    "name": "Ai Toolbox",
+    "version": "v0.8.6",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Ai Toolbox.",
+      "cn": "来自 linux.do 帖子“写了个 OpenCode 插件：再也不用手动维护模型参数了”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.6",
+    "homepage": "https://github.com/coulsontl/ai-toolbox",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/2055664",
+      "author_username": "baran",
+      "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/baran/48/1758328_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.6",
+    "windows_assets": [
+      "AI.Toolbox_0.8.6_x64-setup.exe",
+      "AI.Toolbox_0.8.6_x64-setup.exe.sig",
+      "AI.Toolbox_0.8.6_x64_en-US.msi",
+      "AI.Toolbox_0.8.6_x64_en-US.msi.sig"
+    ]
+  },
+  {
+    "id": "bhrd",
+    "slug": "subrenamer",
+    "name": "SubRenamer",
+    "version": "v2.4.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: SubRenamer.",
+      "cn": "来自 linux.do 帖子“十几个扩展和脚本推荐（附介绍和链接）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",
+    "homepage": "https://github.com/qwqcode/subrenamer",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1334842",
+      "author_username": "uoht",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",
+    "windows_assets": [
+      "SubRenamer_macos_amd64.zip",
+      "SubRenamer_macos_arm64.zip",
+      "SubRenamer_windows_amd64.zip"
+    ]
+  },
+  {
+    "id": "v44q",
+    "slug": "bbdown",
+    "name": "BBDown",
+    "version": "1.6.3",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: BBDown.",
+      "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/nilaoda/BBDown/releases/tag/1.6.3",
+    "homepage": "https://github.com/nilaoda/bbdown",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/953272",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/nilaoda/BBDown/releases/tag/1.6.3",
+    "windows_assets": [
+      "BBDown_1.6.3_20240814_linux-arm64.zip",
+      "BBDown_1.6.3_20240814_linux-x64.zip",
+      "BBDown_1.6.3_20240814_osx-arm64.zip",
+      "BBDown_1.6.3_20240814_osx-x64.zip",
+      "BBDown_1.6.3_20240814_win-arm64.zip",
+      "BBDown_1.6.3_20240814_win-x64.zip"
+    ]
+  },
+  {
+    "id": "1x4c",
+    "slug": "bili23-downloader",
+    "name": "Bili23 Downloader",
+    "version": "v2.00.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Bili23 Downloader.",
+      "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.00.1",
+    "homepage": "https://github.com/scottsloan/bili23-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/953272",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.00.1",
+    "windows_assets": [
+      "Bili23-Downloader_2.00.1_windows_x64.exe",
+      "Bili23-Downloader_2.00.1_windows_x64_for_win7.exe",
+      "Bili23-Downloader_2.00.1_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "rgzb",
+    "slug": "bilibili-video-downloader",
+    "name": "Bilibili Video Downloader",
+    "version": "v0.2.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Bilibili Video Downloader.",
+      "cn": "来自 linux.do 帖子“可能是全网最好用的 B站 bilibili 视频下载器，带图形界面”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/bilibili-video-downloader/releases/tag/v0.2.0",
+    "homepage": "https://github.com/lanyeeee/bilibili-video-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/953272",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/bilibili-video-downloader/releases/tag/v0.2.0",
+    "windows_assets": [
+      "bilibili-video-downloader_0.2.0_windows_x64.exe",
+      "bilibili-video-downloader_0.2.0_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "1lc9",
+    "slug": "picacomic-downloader",
+    "name": "Picacomic Downloader",
+    "version": "v0.8.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Picacomic Downloader.",
+      "cn": "来自 linux.do 帖子“哔咔漫画 PicACG 下载器，带图形界面，支持多线程下载”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/picacomic-downloader/releases/tag/v0.8.0",
+    "homepage": "https://github.com/lanyeeee/picacomic-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/211581",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/picacomic-downloader/releases/tag/v0.8.0",
+    "windows_assets": [
+      "picacomic-downloader_0.8.0_windows_x64.exe",
+      "picacomic-downloader_0.8.0_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "1h6c",
+    "slug": "bilibili-manga-watermark-remover",
+    "name": "Bilibili Manga Watermark Remover",
+    "version": "v0.10.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Bilibili Manga Watermark Remover.",
+      "cn": "来自 linux.do 帖子“哔哩哔哩漫画下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/bilibili-manga-watermark-remover/releases/tag/v0.10.0",
+    "homepage": "https://github.com/lanyeeee/bilibili-manga-watermark-remover",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/242058",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/bilibili-manga-watermark-remover/releases/tag/v0.10.0",
+    "windows_assets": [
+      "bilibili-manga-watermark-remover_0.10.0_windows_x64.exe",
+      "bilibili-manga-watermark-remover_0.10.0_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "1a2i",
+    "slug": "bilibili-manga-downloader",
+    "name": "BiliBili Manga Downloader",
+    "version": "v1.5.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: BiliBili Manga Downloader.",
+      "cn": "来自 linux.do 帖子“哔哩哔哩漫画去水印工具，无损、无痕”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/tag/v1.5.1",
+    "homepage": "https://github.com/zeal-l/bilibili-manga-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/164088",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/tag/v1.5.1",
+    "windows_assets": [
+      "BiliBili-Manga-Downloader_MacOS_arm64.zip",
+      "BiliBili-Manga-Downloader_windows_amd64.zip"
+    ]
+  },
+  {
+    "id": "1ih6",
+    "slug": "copymanga-downloader",
+    "name": "Copymanga Downloader",
+    "version": "v0.12.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Copymanga Downloader.",
+      "cn": "来自 linux.do 帖子“拷贝漫画 copymanga 下载器，带图形界面”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/copymanga-downloader/releases/tag/v0.12.0",
+    "homepage": "https://github.com/lanyeeee/copymanga-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/268407",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/copymanga-downloader/releases/tag/v0.12.0",
+    "windows_assets": [
+      "copymanga-downloader_0.12.0_windows_x64.exe",
+      "copymanga-downloader_0.12.0_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "4xbt",
+    "slug": "manhuagui-downloader",
+    "name": "Manhuagui Downloader",
+    "version": "v0.4.2",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Manhuagui Downloader.",
+      "cn": "来自 linux.do 帖子“漫画柜 manhuagui 下载器，带图形界面”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/tag/v0.4.2",
+    "homepage": "https://github.com/lanyeeee/manhuagui-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/459372",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/tag/v0.4.2",
+    "windows_assets": [
+      "manhuagui-downloader_0.4.2_windows_x64.exe",
+      "manhuagui-downloader_0.4.2_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "1n0b",
+    "slug": "jmcomic-downloader",
+    "name": "Jmcomic Downloader",
+    "version": "v0.17.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Jmcomic Downloader.",
+      "cn": "来自 linux.do 帖子“禁漫天堂 jm 下载器，带图形界面，免费下载收费的漫画”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/jmcomic-downloader/releases/tag/v0.17.0",
+    "homepage": "https://github.com/lanyeeee/jmcomic-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/220034",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/jmcomic-downloader/releases/tag/v0.17.0",
+    "windows_assets": [
+      "jmcomic-downloader_0.17.0_windows_x64.exe",
+      "jmcomic-downloader_0.17.0_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "1lgl",
+    "slug": "wnacg-downloader",
+    "name": "Wnacg Downloader",
+    "version": "v0.5.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Wnacg Downloader.",
+      "cn": "来自 linux.do 帖子“绅士漫画 wnacg 下载器，带图形界面，下载速度飞快”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/lanyeeee/wnacg-downloader/releases/tag/v0.5.1",
+    "homepage": "https://github.com/lanyeeee/wnacg-downloader",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/506755",
+      "author_username": "CatFaceWest",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/catfacewest/96/620500_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/lanyeeee/wnacg-downloader/releases/tag/v0.5.1",
+    "windows_assets": [
+      "wnacg-downloader_0.5.1_windows_x64.exe",
+      "wnacg-downloader_0.5.1_windows_x64_portable.zip"
+    ]
+  },
+  {
+    "id": "olvt",
+    "slug": "catime",
+    "name": "Catime",
+    "version": "v1.4.0",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Catime.",
+      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/vladelaina/Catime/releases/tag/v1.4.0",
+    "homepage": "https://github.com/vladelaina/catime",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1587558",
+      "author_username": "uoht",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/vladelaina/Catime/releases/tag/v1.4.0",
+    "windows_assets": "catime_1.4.0.exe"
+  },
+  {
+    "id": "23ae",
+    "slug": "magpie",
+    "name": "Magpie",
+    "version": "v0.12.1",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Magpie.",
+      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Blinue/Magpie/releases/tag/v0.12.1",
+    "homepage": "https://github.com/blinue/magpie",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1587558",
+      "author_username": "uoht",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/Blinue/Magpie/releases/tag/v0.12.1",
+    "windows_assets": [
+      "Magpie-v0.12.1-ARM64.zip",
+      "Magpie-v0.12.1-x64.zip"
+    ]
+  },
+  {
+    "id": "1xq8",
+    "slug": "qkeymapper",
+    "name": "QKeyMapper",
+    "version": "v1.3.8.20260424",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: QKeyMapper.",
+      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Zalafina/QKeyMapper/releases/tag/v1.3.8.20260424",
+    "homepage": "https://github.com/zalafina/qkeymapper",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1587558",
+      "author_username": "uoht",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/Zalafina/QKeyMapper/releases/tag/v1.3.8.20260424",
+    "windows_assets": [
+      "QKeyMapper_v1.3.8.20260424_Qt5_x64.zip",
+      "QKeyMapper_v1.3.8.20260424_Qt5_x86.zip",
+      "QKeyMapper_v1.3.8.20260424_Qt6_x64.zip"
+    ]
+  },
+  {
+    "id": "1vuy",
+    "slug": "umi-ocr",
+    "name": "Umi OCR",
+    "version": "v2.1.5",
+    "description": {
+      "en": "A Windows open-source project collected from linux.do: Umi OCR.",
+      "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+    },
+    "stars": 0,
+    "updated_at": "2026-04-26T09:53:50Z",
+    "icon": "",
+    "collections_tags": [
+      "linuxdo"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/hiroi-sora/Umi-OCR/releases/tag/v2.1.5",
+    "homepage": "https://github.com/hiroi-sora/umi-ocr",
+    "category": "tool",
+    "linuxdo": {
+      "post_url": "https://linux.do/t/topic/1587558",
+      "author_username": "uoht",
+      "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+    },
+    "source": "linuxdo",
+    "release_url": "https://github.com/hiroi-sora/Umi-OCR/releases/tag/v2.1.5",
+    "windows_assets": [
+      "Umi-OCR_Paddle_v2.1.5.7z.exe",
+      "Umi-OCR_Rapid_v2.1.5.7z.exe"
+    ]
   }
 ]

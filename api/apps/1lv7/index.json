@@ -1,0 +1,28 @@
+{
+  "id": "1lv7",
+  "slug": "sqlearner",
+  "name": "Sqlearner",
+  "version": "v0.4.0",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Sqlearner.",
+    "cn": "来自 linux.do 帖子“[开源]SQLearner：本地运行的自学&amp;练习SQL的小软件”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/AperturePlus/sqlearner/releases/tag/v0.4.0",
+  "homepage": "https://github.com/apertureplus/sqlearner",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1637578",
+    "author_username": "leetype",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/leetype/48/1707421_2.gif"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/AperturePlus/sqlearner/releases/tag/v0.4.0",
+  "windows_assets": "Lite-SQLearner-0.2.0-Setup-x64.exe"
+}

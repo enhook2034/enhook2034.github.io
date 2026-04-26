@@ -1,0 +1,33 @@
+{
+  "id": "11kt",
+  "slug": "ccpane",
+  "name": "Ccpane",
+  "version": "v0.9.37",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Ccpane.",
+    "cn": "来自 linux.do 帖子“CC-Panes：Claude/codex cli 多实例分屏牛马工作流，转为超级个体打造的开发工具。”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",
+  "homepage": "https://github.com/wuxiran/ccpane",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1692336",
+    "author_username": "wuxiran01",
+    "author_avatar_url": "https://cdn.linux.do/letter_avatar/wuxiran01/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",
+  "windows_assets": [
+    "cc-panes_0.9.37_arm64-setup.exe",
+    "cc-panes_0.9.37_arm64-setup.exe.sig",
+    "cc-panes_0.9.37_x64-setup.exe",
+    "cc-panes_0.9.37_x64-setup.exe.sig"
+  ]
+}

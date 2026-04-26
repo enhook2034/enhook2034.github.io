@@ -1,6 +1,27 @@
 {
   "id": "1767",
-  "name": "ExplorerTabUtility",
   "slug": "explorer-tab-utility",
-  "version": "2.5.0"
+  "name": "ExplorerTabUtility",
+  "version": "2.5.0",
+  "size": "831 KB",
+  "publisher": "w4po",
+  "license": "Free",
+  "screenshots": [],
+  "description": {
+    "en": "A utility to make Windows 11 File Explorer better, with new windows automatically unified.",
+    "cn": "让Windows 11的文件浏览器更好用，新开窗口自动统一"
+  },
+  "source": "xuanli199",
+  "stars": 670,
+  "updated_at": "2026-03-28T07:20:00Z",
+  "icon": "",
+  "collections_tags": [
+    "file-management",
+    "windows",
+    "workflow"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/w4po/ExplorerTabUtility/releases/download/v2.5.0/ExplorerTabUtility_v2.5.0_x64_Net9.0_FrameworkDependent.zip",
+  "homepage": "https://github.com/w4po/ExplorerTabUtility",
+  "category": "create"
 }

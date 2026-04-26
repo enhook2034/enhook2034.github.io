@@ -1,0 +1,32 @@
+{
+  "id": "bhrd",
+  "slug": "subrenamer",
+  "name": "SubRenamer",
+  "version": "v2.4.0",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: SubRenamer.",
+    "cn": "来自 linux.do 帖子“十几个扩展和脚本推荐（附介绍和链接）”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",
+  "homepage": "https://github.com/qwqcode/subrenamer",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1334842",
+    "author_username": "uoht",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",
+  "windows_assets": [
+    "SubRenamer_macos_amd64.zip",
+    "SubRenamer_macos_arm64.zip",
+    "SubRenamer_windows_amd64.zip"
+  ]
+}

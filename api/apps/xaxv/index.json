@@ -1,0 +1,38 @@
+{
+  "id": "xaxv",
+  "slug": "codex-manager",
+  "name": "Codex Manager",
+  "version": "v0.2.5",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Codex Manager.",
+    "cn": "来自 linux.do 帖子“CodexManager(Codex网关)开源保姆级别配置说明”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.2.5",
+  "homepage": "https://github.com/qxcnm/codex-manager",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1688401",
+    "author_username": "qxnm",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qxnm/48/1352128_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.2.5",
+  "windows_assets": [
+    "CodexManager-linux-portable.zip",
+    "CodexManager-macos-portable.zip",
+    "CodexManager-portable.exe",
+    "CodexManager-service-linux-x86_64.zip",
+    "CodexManager-service-macos-arm64.zip",
+    "CodexManager-service-macos-x64.zip",
+    "CodexManager-service-windows-x86_64.zip",
+    "CodexManager-web-linux-x86_64.zip",
+    "CodexManager_0.2.5_x64-setup.exe"
+  ]
+}

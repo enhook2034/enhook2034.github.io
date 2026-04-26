@@ -1,0 +1,31 @@
+{
+  "id": "1vuy",
+  "slug": "umi-ocr",
+  "name": "Umi OCR",
+  "version": "v2.1.5",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: Umi OCR.",
+    "cn": "来自 linux.do 帖子“软件与不限速的下载站推荐（附介绍和链接）”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/hiroi-sora/Umi-OCR/releases/tag/v2.1.5",
+  "homepage": "https://github.com/hiroi-sora/umi-ocr",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1587558",
+    "author_username": "uoht",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/hiroi-sora/Umi-OCR/releases/tag/v2.1.5",
+  "windows_assets": [
+    "Umi-OCR_Paddle_v2.1.5.7z.exe",
+    "Umi-OCR_Rapid_v2.1.5.7z.exe"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9xvb",
+  "slug": "one-hub",
+  "name": "One Hub",
+  "version": "v0.14.27",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: One Hub.",
+    "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",
+  "homepage": "https://github.com/martialbe/one-hub",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1001042",
+    "author_username": "qi_xing_jk",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",
+  "windows_assets": "one-api.exe"
+}

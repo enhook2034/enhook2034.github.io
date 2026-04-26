@@ -1,0 +1,37 @@
+{
+  "id": "c5br",
+  "slug": "bestsub",
+  "name": "BestSub",
+  "version": "v1.8.7",
+  "description": {
+    "en": "A Windows open-source project collected from linux.do: BestSub.",
+    "cn": "来自 linux.do 帖子“[开源]白嫖用户可用的一款订阅节点自动测速和高级筛选工具”的 Windows 开源项目。"
+  },
+  "stars": 0,
+  "updated_at": "2026-04-26T09:53:50Z",
+  "icon": "",
+  "collections_tags": [
+    "linuxdo"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/bestruirui/BestSub/releases/tag/v1.8.7",
+  "homepage": "https://github.com/bestruirui/bestsub",
+  "category": "tool",
+  "linuxdo": {
+    "post_url": "https://linux.do/t/topic/1211797",
+    "author_username": "ZeroDeng",
+    "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
+  },
+  "source": "linuxdo",
+  "release_url": "https://github.com/bestruirui/BestSub/releases/tag/v1.8.7",
+  "windows_assets": [
+    "bestsub-darwin-arm64.zip",
+    "bestsub-darwin-x86_64.zip",
+    "bestsub-linux-arm64.zip",
+    "bestsub-linux-armv7.zip",
+    "bestsub-linux-x86.zip",
+    "bestsub-linux-x86_64.zip",
+    "bestsub-windows-x86.zip",
+    "bestsub-windows-x86_64.zip"
+  ]
+}
