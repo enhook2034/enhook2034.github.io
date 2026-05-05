@@ -1,0 +1,25 @@
+{
+  "id": "7bdf",
+  "slug": "ice",
+  "name": "Ice",
+  "version": "0.11.12",
+  "description": {
+    "en": "Powerful menu bar manager for macOS",
+    "cn": "macOS 菜单栏管理工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2024-10-29T19:29:03Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/jordanbaird/Ice/releases/download/0.11.12/Ice.zip",
+  "homepage": "https://github.com/jordanbaird/Ice",
+  "category": "tool",
+  "windows_assets": [
+    "Ice.zip"
+  ],
+  "release_url": "https://github.com/jordanbaird/Ice/releases/tag/0.11.12"
+}

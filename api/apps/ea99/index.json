@@ -1,0 +1,26 @@
+{
+  "id": "ea99",
+  "slug": "servo",
+  "name": "servo",
+  "version": "0.1.0",
+  "description": {
+    "en": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "cn": "Servo 浏览器引擎  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-13T11:27:39Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/servo/servo/releases/download/v0.1.0/servo-x86_64-windows-msvc.exe",
+  "homepage": "https://github.com/servo/servo",
+  "category": "tool",
+  "windows_assets": [
+    "servo-x86_64-windows-msvc.exe",
+    "servo-x86_64-windows-msvc.zip"
+  ],
+  "release_url": "https://github.com/servo/servo/releases/tag/v0.1.0"
+}

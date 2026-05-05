@@ -1,0 +1,35 @@
+{
+  "id": "4dea",
+  "slug": "ab-download-manager",
+  "name": "ab-download-manager",
+  "version": "1.8.8",
+  "description": {
+    "en": "A Download Manager that speeds up your downloads",
+    "cn": "下载加速管理器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-23T12:05:07Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.8.8/ABDownloadManager_1.8.8_windows_x64.exe",
+  "homepage": "https://github.com/amir1376/ab-download-manager",
+  "category": "tool",
+  "windows_assets": [
+    "ABDownloadManager_1.8.8_mac_x64.dmg.md5",
+    "ABDownloadManager_1.8.8_mac_x64.tar.gz",
+    "ABDownloadManager_1.8.8_mac_x64.tar.gz.md5",
+    "ABDownloadManager_1.8.8_windows_arm64.exe",
+    "ABDownloadManager_1.8.8_windows_arm64.exe.md5",
+    "ABDownloadManager_1.8.8_windows_arm64.zip",
+    "ABDownloadManager_1.8.8_windows_arm64.zip.md5",
+    "ABDownloadManager_1.8.8_windows_x64.exe",
+    "ABDownloadManager_1.8.8_windows_x64.exe.md5",
+    "ABDownloadManager_1.8.8_windows_x64.zip",
+    "ABDownloadManager_1.8.8_windows_x64.zip.md5"
+  ],
+  "release_url": "https://github.com/amir1376/ab-download-manager/releases/tag/v1.8.8"
+}

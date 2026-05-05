@@ -1,0 +1,29 @@
+{
+  "id": "7e9b",
+  "slug": "onnxruntime",
+  "name": "onnxruntime",
+  "version": "1.25.1",
+  "description": {
+    "en": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "cn": "ONNX Runtime 推理加速器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-27T21:46:20Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/microsoft/onnxruntime/releases/download/v1.25.1/onnxruntime-win-x64-1.25.1.zip",
+  "homepage": "https://github.com/microsoft/onnxruntime",
+  "category": "tool",
+  "windows_assets": [
+    "onnxruntime-win-arm64-1.25.1.zip",
+    "onnxruntime-win-arm64x-1.25.1.zip",
+    "onnxruntime-win-x64-1.25.1.zip",
+    "onnxruntime-win-x64-gpu-1.25.1.zip",
+    "onnxruntime-win-x64-gpu_cuda13-1.25.1.zip"
+  ],
+  "release_url": "https://github.com/microsoft/onnxruntime/releases/tag/v1.25.1"
+}

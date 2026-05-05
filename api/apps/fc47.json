@@ -1,0 +1,26 @@
+{
+  "id": "fc47",
+  "slug": "obtainium",
+  "name": "Obtainium",
+  "version": "1.4.3",
+  "description": {
+    "en": "Get Android app updates straight from the source.",
+    "cn": "安卓应用更新工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-16T12:41:29Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/ImranR98/Obtainium/releases/download/v1.4.3/app-x86_64-release.apk.idsig",
+  "homepage": "https://github.com/ImranR98/Obtainium",
+  "category": "tool",
+  "windows_assets": [
+    "app-x86_64-fdroid-release.apk.idsig",
+    "app-x86_64-release.apk.idsig"
+  ],
+  "release_url": "https://github.com/ImranR98/Obtainium/releases/tag/v1.4.3"
+}

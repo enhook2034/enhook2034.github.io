@@ -1,0 +1,28 @@
+{
+  "id": "acc5",
+  "slug": "codebase-memory-mcp",
+  "name": "codebase-memory-mcp",
+  "version": "0.6.1",
+  "description": {
+    "en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "cn": "高性能代码智能 MCP 服务器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-04T22:20:50Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.6.1/codebase-memory-mcp-windows-amd64.zip",
+  "homepage": "https://github.com/DeusData/codebase-memory-mcp",
+  "category": "tool",
+  "windows_assets": [
+    "codebase-memory-mcp-ui-windows-amd64.zip",
+    "codebase-memory-mcp-ui-windows-amd64.zip.bundle",
+    "codebase-memory-mcp-windows-amd64.zip",
+    "codebase-memory-mcp-windows-amd64.zip.bundle"
+  ],
+  "release_url": "https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.6.1"
+}

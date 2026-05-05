@@ -1,0 +1,32 @@
+{
+  "id": "41df",
+  "slug": "imhex",
+  "name": "ImHex",
+  "version": "1.38.1",
+  "description": {
+    "en": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "cn": "🔍 为逆向工程师和程序员打造的十六进制编辑器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-12-21T18:57:18Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/WerWolv/ImHex/releases/download/v1.38.1/imhex-1.38.1-Windows-x86_64.msi",
+  "homepage": "https://github.com/WerWolv/ImHex",
+  "category": "tool",
+  "windows_assets": [
+    "imhex-1.38.1-Web.zip",
+    "imhex-1.38.1-Windows-arm64.msi",
+    "imhex-1.38.1-Windows-Portable-arm64.zip",
+    "imhex-1.38.1-Windows-Portable-NoGPU-x86_64.zip",
+    "imhex-1.38.1-Windows-Portable-x86_64.zip",
+    "imhex-1.38.1-Windows-x86_64.msi",
+    "imhex-1.38.1-x86_64.AppImage",
+    "imhex-1.38.1-x86_64.AppImage.zsync"
+  ],
+  "release_url": "https://github.com/WerWolv/ImHex/releases/tag/v1.38.1"
+}

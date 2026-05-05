@@ -2,19 +2,19 @@
   "id": "11kt",
   "slug": "ccpane",
   "name": "Ccpane",
-  "version": "v0.9.37",
+  "version": "0.9.39",
   "description": {
     "en": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2",
-    "cn": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2"
+    "cn": "Claude Code 的多实例分屏管理器——基于 Tauri 2 构建的跨平台桌面应用  "
   },
   "stars": 376,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-30T12:41:34Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",
+  "download_url": "https://github.com/wuxiran/cc-pane/releases/download/v0.9.39/cc-panes_0.9.39_x64-setup.exe",
   "homepage": "https://github.com/wuxiran/ccpane",
   "category": "tool",
   "linuxdo": {
@@ -23,11 +23,10 @@
     "author_avatar_url": "https://cdn.linux.do/letter_avatar/wuxiran01/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.37",
+  "release_url": "https://github.com/wuxiran/cc-pane/releases/tag/v0.9.39",
   "windows_assets": [
-    "cc-panes_0.9.37_arm64-setup.exe",
-    "cc-panes_0.9.37_arm64-setup.exe.sig",
-    "cc-panes_0.9.37_x64-setup.exe",
-    "cc-panes_0.9.37_x64-setup.exe.sig"
+    "cc-panes_0.9.39_amd64.AppImage",
+    "cc-panes_0.9.39_arm64-setup.exe",
+    "cc-panes_0.9.39_x64-setup.exe"
   ]
 }

@@ -2,19 +2,19 @@
   "id": "1ih6",
   "slug": "copymanga-downloader",
   "name": "Copymanga Downloader",
-  "version": "v0.12.0",
+  "version": "0.12.0",
   "description": {
     "en": "拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快",
-    "cn": "拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快"
+    "cn": "copymanga 多线程下载器，支持导出 cbz 和 pdf，无 API 限制  "
   },
   "stars": 785,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-01-09T21:18:32Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/lanyeeee/copymanga-downloader/releases/tag/v0.12.0",
+  "download_url": "https://github.com/lanyeeee/copymanga-downloader/releases/download/v0.12.0/copymanga-downloader_0.12.0_windows_x64.exe",
   "homepage": "https://github.com/lanyeeee/copymanga-downloader",
   "category": "tool",
   "linuxdo": {

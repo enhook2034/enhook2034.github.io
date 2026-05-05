@@ -1,0 +1,26 @@
+{
+  "id": "f975",
+  "slug": "shipwright",
+  "name": "Shipwright",
+  "version": "9.2.3",
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-14T13:07:27Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+  "homepage": "https://github.com/HarbourMasters/Shipwright",
+  "category": "tool",
+  "windows_assets": [
+    "SoH-Ackbar-Delta-Mac.zip",
+    "SoH-Ackbar-Delta-Win64.zip"
+  ],
+  "release_url": "https://github.com/HarbourMasters/Shipwright/releases/tag/9.2.3"
+}

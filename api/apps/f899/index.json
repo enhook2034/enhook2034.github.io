@@ -1,0 +1,23 @@
+{
+  "id": "f899",
+  "slug": "opentune",
+  "name": "OpenTune",
+  "version": "3.0.1",
+  "description": {
+    "en": "Un cliente de YouTube Music con Material Design 3, para Android",
+    "cn": "YouTube Music 安卓客户端  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-19T23:41:17Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/Arturo254/OpenTune",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/Arturo254/OpenTune/releases/tag/3.0.1"
+}

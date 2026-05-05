@@ -2,19 +2,19 @@
   "id": "1k3c",
   "slug": "mineru2ppt",
   "name": "MinerU2PPT",
-  "version": "v2.0.0",
+  "version": "2.0.0",
   "description": {
     "en": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document.",
-    "cn": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document."
+    "cn": "高保真工具，可将 PDF 文件和图像转换为完全可编辑的 PowerPoint 演示文稿（.pptx）。不同于基础转换器，它使用 AI 驱动的结构提取（MinerU）准确重建文本、布局和图像，确保输出不仅是截图，而是专业可编辑文档。  "
   },
   "stars": 145,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-03-15T11:44:54Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/JuniverseCoder/MinerU2PPT/releases/tag/v2.0.0",
+  "download_url": "https://github.com/JuniverseCoder/MinerU2PPT/releases/download/v2.0.0/MinerU2PPT-win64-cpu-setup.exe",
   "homepage": "https://github.com/juniversecoder/mineru2ppt",
   "category": "tool",
   "linuxdo": {

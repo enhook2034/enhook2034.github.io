@@ -1,0 +1,25 @@
+{
+  "id": "e562",
+  "slug": "spotube",
+  "name": "spotube",
+  "version": "5.1.1",
+  "description": {
+    "en": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+    "cn": "🎧 开源音乐流应用  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-02-24T13:15:09Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/KRTirtho/spotube/releases/download/v5.1.1/Spotube-windows-x86_64-setup.exe",
+  "homepage": "https://github.com/KRTirtho/spotube",
+  "category": "tool",
+  "windows_assets": [
+    "Spotube-windows-x86_64-setup.exe"
+  ],
+  "release_url": "https://github.com/KRTirtho/spotube/releases/tag/v5.1.1"
+}

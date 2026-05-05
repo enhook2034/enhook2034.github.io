@@ -1,0 +1,27 @@
+{
+  "id": "4fba",
+  "slug": "kotlin",
+  "name": "kotlin",
+  "version": "2.3.21",
+  "description": {
+    "en": "The Kotlin Programming Language.",
+    "cn": "Kotlin 编程语言  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-23T10:11:51Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.3.21/kotlin-native-prebuilt-windows-x86_64-2.3.21.zip",
+  "homepage": "https://github.com/JetBrains/kotlin",
+  "category": "tool",
+  "windows_assets": [
+    "kotlin-compiler-2.3.21.zip",
+    "kotlin-native-prebuilt-windows-x86_64-2.3.21.spdx.json",
+    "kotlin-native-prebuilt-windows-x86_64-2.3.21.zip"
+  ],
+  "release_url": "https://github.com/JetBrains/kotlin/releases/tag/v2.3.21"
+}

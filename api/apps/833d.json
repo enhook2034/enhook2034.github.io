@@ -1,0 +1,23 @@
+{
+  "id": "833d",
+  "slug": "mihon",
+  "name": "mihon",
+  "version": "0.19.9",
+  "description": {
+    "en": "Free and open source manga reader for Android",
+    "cn": "安卓漫画阅读器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-11T08:27:52Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/mihonapp/mihon",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/mihonapp/mihon/releases/tag/v0.19.9"
+}

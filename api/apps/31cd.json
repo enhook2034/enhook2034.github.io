@@ -1,0 +1,26 @@
+{
+  "id": "31cd",
+  "slug": "karing",
+  "name": "karing",
+  "version": "1.2.18.2102",
+  "description": {
+    "en": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
+    "cn": "代理工具（支持 clash/sing-box）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-28T10:15:33Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/KaringX/karing/releases/download/v1.2.18.2102/karing_1.2.18.2102_windows_x64.exe",
+  "homepage": "https://github.com/KaringX/karing",
+  "category": "tool",
+  "windows_assets": [
+    "karing_1.2.18.2102_windows_x64.exe",
+    "karing_1.2.18.2102_windows_x64.zip"
+  ],
+  "release_url": "https://github.com/KaringX/karing/releases/tag/v1.2.18.2102"
+}

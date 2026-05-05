@@ -1,0 +1,26 @@
+{
+  "id": "bf34",
+  "slug": "systeminformer",
+  "name": "systeminformer",
+  "version": "3.2.25011.2103",
+  "description": {
+    "en": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @http://www.windows-internals.com",
+    "cn": "系统监控与调试工具（Winsider 出品）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-05-14T22:39:52Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/winsiderss/systeminformer/releases/download/v3.2.25011.2103/systeminformer-3.2.25011-release-setup.exe",
+  "homepage": "https://github.com/winsiderss/systeminformer",
+  "category": "tool",
+  "windows_assets": [
+    "systeminformer-3.2.25011-release-bin.zip",
+    "systeminformer-3.2.25011-release-setup.exe"
+  ],
+  "release_url": "https://github.com/winsiderss/systeminformer/releases/tag/v3.2.25011.2103"
+}

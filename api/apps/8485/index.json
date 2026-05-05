@@ -1,0 +1,21 @@
+{
+  "id": "8485",
+  "slug": "dart-simple-live",
+  "name": "dart_simple_live",
+  "version": "",
+  "description": {
+    "en": "简简单单的看直播",
+    "cn": "直播观看工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-26T20:07:43Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/xiaoyaocz/dart_simple_live",
+  "category": "tool"
+}

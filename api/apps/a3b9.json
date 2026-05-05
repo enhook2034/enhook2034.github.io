@@ -1,0 +1,28 @@
+{
+  "id": "a3b9",
+  "slug": "zed",
+  "name": "zed",
+  "version": "1.0.1",
+  "description": {
+    "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "cn": "Zed：高性能多人代码编辑器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-04T09:38:04Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/zed-industries/zed/releases/download/v1.0.1/Zed-x86_64.exe",
+  "homepage": "https://github.com/zed-industries/zed",
+  "category": "tool",
+  "windows_assets": [
+    "Zed-aarch64.exe",
+    "zed-remote-server-windows-aarch64.zip",
+    "zed-remote-server-windows-x86_64.zip",
+    "Zed-x86_64.exe"
+  ],
+  "release_url": "https://github.com/zed-industries/zed/releases/tag/v1.0.1"
+}

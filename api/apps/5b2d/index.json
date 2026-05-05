@@ -1,0 +1,31 @@
+{
+  "id": "5b2d",
+  "slug": "sdl",
+  "name": "SDL",
+  "version": "release-3.4.8",
+  "description": {
+    "en": "Simple DirectMedia Layer",
+    "cn": "Simple DirectMedia Layer  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-02T02:39:56Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/libsdl-org/SDL/releases/download/release-3.4.8/SDL3-3.4.8-win32-x64.zip",
+  "homepage": "https://github.com/libsdl-org/SDL",
+  "category": "tool",
+  "windows_assets": [
+    "SDL3-3.4.8-win32-arm64.zip",
+    "SDL3-3.4.8-win32-x64.zip",
+    "SDL3-3.4.8-win32-x86.zip",
+    "SDL3-3.4.8.zip",
+    "SDL3-devel-3.4.8-android.zip",
+    "SDL3-devel-3.4.8-mingw.zip",
+    "SDL3-devel-3.4.8-VC.zip"
+  ],
+  "release_url": "https://github.com/libsdl-org/SDL/releases/tag/release-3.4.8"
+}

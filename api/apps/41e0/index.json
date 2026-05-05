@@ -1,0 +1,26 @@
+{
+  "id": "41e0",
+  "slug": "cc-switch",
+  "name": "cc-switch",
+  "version": "3.14.1",
+  "description": {
+    "en": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
+    "cn": "跨平台桌面 AI 助手（Claude Code、Codex、OpenCode 等）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-23T13:41:33Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.14.1/CC-Switch-v3.14.1-Windows.msi",
+  "homepage": "https://github.com/farion1231/cc-switch",
+  "category": "tool",
+  "windows_assets": [
+    "CC-Switch-v3.14.1-Windows-Portable.zip",
+    "CC-Switch-v3.14.1-Windows.msi"
+  ],
+  "release_url": "https://github.com/farion1231/cc-switch/releases/tag/v3.14.1"
+}

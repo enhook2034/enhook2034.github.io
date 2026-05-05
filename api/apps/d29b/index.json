@@ -1,0 +1,27 @@
+{
+  "id": "d29b",
+  "slug": "pearcleaner",
+  "name": "Pearcleaner",
+  "version": "5.4.3",
+  "description": {
+    "en": "A free, source-available and fair-code licensed mac app cleaner",
+    "cn": "macOS 应用清理工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-11-26T23:18:50Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/alienator88/Pearcleaner/releases/download/5.4.3/Pearcleaner-arm.zip",
+  "homepage": "https://github.com/alienator88/Pearcleaner",
+  "category": "tool",
+  "windows_assets": [
+    "Pearcleaner-arm.zip",
+    "Pearcleaner-intel.zip",
+    "Pearcleaner.zip"
+  ],
+  "release_url": "https://github.com/alienator88/Pearcleaner/releases/tag/5.4.3"
+}

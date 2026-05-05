@@ -2,19 +2,19 @@
   "id": "1n0b",
   "slug": "jmcomic-downloader",
   "name": "Jmcomic Downloader",
-  "version": "v0.17.0",
+  "version": "0.17.0",
   "description": {
     "en": "禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快",
-    "cn": "禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快"
+    "cn": "禁漫天堂漫画多线程下载器（免费高速）  "
   },
   "stars": 1368,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-01-16T23:19:22Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/lanyeeee/jmcomic-downloader/releases/tag/v0.17.0",
+  "download_url": "https://github.com/lanyeeee/jmcomic-downloader/releases/download/v0.17.0/jmcomic-downloader_0.17.0_windows_x64.exe",
   "homepage": "https://github.com/lanyeeee/jmcomic-downloader",
   "category": "tool",
   "linuxdo": {

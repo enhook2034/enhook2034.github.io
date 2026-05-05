@@ -1,0 +1,27 @@
+{
+  "id": "c5ae",
+  "slug": "sniffnet",
+  "name": "sniffnet",
+  "version": "1.5.0",
+  "description": {
+    "en": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "cn": "网络流量监控工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-14T10:37:18Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.0/Sniffnet_Windows_x64.msi",
+  "homepage": "https://github.com/GyulyVGC/sniffnet",
+  "category": "tool",
+  "windows_assets": [
+    "Sniffnet_Windows_arm64.msi",
+    "Sniffnet_Windows_x64.msi",
+    "Sniffnet_Windows_x86.msi"
+  ],
+  "release_url": "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.5.0"
+}

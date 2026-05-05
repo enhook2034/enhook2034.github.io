@@ -1,0 +1,23 @@
+{
+  "id": "b83c",
+  "slug": "alamofire",
+  "name": "Alamofire",
+  "version": "5.12.0",
+  "description": {
+    "en": "Elegant HTTP Networking in Swift",
+    "cn": "Swift HTTP 网络库  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-05T01:44:54Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/Alamofire/Alamofire",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/Alamofire/Alamofire/releases/tag/5.12.0"
+}

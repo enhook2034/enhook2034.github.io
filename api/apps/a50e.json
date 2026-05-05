@@ -1,0 +1,28 @@
+{
+  "id": "a50e",
+  "slug": "mpv",
+  "name": "mpv",
+  "version": "0.41.0",
+  "description": {
+    "en": "🎥 Command line media player",
+    "cn": "🎥 命令行媒体播放器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-12-21T19:17:10Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
+  "homepage": "https://github.com/mpv-player/mpv",
+  "category": "tool",
+  "windows_assets": [
+    "mpv-v0.41.0-aarch64-pc-windows-msvc.zip",
+    "mpv-v0.41.0-i686-w64-mingw32.zip",
+    "mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
+    "mpv-v0.41.0-x86_64-w64-mingw32.zip"
+  ],
+  "release_url": "https://github.com/mpv-player/mpv/releases/tag/v0.41.0"
+}

@@ -5,16 +5,16 @@
   "version": "V1.1.0",
   "description": {
     "en": "基于Meta sam3模型的数据标注工具",
-    "cn": "基于Meta sam3模型的数据标注工具"
+    "cn": "基于 Meta sam3 模型的数据标注工具  "
   },
   "stars": 72,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-02-10T18:14:18Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/fivif/Sam3-AN/releases/tag/V1.1.0",
+  "download_url": "https://github.com/fivif/Sam3-AN/releases/download/V1.1.0/Sam3.AN.zip",
   "homepage": "https://github.com/fivif/sam3-an",
   "category": "tool",
   "linuxdo": {
@@ -24,5 +24,7 @@
   },
   "source": "linuxdo",
   "release_url": "https://github.com/fivif/Sam3-AN/releases/tag/V1.1.0",
-  "windows_assets": "Sam3.AN.zip"
+  "windows_assets": [
+    "Sam3.AN.zip"
+  ]
 }

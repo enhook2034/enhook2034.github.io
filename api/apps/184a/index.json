@@ -1,0 +1,23 @@
+{
+  "id": "184a",
+  "slug": "vault",
+  "name": "vault",
+  "version": "2.0.0",
+  "description": {
+    "en": "A tool for secrets management, encryption as a service, and privileged access management",
+    "cn": "密钥管理与加密服务工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-14T20:07:04Z",
+  "icon": "",
+  "collections_tags": [
+    "go"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/hashicorp/vault",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/hashicorp/vault/releases/tag/v2.0.0"
+}

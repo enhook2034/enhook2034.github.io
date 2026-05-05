@@ -1,0 +1,25 @@
+{
+  "id": "647e",
+  "slug": "nrfr",
+  "name": "Nrfr",
+  "version": "1.0.3",
+  "description": {
+    "en": "🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制",
+    "cn": "🌍 无需 Root 的 SIM 国家码修改工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-01-05T11:05:27Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/Ackites/Nrfr/releases/download/v1.0.3/nrfr-v1.0.3-release.zip",
+  "homepage": "https://github.com/Ackites/Nrfr",
+  "category": "tool",
+  "windows_assets": [
+    "nrfr-v1.0.3-release.zip"
+  ],
+  "release_url": "https://github.com/Ackites/Nrfr/releases/tag/v1.0.3"
+}

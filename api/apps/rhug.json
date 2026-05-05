@@ -2,19 +2,19 @@
   "id": "rhug",
   "slug": "done-hub",
   "name": "Done Hub",
-  "version": "v1.20.39",
+  "version": "1.20.39",
   "description": {
     "en": "A Windows open-source project collected from linux.do: Done Hub.",
     "cn": "来自 linux.do 帖子“All-API-Hub：开源AI中转站集中管理和自己的New API增强管理，基于 one-api-hub 大幅重构增强”的 Windows 开源项目。"
   },
   "stars": 746,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-03-27T14:46:41Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/deanxv/done-hub/releases/tag/v1.20.39",
+  "download_url": "https://github.com/deanxv/done-hub/releases/download/v1.20.39/done-hub.exe",
   "homepage": "https://github.com/deanxv/done-hub",
   "category": "tool",
   "linuxdo": {
@@ -24,5 +24,7 @@
   },
   "source": "linuxdo",
   "release_url": "https://github.com/deanxv/done-hub/releases/tag/v1.20.39",
-  "windows_assets": "done-hub.exe"
+  "windows_assets": [
+    "done-hub.exe"
+  ]
 }

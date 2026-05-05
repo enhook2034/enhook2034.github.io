@@ -1,0 +1,23 @@
+{
+  "id": "7ddf",
+  "slug": "ruview",
+  "name": "RuView",
+  "version": "0.6.3-esp32",
+  "description": {
+    "en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "cn": "π RuView：WiFi 人体姿态检测  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-28T12:46:36Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/ruvnet/RuView",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/ruvnet/RuView/releases/tag/v0.6.3-esp32"
+}

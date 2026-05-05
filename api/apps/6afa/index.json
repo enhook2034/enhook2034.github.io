@@ -1,0 +1,32 @@
+{
+  "id": "6afa",
+  "slug": "openblas",
+  "name": "OpenBLAS",
+  "version": "0.3.33",
+  "description": {
+    "en": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "cn": "OpenBLAS 数学库  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-23T11:54:27Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/OpenMathLib/OpenBLAS/releases/download/v0.3.33/OpenBLAS-0.3.33-x64.zip",
+  "homepage": "https://github.com/OpenMathLib/OpenBLAS",
+  "category": "tool",
+  "windows_assets": [
+    "OpenBLAS-0.3.33-woa64-64-dll.zip",
+    "OpenBLAS-0.3.33-woa64-64-static.zip",
+    "OpenBLAS-0.3.33-woa64-dll.zip",
+    "OpenBLAS-0.3.33-woa64-static.zip",
+    "OpenBLAS-0.3.33-x64-64.zip",
+    "OpenBLAS-0.3.33-x64.zip",
+    "OpenBLAS-0.3.33-x86.zip",
+    "OpenBLAS-0.3.33.zip"
+  ],
+  "release_url": "https://github.com/OpenMathLib/OpenBLAS/releases/tag/v0.3.33"
+}

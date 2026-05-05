@@ -2,19 +2,19 @@
   "id": "bhrd",
   "slug": "subrenamer",
   "name": "SubRenamer",
-  "version": "v2.4.0",
+  "version": "2.4.0",
   "description": {
     "en": "🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click.",
-    "cn": "🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click."
+    "cn": "🎞 字幕文件批量重命名和自动校准工具 | 一键匹配视频名称  "
   },
   "stars": 1207,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2025-01-10T16:42:38Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",
+  "download_url": "https://github.com/qwqcode/SubRenamer/releases/download/v2.4.0/SubRenamer_windows_amd64.zip",
   "homepage": "https://github.com/qwqcode/subrenamer",
   "category": "tool",
   "linuxdo": {
@@ -25,8 +25,6 @@
   "source": "linuxdo",
   "release_url": "https://github.com/qwqcode/SubRenamer/releases/tag/v2.4.0",
   "windows_assets": [
-    "SubRenamer_macos_amd64.zip",
-    "SubRenamer_macos_arm64.zip",
     "SubRenamer_windows_amd64.zip"
   ]
 }

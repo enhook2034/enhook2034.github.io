@@ -1,0 +1,23 @@
+{
+  "id": "2336",
+  "slug": "firefox-ios",
+  "name": "firefox-ios",
+  "version": "firefox-v150.2",
+  "description": {
+    "en": "Firefox for iOS",
+    "cn": "iOS Firefox  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-01T17:39:08Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/mozilla-mobile/firefox-ios",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/mozilla-mobile/firefox-ios/releases/tag/firefox-v150.2"
+}

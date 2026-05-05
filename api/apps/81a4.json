@@ -1,0 +1,23 @@
+{
+  "id": "81a4",
+  "slug": "monty",
+  "name": "monty",
+  "version": "0.0.17",
+  "description": {
+    "en": "A minimal, secure Python interpreter written in Rust for use by AI",
+    "cn": "Rust Python 解释器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-22T19:26:55Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/pydantic/monty",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/pydantic/monty/releases/tag/v0.0.17"
+}

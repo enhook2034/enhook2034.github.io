@@ -2,19 +2,19 @@
   "id": "1wzs",
   "slug": "cherry-studio",
   "name": "Cherry Studio",
-  "version": "v1.9.3",
+  "version": "1.9.4",
   "description": {
     "en": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-    "cn": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
+    "cn": "AI 生产力工作室，提供智能聊天、自主代理和 300+ 助手。统一访问前沿大模型  "
   },
   "stars": 44460,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-30T14:04:41Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.3",
+  "download_url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.4/Cherry-Studio-1.9.4-x64-setup.exe",
   "homepage": "https://github.com/cherryhq/cherry-studio",
   "category": "tool",
   "linuxdo": {
@@ -23,15 +23,14 @@
     "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.3",
+  "release_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.4",
   "windows_assets": [
-    "Cherry-Studio-1.9.3-arm64-portable.exe",
-    "Cherry-Studio-1.9.3-arm64-setup.exe",
-    "Cherry-Studio-1.9.3-arm64.zip",
-    "Cherry-Studio-1.9.3-arm64.zip.blockmap",
-    "Cherry-Studio-1.9.3-x64-portable.exe",
-    "Cherry-Studio-1.9.3-x64-setup.exe",
-    "Cherry-Studio-1.9.3-x64.zip",
-    "Cherry-Studio-1.9.3-x64.zip.blockmap"
+    "Cherry-Studio-1.9.4-arm64-portable.exe",
+    "Cherry-Studio-1.9.4-arm64-setup.exe",
+    "Cherry-Studio-1.9.4-arm64.zip",
+    "Cherry-Studio-1.9.4-x64-portable.exe",
+    "Cherry-Studio-1.9.4-x64-setup.exe",
+    "Cherry-Studio-1.9.4-x64.zip",
+    "Cherry-Studio-1.9.4-x86_64.AppImage"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "id": "b31f",
+  "slug": "helium",
+  "name": "helium",
+  "version": "0.12.0",
+  "description": {
+    "en": "Private, fast, and honest web browser",
+    "cn": "隐私浏览器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-03T20:25:47Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/imputnet/helium",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/imputnet/helium/releases/tag/0.12.0"
+}

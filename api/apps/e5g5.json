@@ -2,14 +2,14 @@
   "id": "e5g5",
   "slug": "super-productivity",
   "name": "Super Productivity",
-  "version": "16.6.0",
+  "version": "18.4.4",
   "description": {
     "en": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-    "cn": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project."
+    "cn": "Super Productivity 是一款高级待办事项应用，集成了时间盒（Timeboxing）和时间跟踪功能。同时还支持与 Jira、GitLab、GitHub 和 Open Project 的集成。  "
   },
   "source": "ruanyifeng",
   "stars": 18854,
-  "updated_at": "2026-04-18T14:20:00Z",
+  "updated_at": "2026-05-02T20:17:00Z",
   "icon": "",
   "collections_tags": [
     "todo",
@@ -17,7 +17,17 @@
     "work"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/johannesjo/super-productivity/releases/latest/download/Super-Productivity-Setup.exe",
+  "download_url": "https://github.com/super-productivity/super-productivity/releases/download/v18.4.4/Super-Productivity-Setup-x64.exe",
   "homepage": "https://super-productivity.com/",
-  "category": "work"
+  "category": "work",
+  "windows_assets": [
+    "Super-Productivity-Setup-arm64.exe",
+    "Super-Productivity-Setup-x64.exe",
+    "Super-Productivity-Setup.exe",
+    "superProductivity-arm64.exe",
+    "superProductivity-x64.exe",
+    "superProductivity-x86_64.AppImage",
+    "superProductivity.exe"
+  ],
+  "release_url": "https://github.com/super-productivity/super-productivity/releases/tag/v18.4.4"
 }

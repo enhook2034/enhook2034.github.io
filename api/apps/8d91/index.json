@@ -1,0 +1,23 @@
+{
+  "id": "8d91",
+  "slug": "proton",
+  "name": "Proton",
+  "version": "proton-11.0-1-beta2",
+  "description": {
+    "en": "Compatibility tool for Steam Play based on Wine and additional components",
+    "cn": "基于 Wine 的 Steam Play 兼容工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-28T10:57:10Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/ValveSoftware/Proton",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/ValveSoftware/Proton/releases/tag/proton-11.0-1-beta2"
+}

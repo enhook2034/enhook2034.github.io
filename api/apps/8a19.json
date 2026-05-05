@@ -1,0 +1,27 @@
+{
+  "id": "8a19",
+  "slug": "netdata",
+  "name": "netdata",
+  "version": "2.10.3",
+  "description": {
+    "en": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "cn": "AI 可观测性平台  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-27T17:04:47Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/netdata/netdata/releases/download/v2.10.3/netdata-x64.msi",
+  "homepage": "https://github.com/netdata/netdata",
+  "category": "tool",
+  "windows_assets": [
+    "netdata-x64.msi",
+    "netdata-x86_64-latest.gz.run",
+    "netdata-x86_64-v2.10.3.gz.run"
+  ],
+  "release_url": "https://github.com/netdata/netdata/releases/tag/v2.10.3"
+}

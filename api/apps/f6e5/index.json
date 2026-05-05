@@ -1,0 +1,25 @@
+{
+  "id": "f6e5",
+  "slug": "curl",
+  "name": "curl",
+  "version": "curl-8_20_0",
+  "description": {
+    "en": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "cn": "支持多协议的数据传输工具（libcurl）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-29T06:31:23Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/curl/curl/releases/download/curl-8_20_0/curl-8.20.0.zip",
+  "homepage": "https://github.com/curl/curl",
+  "category": "tool",
+  "windows_assets": [
+    "curl-8.20.0.zip"
+  ],
+  "release_url": "https://github.com/curl/curl/releases/tag/curl-8_20_0"
+}

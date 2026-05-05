@@ -1,0 +1,29 @@
+{
+  "id": "70f4",
+  "slug": "rustdesk",
+  "name": "rustdesk",
+  "version": "1.4.6",
+  "description": {
+    "en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "cn": "开源远程桌面工具（TeamViewer 替代）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-03-05T05:05:30Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-x86_64.msi",
+  "homepage": "https://github.com/rustdesk/rustdesk",
+  "category": "tool",
+  "windows_assets": [
+    "rustdesk-1.4.6-0-x86_64.pkg.tar.zst",
+    "rustdesk-1.4.6-x86-sciter.exe",
+    "rustdesk-1.4.6-x86_64.AppImage",
+    "rustdesk-1.4.6-x86_64.exe",
+    "rustdesk-1.4.6-x86_64.msi"
+  ],
+  "release_url": "https://github.com/rustdesk/rustdesk/releases/tag/1.4.6"
+}

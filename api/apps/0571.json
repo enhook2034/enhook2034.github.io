@@ -1,0 +1,26 @@
+{
+  "id": "0571",
+  "slug": "sunshine",
+  "name": "Sunshine",
+  "version": "2025.924.154138",
+  "description": {
+    "en": "Self-hosted game stream host for Moonlight.",
+    "cn": "Moonlight 游戏串流主机  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-09-24T18:27:49Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/LizardByte/Sunshine/releases/download/v2025.924.154138/Sunshine-Windows-AMD64-installer.exe",
+  "homepage": "https://github.com/LizardByte/Sunshine",
+  "category": "tool",
+  "windows_assets": [
+    "Sunshine-Windows-AMD64-installer.exe",
+    "Sunshine-Windows-AMD64-portable.zip"
+  ],
+  "release_url": "https://github.com/LizardByte/Sunshine/releases/tag/v2025.924.154138"
+}

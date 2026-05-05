@@ -1,0 +1,25 @@
+{
+  "id": "c06c",
+  "slug": "finceptterminal",
+  "name": "FinceptTerminal",
+  "version": "4.0.2",
+  "description": {
+    "en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "cn": "FinceptTerminal 金融分析工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-24T17:30:12Z",
+  "icon": "",
+  "collections_tags": [
+    "python"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.0.2/FinceptTerminal-4.0.2-windows-x64-setup.exe",
+  "homepage": "https://github.com/Fincept-Corporation/FinceptTerminal",
+  "category": "tool",
+  "windows_assets": [
+    "FinceptTerminal-4.0.2-windows-x64-setup.exe"
+  ],
+  "release_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/tag/v4.0.2"
+}

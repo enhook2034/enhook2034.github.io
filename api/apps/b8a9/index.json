@@ -1,0 +1,23 @@
+{
+  "id": "b8a9",
+  "slug": "vaultwarden",
+  "name": "vaultwarden",
+  "version": "1.36.0",
+  "description": {
+    "en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "cn": "Bitwarden Rust 服务端  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-03T12:54:52Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/dani-garcia/vaultwarden",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.36.0"
+}

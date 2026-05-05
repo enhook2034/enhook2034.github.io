@@ -5,16 +5,16 @@
   "version": "1.10",
   "description": {
     "en": "`KindleLocalSend` is a LocalSend launcher package for Kindle",
-    "cn": "`KindleLocalSend` is a LocalSend launcher package for Kindle"
+    "cn": "`KindleLocalSend` 是一个用于 Kindle 的 LocalSend 启动器包  "
   },
   "stars": 0,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-24T23:29:31Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
+  "download_url": "https://github.com/que01/KindleLocalSend/releases/download/1.10/KindleLocalSend-package.zip",
   "homepage": "https://github.com/que01/kindlelocalsend",
   "category": "tool",
   "linuxdo": {
@@ -24,5 +24,7 @@
   },
   "source": "linuxdo",
   "release_url": "https://github.com/que01/KindleLocalSend/releases/tag/1.10",
-  "windows_assets": "KindleLocalSend-package.zip"
+  "windows_assets": [
+    "KindleLocalSend-package.zip"
+  ]
 }

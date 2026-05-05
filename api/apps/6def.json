@@ -1,0 +1,25 @@
+{
+  "id": "6def",
+  "slug": "gkd",
+  "name": "gkd",
+  "version": "1.11.6",
+  "description": {
+    "en": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+    "cn": "安卓自动点击工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-12-13T18:03:36Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/gkd-kit/gkd/releases/download/v1.11.6/outputs-v1.11.6.zip",
+  "homepage": "https://github.com/gkd-kit/gkd",
+  "category": "tool",
+  "windows_assets": [
+    "outputs-v1.11.6.zip"
+  ],
+  "release_url": "https://github.com/gkd-kit/gkd/releases/tag/v1.11.6"
+}

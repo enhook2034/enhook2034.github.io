@@ -2,19 +2,19 @@
   "id": "1r5v",
   "slug": "syncnos",
   "name": "SyncNos",
-  "version": "v1.6.1",
+  "version": "1.6.1",
   "description": {
     "en": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian.",
-    "cn": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian."
+    "cn": "SyncNos 是一个开源网页剪藏工具，可将 AI 对话、网页文章和视频字幕保存到 Notion 或 Obsidian。  "
   },
   "stars": 130,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-20T09:26:25Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.1",
+  "download_url": "https://github.com/chiimagnus/SyncNos/releases/download/v1.6.1/syncnos-webclipper-chrome-v1.6.1.zip",
   "homepage": "https://github.com/chiimagnus/syncnos",
   "category": "tool",
   "linuxdo": {

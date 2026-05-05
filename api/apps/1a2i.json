@@ -2,19 +2,19 @@
   "id": "1a2i",
   "slug": "bilibili-manga-downloader",
   "name": "BiliBili Manga Downloader",
-  "version": "v1.5.1",
+  "version": "1.5.1",
   "description": {
     "en": "一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！",
-    "cn": "一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！"
+    "cn": "一个好用的哔哩哔哩漫画下载器，支持关键词搜索、二维码登录、多线程下载、多格式保存、本地管理和一键更新  "
   },
   "stars": 1243,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2024-03-31T11:33:09Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/tag/v1.5.1",
+  "download_url": "https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/download/v1.5.1/BiliBili-Manga-Downloader_windows_amd64.zip",
   "homepage": "https://github.com/zeal-l/bilibili-manga-downloader",
   "category": "tool",
   "linuxdo": {
@@ -25,7 +25,7 @@
   "source": "linuxdo",
   "release_url": "https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/tag/v1.5.1",
   "windows_assets": [
-    "BiliBili-Manga-Downloader_MacOS_arm64.zip",
+    "BiliBili-Manga-Downloader_debian_amd64.tar.gz",
     "BiliBili-Manga-Downloader_windows_amd64.zip"
   ]
 }

@@ -9,11 +9,11 @@
   "screenshots": [],
   "description": {
     "en": "鼠标点击特效",
-    "cn": "鼠标点击特效"
+    "cn": "鼠标点击特效  "
   },
   "source": "xuanli199",
   "stars": 1139,
-  "updated_at": "2026-04-15T09:00:00Z",
+  "updated_at": "2021-09-08T00:32:00Z",
   "icon": "",
   "collections_tags": [
     "presentation",
@@ -23,5 +23,9 @@
   "download_count": 0,
   "download_url": "https://github.com/cuiliang/ClickShow/releases/download/1.4.1/ClickShow1_4_1.zip",
   "homepage": "https://github.com/cuiliang/ClickShow",
-  "category": "tool"
+  "category": "tool",
+  "windows_assets": [
+    "ClickShow1_4_1.zip"
+  ],
+  "release_url": "https://github.com/cuiliang/ClickShow/releases/tag/1.4.1"
 }

@@ -1,0 +1,25 @@
+{
+  "id": "a180",
+  "slug": "maccy",
+  "name": "Maccy",
+  "version": "2.6.1",
+  "description": {
+    "en": "Lightweight clipboard manager for macOS",
+    "cn": "macOS 轻量剪贴板管理器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-11-27T22:30:26Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/p0deje/Maccy/releases/download/2.6.1/Maccy.app.zip",
+  "homepage": "https://github.com/p0deje/Maccy",
+  "category": "tool",
+  "windows_assets": [
+    "Maccy.app.zip"
+  ],
+  "release_url": "https://github.com/p0deje/Maccy/releases/tag/2.6.1"
+}

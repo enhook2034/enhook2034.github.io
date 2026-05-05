@@ -1,0 +1,21 @@
+{
+  "id": "ba9f",
+  "slug": "git",
+  "name": "git",
+  "version": "",
+  "description": {
+    "en": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "cn": "Git 镜像仓库  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-26T20:07:43Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/git/git",
+  "category": "tool"
+}

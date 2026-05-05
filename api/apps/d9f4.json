@@ -2,14 +2,14 @@
   "id": "d9f4",
   "slug": "bulk-crap-uninstaller",
   "name": "Bulk Crap Uninstaller",
-  "version": "5.9",
+  "version": "6.1",
   "description": {
     "en": "Remove large amounts of unwanted applications quickly.",
-    "cn": "Remove large amounts of unwanted applications quickly."
+    "cn": "快速移除大量不需要的应用程序。  "
   },
   "source": "linuxdo",
   "stars": 18776,
-  "updated_at": "2026-04-10T16:30:00Z",
+  "updated_at": "2026-03-06T00:05:46Z",
   "icon": "",
   "collections_tags": [
     "cleanup",
@@ -17,7 +17,14 @@
     "windows"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.9/BCUninstaller_5.9.0_setup.exe",
+  "download_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v6.1/BCUninstaller_6.1.0_setup.exe",
   "homepage": "https://www.bcuninstaller.com/",
-  "category": "tool"
+  "category": "tool",
+  "windows_assets": [
+    "BCUninstaller_6.1.0.1_net8.0-windows10.0.18362.0.zip",
+    "BCUninstaller_6.1.0.1_portable.zip",
+    "BCUninstaller_6.1.0.1_setup.exe",
+    "BCUninstaller_6.1.0_setup.exe"
+  ],
+  "release_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/tag/v6.1"
 }

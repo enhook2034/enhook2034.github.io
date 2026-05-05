@@ -2,19 +2,19 @@
   "id": "4xbt",
   "slug": "manhuagui-downloader",
   "name": "Manhuagui Downloader",
-  "version": "v0.4.2",
+  "version": "0.4.2",
   "description": {
     "en": "漫画柜 manhuagui 看漫画 下载器，带图形界面 支持下载隐藏内容 支持导出cbz和pdf，已打包exe 免安装版解压后可以双击直接运行",
-    "cn": "漫画柜 manhuagui 看漫画 下载器，带图形界面 支持下载隐藏内容 支持导出cbz和pdf，已打包exe 免安装版解压后可以双击直接运行"
+    "cn": "漫画柜下载器（支持隐藏内容导出）  "
   },
   "stars": 295,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2025-03-03T16:57:54Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/tag/v0.4.2",
+  "download_url": "https://github.com/lanyeeee/manhuagui-downloader/releases/download/v0.4.2/manhuagui-downloader_0.4.2_windows_x64.exe",
   "homepage": "https://github.com/lanyeeee/manhuagui-downloader",
   "category": "tool",
   "linuxdo": {

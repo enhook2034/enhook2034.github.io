@@ -1,0 +1,25 @@
+{
+  "id": "82d6",
+  "slug": "feather",
+  "name": "Feather",
+  "version": "2.8.2",
+  "description": {
+    "en": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
+    "cn": "iOS/iPadOS 本地应用安装管理工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-22T09:18:46Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/CLARATION/Feather/releases/download/v2.8.2/Feather_Catalyst.zip",
+  "homepage": "https://github.com/CLARATION/Feather",
+  "category": "tool",
+  "windows_assets": [
+    "Feather_Catalyst.zip"
+  ],
+  "release_url": "https://github.com/CLARATION/Feather/releases/tag/v2.8.2"
+}

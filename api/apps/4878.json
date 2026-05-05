@@ -1,0 +1,30 @@
+{
+  "id": "4878",
+  "slug": "raylib",
+  "name": "raylib",
+  "version": "6.0",
+  "description": {
+    "en": "A simple and easy-to-use library to enjoy videogames programming",
+    "cn": "一个简单易用的游戏编程库  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-23T09:55:57Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/raysan5/raylib/releases/download/6.0/raylib-6.0_win64_mingw-w64.zip",
+  "homepage": "https://github.com/raysan5/raylib",
+  "category": "tool",
+  "windows_assets": [
+    "raylib-6.0_webassembly.zip",
+    "raylib-6.0_win32_mingw-w64.zip",
+    "raylib-6.0_win32_msvc16.zip",
+    "raylib-6.0_win64_mingw-w64.zip",
+    "raylib-6.0_win64_msvc16.zip",
+    "raylib-6.0_winarm64_msvc16.zip"
+  ],
+  "release_url": "https://github.com/raysan5/raylib/releases/tag/6.0"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eb72",
+  "slug": "proxypin",
+  "name": "proxypin",
+  "version": "1.2.7",
+  "description": {
+    "en": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+    "cn": "ProxyPin 抓包工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-14T07:27:32Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/wanghongenpin/proxypin/releases/download/v1.2.7/proxypin-windows-setup.exe",
+  "homepage": "https://github.com/wanghongenpin/proxypin",
+  "category": "tool",
+  "windows_assets": [
+    "proxypin-windows-setup.exe",
+    "proxypin-windows7-x64.zip"
+  ],
+  "release_url": "https://github.com/wanghongenpin/proxypin/releases/tag/v1.2.7"
+}

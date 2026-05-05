@@ -1,0 +1,28 @@
+{
+  "id": "e40b",
+  "slug": "onlook",
+  "name": "onlook",
+  "version": "0.2.32",
+  "description": {
+    "en": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+    "cn": "AI 设计工具（可视化构建 React 应用）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-07-17T18:36:21Z",
+  "icon": "",
+  "collections_tags": [
+    "typescript"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-setup.exe",
+  "homepage": "https://github.com/onlook-dev/onlook",
+  "category": "tool",
+  "windows_assets": [
+    "Onlook-arm64.zip",
+    "Onlook-setup.exe",
+    "Onlook-x64.zip",
+    "Onlook-x86_64.AppImage"
+  ],
+  "release_url": "https://github.com/onlook-dev/onlook/releases/tag/v0.2.32"
+}

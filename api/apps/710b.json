@@ -1,0 +1,26 @@
+{
+  "id": "710b",
+  "slug": "qdrant",
+  "name": "qdrant",
+  "version": "1.17.1",
+  "description": {
+    "en": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloudhttps://cloud.qdrant.io/",
+    "cn": "Qdrant 向量数据库  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-03-27T08:37:25Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/qdrant/qdrant/releases/download/v1.17.1/qdrant-x86_64-pc-windows-msvc.zip",
+  "homepage": "https://github.com/qdrant/qdrant",
+  "category": "tool",
+  "windows_assets": [
+    "qdrant-x86_64-pc-windows-msvc.zip",
+    "qdrant-x86_64.AppImage"
+  ],
+  "release_url": "https://github.com/qdrant/qdrant/releases/tag/v1.17.1"
+}

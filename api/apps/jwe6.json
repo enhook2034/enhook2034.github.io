@@ -2,19 +2,19 @@
   "id": "jwe6",
   "slug": "tactus",
   "name": "Tactus",
-  "version": "v1.3.3",
+  "version": "1.3.3",
   "description": {
     "en": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！",
-    "cn": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
+    "cn": "首个支持 Agent Skills 的浏览器 AI Agent 扩展，使 AI 能通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！  "
   },
   "stars": 322,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-23T12:25:15Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/Castor6/tactus/releases/tag/v1.3.3",
+  "download_url": "https://github.com/Castor6/tactus/releases/download/v1.3.3/tactus-1.3.3-chrome.zip",
   "homepage": "https://github.com/castor6/tactus",
   "category": "tool",
   "linuxdo": {

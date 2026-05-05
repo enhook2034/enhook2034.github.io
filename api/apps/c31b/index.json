@@ -1,0 +1,25 @@
+{
+  "id": "c31b",
+  "slug": "android",
+  "name": "android",
+  "version": "2026.4.4",
+  "description": {
+    "en": "Home Assistant Companion for Android",
+    "cn": "Home Assistant 安卓客户端  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-19T05:11:00Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/home-assistant/android/releases/download/2026.4.4/strings.zip",
+  "homepage": "https://github.com/home-assistant/android",
+  "category": "tool",
+  "windows_assets": [
+    "strings.zip"
+  ],
+  "release_url": "https://github.com/home-assistant/android/releases/tag/2026.4.4"
+}

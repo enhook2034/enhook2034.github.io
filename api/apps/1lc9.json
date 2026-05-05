@@ -2,19 +2,19 @@
   "id": "1lc9",
   "slug": "picacomic-downloader",
   "name": "Picacomic Downloader",
-  "version": "v0.8.0",
+  "version": "0.8.0",
   "description": {
     "en": "哔咔漫画 picacomic pica漫画 bika漫画 PicACG 多线程下载器，带图形界面 带收藏夹，已打包exe 下载速度飞快",
-    "cn": "哔咔漫画 picacomic pica漫画 bika漫画 PicACG 多线程下载器，带图形界面 带收藏夹，已打包exe 下载速度飞快"
+    "cn": "哔咔漫画多线程下载器（含 GUI 和收藏夹），已打包 exe，下载速度快  "
   },
   "stars": 606,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-01-04T21:07:37Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/lanyeeee/picacomic-downloader/releases/tag/v0.8.0",
+  "download_url": "https://github.com/lanyeeee/picacomic-downloader/releases/download/v0.8.0/picacomic-downloader_0.8.0_windows_x64.exe",
   "homepage": "https://github.com/lanyeeee/picacomic-downloader",
   "category": "tool",
   "linuxdo": {

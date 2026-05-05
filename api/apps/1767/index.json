@@ -9,11 +9,11 @@
   "screenshots": [],
   "description": {
     "en": "🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!",
-    "cn": "🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!"
+    "cn": "🚀 强化 Windows 11 的文件资源管理器：自动将窗口转换为标签页、复制标签页、重新打开已关闭的标签页等等！  "
   },
   "source": "xuanli199",
   "stars": 2669,
-  "updated_at": "2026-03-28T07:20:00Z",
+  "updated_at": "2025-05-04T22:41:35Z",
   "icon": "",
   "collections_tags": [
     "file-management",
@@ -21,7 +21,17 @@
     "workflow"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/w4po/ExplorerTabUtility/releases/download/v2.5.0/ExplorerTabUtility_v2.5.0_x64_Net9.0_FrameworkDependent.zip",
+  "download_url": "https://github.com/w4po/ExplorerTabUtility/releases/download/v2.5.0/ExplorerTabUtility_v2.5.0_Setup.exe",
   "homepage": "https://github.com/w4po/ExplorerTabUtility",
-  "category": "create"
+  "category": "create",
+  "windows_assets": [
+    "ExplorerTabUtility_v2.5.0_arm64_Net9.0_FrameworkDependent.zip",
+    "ExplorerTabUtility_v2.5.0_arm64_NetFW4.8.1.zip",
+    "ExplorerTabUtility_v2.5.0_Setup.exe",
+    "ExplorerTabUtility_v2.5.0_x64_Net9.0_FrameworkDependent.zip",
+    "ExplorerTabUtility_v2.5.0_x64_NetFW4.8.1.zip",
+    "ExplorerTabUtility_v2.5.0_x86_Net9.0_FrameworkDependent.zip",
+    "ExplorerTabUtility_v2.5.0_x86_NetFW4.8.1.zip"
+  ],
+  "release_url": "https://github.com/w4po/ExplorerTabUtility/releases/tag/v2.5.0"
 }

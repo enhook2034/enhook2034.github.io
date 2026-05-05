@@ -1,0 +1,28 @@
+{
+  "id": "1dcf",
+  "slug": "syft",
+  "name": "syft",
+  "version": "1.44.0",
+  "description": {
+    "en": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "cn": "SBOM 生成工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-01T17:17:31Z",
+  "icon": "",
+  "collections_tags": [
+    "go"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/anchore/syft/releases/download/v1.44.0/syft_1.44.0_windows_amd64.zip",
+  "homepage": "https://github.com/anchore/syft",
+  "category": "tool",
+  "windows_assets": [
+    "syft_1.44.0_windows_amd64.sbom",
+    "syft_1.44.0_windows_amd64.zip",
+    "syft_1.44.0_windows_arm64.sbom",
+    "syft_1.44.0_windows_arm64.zip"
+  ],
+  "release_url": "https://github.com/anchore/syft/releases/tag/v1.44.0"
+}

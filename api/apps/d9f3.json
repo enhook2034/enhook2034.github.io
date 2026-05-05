@@ -5,11 +5,11 @@
   "version": "1.4.3",
   "description": {
     "en": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件",
-    "cn": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件"
+    "cn": "😎 一个基于 20-20-20 规则的用眼休息提醒 Windows 软件  "
   },
   "source": "ruanyifeng",
   "stars": 1193,
-  "updated_at": "2026-04-05T11:00:00Z",
+  "updated_at": "2022-06-03T17:40:33Z",
   "icon": "",
   "collections_tags": [
     "health",
@@ -19,5 +19,9 @@
   "download_count": 0,
   "download_url": "https://github.com/Planshit/ProjectEye/releases/download/1.4.3/ProjectEye.zip",
   "homepage": "https://github.com/Planshit/ProjectEye",
-  "category": "work"
+  "category": "work",
+  "windows_assets": [
+    "ProjectEye.zip"
+  ],
+  "release_url": "https://github.com/Planshit/ProjectEye/releases/tag/1.4.3"
 }

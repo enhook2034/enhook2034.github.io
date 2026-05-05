@@ -2,19 +2,19 @@
   "id": "9xvb",
   "slug": "one-hub",
   "name": "One Hub",
-  "version": "v0.14.27",
+  "version": "0.14.27",
   "description": {
     "en": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
-    "cn": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。"
+    "cn": "OpenAI 接口管理与分发系统，基于 songquanpeng/one-api 修改。支持更多模型，加入统计页面，完善非 OpenAI 模型的函数调用。  "
   },
   "stars": 2786,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2025-12-06T07:26:25Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",
+  "download_url": "https://github.com/MartialBE/one-hub/releases/download/v0.14.27/one-api.exe",
   "homepage": "https://github.com/martialbe/one-hub",
   "category": "tool",
   "linuxdo": {
@@ -24,5 +24,7 @@
   },
   "source": "linuxdo",
   "release_url": "https://github.com/MartialBE/one-hub/releases/tag/v0.14.27",
-  "windows_assets": "one-api.exe"
+  "windows_assets": [
+    "one-api.exe"
+  ]
 }

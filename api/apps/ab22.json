@@ -1,0 +1,23 @@
+{
+  "id": "ab22",
+  "slug": "freeflow",
+  "name": "freeflow",
+  "version": "0.3.3",
+  "description": {
+    "en": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+    "cn": "语音转写替代工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-27T08:11:28Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/zachlatta/freeflow/releases/download/v0.3.2/FreeFlow.dmg",
+  "homepage": "https://github.com/zachlatta/freeflow",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/zachlatta/freeflow/releases/tag/v0.3.3"
+}

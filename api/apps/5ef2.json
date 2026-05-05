@@ -1,0 +1,25 @@
+{
+  "id": "5ef2",
+  "slug": "ventoy",
+  "name": "Ventoy",
+  "version": "1.1.12",
+  "description": {
+    "en": "A new bootable USB solution.",
+    "cn": "新的可启动 USB 方案  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-23T10:27:20Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.12/ventoy-1.1.12-windows.zip",
+  "homepage": "https://github.com/ventoy/Ventoy",
+  "category": "tool",
+  "windows_assets": [
+    "ventoy-1.1.12-windows.zip"
+  ],
+  "release_url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.12"
+}

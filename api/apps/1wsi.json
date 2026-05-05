@@ -2,19 +2,19 @@
   "id": "1wsi",
   "slug": "skills-dock",
   "name": "Skills Dock",
-  "version": "v0.1.14",
+  "version": "0.1.16",
   "description": {
     "en": "Skill-Dock 是一个专门对skill/map进行可视化管理的app，用来统一查看、发现和管理散落在不同工具中的 AI Skills。支持显示skill的调用次数、一键打包导入导出skill、skill分类管理，等等",
-    "cn": "Skill-Dock 是一个专门对skill/map进行可视化管理的app，用来统一查看、发现和管理散落在不同工具中的 AI Skills。支持显示skill的调用次数、一键打包导入导出skill、skill分类管理，等等"
+    "cn": "Skill-Dock 是一个用于对 skill/map 进行可视化管理的应用，用于统一查看、发现和管理分散在不同工具中的 AI Skills。支持显示调用次数、一键打包导入导出、分类管理等功能  "
   },
   "stars": 46,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-26T13:33:01Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.14",
+  "download_url": "https://github.com/1lck/Skills-Dock/releases/download/v0.1.16/Skills.Dock_0.1.16_x64-setup.exe",
   "homepage": "https://github.com/1lck/skills-dock",
   "category": "tool",
   "linuxdo": {
@@ -23,11 +23,10 @@
     "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/lick/48/1622015_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.14",
+  "release_url": "https://github.com/1lck/Skills-Dock/releases/tag/v0.1.16",
   "windows_assets": [
-    "Skills.Dock_0.1.14_x64-setup.exe",
-    "Skills.Dock_0.1.14_x64-setup.exe.sig",
-    "Skills.Dock_0.1.14_x64_en-US.msi",
-    "Skills.Dock_0.1.14_x64_en-US.msi.sig"
+    "Skills.Dock_0.1.16_amd64.AppImage",
+    "Skills.Dock_0.1.16_x64-setup.exe",
+    "Skills.Dock_0.1.16_x64_en-US.msi"
   ]
 }

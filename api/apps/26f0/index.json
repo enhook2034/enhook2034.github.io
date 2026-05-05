@@ -1,0 +1,23 @@
+{
+  "id": "26f0",
+  "slug": "meshcore-open",
+  "name": "meshcore-open",
+  "version": "Alpha8",
+  "description": {
+    "en": "Open-source Flutter client for MeshCore LoRa mesh networking devices",
+    "cn": "MeshCore LoRa 网络 Flutter 客户端  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-15T05:08:29Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/zjs81/meshcore-open/releases/download/Alpha8/MeshCore-Linux-Build.zip",
+  "homepage": "https://github.com/zjs81/meshcore-open",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/zjs81/meshcore-open/releases/tag/Alpha8"
+}

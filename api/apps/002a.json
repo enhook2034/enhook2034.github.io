@@ -1,0 +1,26 @@
+{
+  "id": "002a",
+  "slug": "redpanda",
+  "name": "redpanda",
+  "version": "26.1.6",
+  "description": {
+    "en": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "cn": "Redpanda 流数据平台  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-22T01:35:02Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/redpanda-data/redpanda/releases/download/v26.1.6/rpk-windows-amd64.zip",
+  "homepage": "https://github.com/redpanda-data/redpanda",
+  "category": "tool",
+  "windows_assets": [
+    "rpk-windows-amd64.zip",
+    "rpk-windows-arm64.zip"
+  ],
+  "release_url": "https://github.com/redpanda-data/redpanda/releases/tag/v26.1.6"
+}

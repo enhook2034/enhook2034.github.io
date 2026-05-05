@@ -1,0 +1,23 @@
+{
+  "id": "3705",
+  "slug": "coteditor",
+  "name": "CotEditor",
+  "version": "7.0.2",
+  "description": {
+    "en": "Lightweight Plain Text Editor for macOS",
+    "cn": "macOS 纯文本编辑器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-29T15:58:17Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/coteditor/CotEditor/releases/download/7.0.1/CotEditor_7.0.1.dmg",
+  "homepage": "https://github.com/coteditor/CotEditor",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/coteditor/CotEditor/releases/tag/7.0.2"
+}

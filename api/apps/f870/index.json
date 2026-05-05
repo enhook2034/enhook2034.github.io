@@ -1,0 +1,26 @@
+{
+  "id": "f870",
+  "slug": "flclash",
+  "name": "FlClash",
+  "version": "0.8.92",
+  "description": {
+    "en": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "cn": "开源代理客户端  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-02-02T02:38:52Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/chen08209/FlClash/releases/download/v0.8.92/FlClash-0.8.92-windows-amd64-setup.exe",
+  "homepage": "https://github.com/chen08209/FlClash",
+  "category": "tool",
+  "windows_assets": [
+    "FlClash-0.8.92-windows-amd64-setup.exe",
+    "FlClash-0.8.92-windows-amd64.zip"
+  ],
+  "release_url": "https://github.com/chen08209/FlClash/releases/tag/v0.8.92"
+}

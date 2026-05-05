@@ -1,0 +1,23 @@
+{
+  "id": "1a33",
+  "slug": "betaflight",
+  "name": "betaflight",
+  "version": "2025.12.2",
+  "description": {
+    "en": "Open Source Flight Controller Firmware",
+    "cn": "开源飞控固件  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-02-08T00:59:28Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/betaflight/betaflight",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/betaflight/betaflight/releases/tag/2025.12.2"
+}

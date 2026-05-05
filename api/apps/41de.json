@@ -1,0 +1,23 @@
+{
+  "id": "41de",
+  "slug": "esp32marauder",
+  "name": "ESP32Marauder",
+  "version": "1.12.1",
+  "description": {
+    "en": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+    "cn": "ESP32 WiFi/蓝牙攻防工具套件  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-05T04:04:05Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/justcallmekoko/ESP32Marauder",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/justcallmekoko/ESP32Marauder/releases/tag/v1.12.1"
+}

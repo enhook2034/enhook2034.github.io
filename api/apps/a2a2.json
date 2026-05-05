@@ -1,0 +1,23 @@
+{
+  "id": "a2a2",
+  "slug": "mooncake",
+  "name": "Mooncake",
+  "version": "0.3.10.post2",
+  "description": {
+    "en": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+    "cn": "Mooncake LLM 服务平台  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-22T03:03:05Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/kvcache-ai/Mooncake",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/kvcache-ai/Mooncake/releases/tag/v0.3.10.post2"
+}

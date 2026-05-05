@@ -1,0 +1,30 @@
+{
+  "id": "0898",
+  "slug": "cli",
+  "name": "cli",
+  "version": "2.92.0",
+  "description": {
+    "en": "GitHub’s official command line tool",
+    "cn": "GitHub 官方 CLI  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-28T11:42:05Z",
+  "icon": "",
+  "collections_tags": [
+    "go"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/cli/cli/releases/download/v2.92.0/gh_2.92.0_windows_amd64.msi",
+  "homepage": "https://github.com/cli/cli",
+  "category": "tool",
+  "windows_assets": [
+    "gh_2.92.0_windows_386.msi",
+    "gh_2.92.0_windows_386.zip",
+    "gh_2.92.0_windows_amd64.msi",
+    "gh_2.92.0_windows_amd64.zip",
+    "gh_2.92.0_windows_arm64.msi",
+    "gh_2.92.0_windows_arm64.zip"
+  ],
+  "release_url": "https://github.com/cli/cli/releases/tag/v2.92.0"
+}

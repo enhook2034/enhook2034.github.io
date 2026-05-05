@@ -2,19 +2,19 @@
   "id": "1lv7",
   "slug": "sqlearner",
   "name": "Sqlearner",
-  "version": "v0.4.0",
+  "version": "0.4.0",
   "description": {
     "en": "Learn SQL by yourself. Step by step. 闯关交互式SQL自学，从零基础开始进阶，祝你一路过关斩将！",
-    "cn": "Learn SQL by yourself. Step by step. 闯关交互式SQL自学，从零基础开始进阶，祝你一路过关斩将！"
+    "cn": "自学 SQL，从零开始逐步进阶。闯关式交互学习，祝你一路过关斩将！  "
   },
   "stars": 28,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-04-20T02:23:17Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/AperturePlus/sqlearner/releases/tag/v0.4.0",
+  "download_url": "https://github.com/AperturePlus/sqlearner/releases/download/v0.4.0/Lite-SQLearner-0.2.0-Setup-x64.exe",
   "homepage": "https://github.com/apertureplus/sqlearner",
   "category": "tool",
   "linuxdo": {
@@ -24,5 +24,7 @@
   },
   "source": "linuxdo",
   "release_url": "https://github.com/AperturePlus/sqlearner/releases/tag/v0.4.0",
-  "windows_assets": "Lite-SQLearner-0.2.0-Setup-x64.exe"
+  "windows_assets": [
+    "Lite-SQLearner-0.2.0-Setup-x64.exe"
+  ]
 }

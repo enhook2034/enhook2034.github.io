@@ -1,0 +1,25 @@
+{
+  "id": "a5ad",
+  "slug": "microsandbox",
+  "name": "microsandbox",
+  "version": "0.4.4",
+  "description": {
+    "en": "🧱 secure, local and programmable sandboxes for AI agents",
+    "cn": "AI 沙盒环境  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-03T22:27:58Z",
+  "icon": "",
+  "collections_tags": [
+    "rust"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.4.4/agentd-x86_64",
+  "homepage": "https://github.com/superradcompany/microsandbox",
+  "category": "tool",
+  "windows_assets": [
+    "agentd-x86_64"
+  ],
+  "release_url": "https://github.com/superradcompany/microsandbox/releases/tag/v0.4.4"
+}

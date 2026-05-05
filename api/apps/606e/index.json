@@ -1,0 +1,27 @@
+{
+  "id": "606e",
+  "slug": "protobuf",
+  "name": "protobuf",
+  "version": "34.1",
+  "description": {
+    "en": "Protocol Buffers - Google's data interchange format",
+    "cn": "Protocol Buffers 数据格式  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-03-19T22:21:30Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/protocolbuffers/protobuf/releases/download/v34.1/protoc-34.1-win64.zip",
+  "homepage": "https://github.com/protocolbuffers/protobuf",
+  "category": "tool",
+  "windows_assets": [
+    "protobuf-34.1.zip",
+    "protoc-34.1-win32.zip",
+    "protoc-34.1-win64.zip"
+  ],
+  "release_url": "https://github.com/protocolbuffers/protobuf/releases/tag/v34.1"
+}

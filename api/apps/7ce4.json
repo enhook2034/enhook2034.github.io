@@ -1,0 +1,23 @@
+{
+  "id": "7ce4",
+  "slug": "googletest",
+  "name": "googletest",
+  "version": "1.17.0",
+  "description": {
+    "en": "GoogleTest - Google Testing and Mocking Framework",
+    "cn": "GoogleTest 测试框架  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-04-30T17:07:52Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/google/googletest",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/google/googletest/releases/tag/v1.17.0"
+}

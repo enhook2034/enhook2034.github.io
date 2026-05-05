@@ -1,0 +1,23 @@
+{
+  "id": "e076",
+  "slug": "flow",
+  "name": "Flow",
+  "version": "2.1.0",
+  "description": {
+    "en": "A modern, feature-rich YouTube client for Android built with Jetpack Compose",
+    "cn": "现代 YouTube 客户端  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-26T19:30:12Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/A-EDev/Flow",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/A-EDev/Flow/releases/tag/v2.1.0"
+}

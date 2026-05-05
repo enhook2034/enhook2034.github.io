@@ -1,0 +1,25 @@
+{
+  "id": "153c",
+  "slug": "bmcu-c-pjarczak",
+  "name": "BMCU-C-PJARCZAK",
+  "version": "V10.5",
+  "description": {
+    "en": "BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.",
+    "cn": "Bambu Lab 固件  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-22T15:57:01Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/jarczakpawel/BMCU-C-PJARCZAK/releases/download/V10.5/firmwares_v10.5.zip",
+  "homepage": "https://github.com/jarczakpawel/BMCU-C-PJARCZAK",
+  "category": "tool",
+  "windows_assets": [
+    "firmwares_v10.5.zip"
+  ],
+  "release_url": "https://github.com/jarczakpawel/BMCU-C-PJARCZAK/releases/tag/V10.5"
+}

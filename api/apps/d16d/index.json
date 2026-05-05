@@ -1,0 +1,23 @@
+{
+  "id": "d16d",
+  "slug": "jaspr",
+  "name": "jaspr",
+  "version": "jaspr-v0.23.0",
+  "description": {
+    "en": "Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG.",
+    "cn": "Dart Web 框架  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-17T15:48:44Z",
+  "icon": "",
+  "collections_tags": [
+    "dart"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/schultek/jaspr",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/schultek/jaspr/releases/tag/jaspr-v0.23.0"
+}

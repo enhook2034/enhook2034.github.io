@@ -1,0 +1,23 @@
+{
+  "id": "810b",
+  "slug": "mlx-swift-lm",
+  "name": "mlx-swift-lm",
+  "version": "3.31.3",
+  "description": {
+    "en": "LLMs and VLMs with MLX Swift",
+    "cn": "MLX Swift LLM 框架  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-15T14:33:51Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/ml-explore/mlx-swift-lm",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/ml-explore/mlx-swift-lm/releases/tag/3.31.3"
+}

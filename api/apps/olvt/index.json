@@ -2,19 +2,19 @@
   "id": "olvt",
   "slug": "catime",
   "name": "Catime",
-  "version": "v1.4.0",
+  "version": "1.4.0",
   "description": {
     "en": "💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g",
-    "cn": "💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g"
+    "cn": "💌 一个仅 995KB 的小巧但强大的纯 C 定时器！几乎不占内存 ❤️‍🔥 支持时钟、倒计时、秒表、番茄钟以及可自定义托盘动画 💘  "
   },
   "stars": 4166,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-01-04T09:17:59Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/vladelaina/Catime/releases/tag/v1.4.0",
+  "download_url": "https://github.com/vladelaina/Catime/releases/download/v1.4.0/catime_1.4.0.exe",
   "homepage": "https://github.com/vladelaina/catime",
   "category": "tool",
   "linuxdo": {
@@ -24,5 +24,7 @@
   },
   "source": "linuxdo",
   "release_url": "https://github.com/vladelaina/Catime/releases/tag/v1.4.0",
-  "windows_assets": "catime_1.4.0.exe"
+  "windows_assets": [
+    "catime_1.4.0.exe"
+  ]
 }

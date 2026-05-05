@@ -2,7 +2,7 @@
   "id": "a3cf",
   "slug": "obsidian",
   "name": "Obsidian",
-  "version": "1.10.6",
+  "version": "1.12.7",
   "size": "415 KB",
   "publisher": "Obsidian MD",
   "license": "免费",
@@ -12,11 +12,11 @@
   ],
   "description": {
     "en": "Community plugins list, theme list, and releases of Obsidian.",
-    "cn": "Community plugins list, theme list, and releases of Obsidian."
+    "cn": "Obsidian 的社区插件列表、主题列表和发布版本。  "
   },
   "source": "ruanyifeng",
   "stars": 17074,
-  "updated_at": "2026-04-25T18:30:00Z",
+  "updated_at": "2026-03-23T15:56:19Z",
   "icon": "",
   "collections_tags": [
     "knowledge",
@@ -24,7 +24,11 @@
     "markdown"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe",
+  "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.exe",
   "homepage": "https://obsidian.md/",
-  "category": "create"
+  "category": "create",
+  "windows_assets": [
+    "Obsidian-1.12.7.exe"
+  ],
+  "release_url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.12.7"
 }

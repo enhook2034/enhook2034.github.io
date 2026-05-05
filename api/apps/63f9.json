@@ -1,0 +1,23 @@
+{
+  "id": "63f9",
+  "slug": "shizuku",
+  "name": "Shizuku",
+  "version": "13.6.0",
+  "description": {
+    "en": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+    "cn": "ADB/root 系统 API 调用工具  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2025-05-25T13:19:47Z",
+  "icon": "",
+  "collections_tags": [
+    "kotlin"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/RikkaApps/Shizuku",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/RikkaApps/Shizuku/releases/tag/v13.6.0"
+}

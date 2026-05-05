@@ -1,0 +1,21 @@
+{
+  "id": "4aeb",
+  "slug": "klipper",
+  "name": "klipper",
+  "version": "",
+  "description": {
+    "en": "Klipper is a 3d-printer firmware",
+    "cn": "Klipper 3D 打印固件  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-26T20:07:43Z",
+  "icon": "",
+  "collections_tags": [
+    "c#"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/Klipper3d/klipper",
+  "category": "tool"
+}

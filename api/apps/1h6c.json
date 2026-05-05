@@ -2,19 +2,19 @@
   "id": "1h6c",
   "slug": "bilibili-manga-watermark-remover",
   "name": "Bilibili Manga Watermark Remover",
-  "version": "v0.10.0",
+  "version": "0.10.0",
   "description": {
     "en": "bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe",
-    "cn": "bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe"
+    "cn": "哔哩哔哩漫画去水印工具（无痕无损，带 GUI）  "
   },
   "stars": 256,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2025-03-25T11:38:55Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/lanyeeee/bilibili-manga-watermark-remover/releases/tag/v0.10.0",
+  "download_url": "https://github.com/lanyeeee/bilibili-manga-watermark-remover/releases/download/v0.10.0/bilibili-manga-watermark-remover_0.10.0_windows_x64.exe",
   "homepage": "https://github.com/lanyeeee/bilibili-manga-watermark-remover",
   "category": "tool",
   "linuxdo": {

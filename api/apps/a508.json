@@ -2,19 +2,19 @@
   "id": "a508",
   "slug": "cc-desktop-zh-cn-win-portable",
   "name": "CC Desktop Zh Cn WIN Portable",
-  "version": "v0.1.0",
+  "version": "0.2.4",
   "description": {
     "en": "A Windows open-source project collected from linux.do: CC Desktop Zh Cn WIN Portable.",
     "cn": "来自 linux.do 帖子“Windows 版本的 Claude Desktop 绿色中文汉化的脚本”的 Windows 开源项目。"
   },
   "stars": 17,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2026-05-05T10:17:49Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.1.0",
+  "download_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/download/v0.2.4/WIN-CC-Desktop-zh-CN-Portable-v0.2.4.zip",
   "homepage": "https://github.com/fomo-run/cc-desktop-zh-cn-win-portable",
   "category": "tool",
   "linuxdo": {
@@ -23,9 +23,8 @@
     "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/onlyaigc/48/1060671_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.1.0",
+  "release_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.2.4",
   "windows_assets": [
-    "CC-desktop-zh-cn-WIN-portable-v0.1.0.zip",
-    "CC-desktop-zh-cn-WIN-portable-v0.1.0.zip.sha256"
+    "WIN-CC-Desktop-zh-CN-Portable-v0.2.4.zip"
   ]
 }

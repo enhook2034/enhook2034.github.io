@@ -1,0 +1,23 @@
+{
+  "id": "6980",
+  "slug": "foldcraftlauncher",
+  "name": "FoldCraftLauncher",
+  "version": "1.3.0.4",
+  "description": {
+    "en": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
+    "cn": "安卓 Minecraft 启动器（Fold Craft）  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-05-04T02:10:24Z",
+  "icon": "",
+  "collections_tags": [
+    "java"
+  ],
+  "download_count": 0,
+  "download_url": "",
+  "homepage": "https://github.com/FCL-Team/FoldCraftLauncher",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/FCL-Team/FoldCraftLauncher/releases/tag/1.3.0.4"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0bc7",
+  "slug": "mujoco",
+  "name": "mujoco",
+  "version": "3.8.0",
+  "description": {
+    "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "cn": "通用物理模拟器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-24T23:03:38Z",
+  "icon": "",
+  "collections_tags": [
+    "c++"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/google-deepmind/mujoco/releases/download/3.8.0/mujoco-3.8.0-windows-x86_64.zip",
+  "homepage": "https://github.com/google-deepmind/mujoco",
+  "category": "tool",
+  "windows_assets": [
+    "mujoco-3.8.0-windows-x86_64.zip"
+  ],
+  "release_url": "https://github.com/google-deepmind/mujoco/releases/tag/3.8.0"
+}

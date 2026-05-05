@@ -2,19 +2,19 @@
   "id": "23ae",
   "slug": "magpie",
   "name": "Magpie",
-  "version": "v0.12.1",
+  "version": "0.12.1",
   "description": {
     "en": "A general-purpose window upscaler for Windows 10/11.",
-    "cn": "A general-purpose window upscaler for Windows 10/11."
+    "cn": "Windows 10/11 通用窗口放大器  "
   },
   "stars": 13636,
-  "updated_at": "2026-04-26T09:53:50Z",
+  "updated_at": "2025-08-27T10:31:12Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/Blinue/Magpie/releases/tag/v0.12.1",
+  "download_url": "https://github.com/Blinue/Magpie/releases/download/v0.12.1/Magpie-v0.12.1-x64.zip",
   "homepage": "https://github.com/blinue/magpie",
   "category": "tool",
   "linuxdo": {

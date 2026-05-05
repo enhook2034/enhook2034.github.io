@@ -1,0 +1,23 @@
+{
+  "id": "646e",
+  "slug": "iina",
+  "name": "iina",
+  "version": "1.4.2-build164",
+  "description": {
+    "en": "The modern video player for macOS.",
+    "cn": "macOS 现代视频播放器  "
+  },
+  "source": "github-trending",
+  "stars": 0,
+  "updated_at": "2026-04-16T22:50:17Z",
+  "icon": "",
+  "collections_tags": [
+    "swift"
+  ],
+  "download_count": 0,
+  "download_url": "https://github.com/iina/iina/releases/download/v1.4.2-build164/IINA.v1.4.2-build164.dmg",
+  "homepage": "https://github.com/iina/iina",
+  "category": "tool",
+  "windows_assets": [],
+  "release_url": "https://github.com/iina/iina/releases/tag/v1.4.2-build164"
+}

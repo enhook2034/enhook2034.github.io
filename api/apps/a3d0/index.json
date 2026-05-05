@@ -2,14 +2,14 @@
   "id": "a3d0",
   "slug": "keepassxc",
   "name": "KeePassXC",
-  "version": "2.7.11",
+  "version": "2.7.12",
   "description": {
     "en": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-    "cn": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+    "cn": "KeePassXC 是 Windows 应用程序“Keepass Password Safe”的跨平台社区驱动移植版本。  "
   },
   "source": "linuxdo",
   "stars": 26745,
-  "updated_at": "2026-04-22T08:45:00Z",
+  "updated_at": "2026-03-10T01:16:42Z",
   "icon": "",
   "collections_tags": [
     "security",
@@ -18,6 +18,22 @@
   ],
   "category": "tool",
   "download_count": 0,
-  "download_url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.11/KeePassXC-2.7.11-Win64.msi",
-  "homepage": "https://keepassxc.org/"
+  "download_url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi",
+  "homepage": "https://keepassxc.org/",
+  "windows_assets": [
+    "KeePassXC-2.7.12-Win64-LegacyWindows.msi",
+    "KeePassXC-2.7.12-Win64-LegacyWindows.msi.DIGEST",
+    "KeePassXC-2.7.12-Win64-LegacyWindows.zip",
+    "KeePassXC-2.7.12-Win64-LegacyWindows.zip.DIGEST",
+    "KeePassXC-2.7.12-Win64.msi",
+    "KeePassXC-2.7.12-Win64.msi.DIGEST",
+    "KeePassXC-2.7.12-Win64.zip",
+    "KeePassXC-2.7.12-Win64.zip.DIGEST",
+    "KeePassXC-2.7.12-x86_64.AppImage",
+    "KeePassXC-2.7.12-x86_64.AppImage.DIGEST",
+    "KeePassXC-2.7.12-x86_64.AppImage.zsync",
+    "KeePassXC-2.7.12-x86_64.AppImage.zsync.DIGEST",
+    "KeePassXC-2.7.12-x86_64.dmg.DIGEST"
+  ],
+  "release_url": "https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.12"
 }
