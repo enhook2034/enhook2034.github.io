@@ -2,25 +2,25 @@
   "id": "f17b",
   "slug": "kazumi",
   "name": "Kazumi",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": {
     "en": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
     "cn": "番剧采集 APP  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-05-03T14:30:43Z",
+  "updated_at": "2026-05-08T07:41:12Z",
   "icon": "",
   "collections_tags": [
     "dart"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/Predidit/Kazumi/releases/download/2.1.0/Kazumi_windows_2.1.0.zip",
+  "download_url": "https://github.com/Predidit/Kazumi/releases/download/2.1.1/Kazumi_windows_2.1.1.zip",
   "homepage": "https://github.com/Predidit/Kazumi",
   "category": "tool",
   "windows_assets": [
-    "Kazumi_windows_2.1.0.msix",
-    "Kazumi_windows_2.1.0.zip"
+    "Kazumi_windows_2.1.1.msix",
+    "Kazumi_windows_2.1.1.zip"
   ],
-  "release_url": "https://github.com/Predidit/Kazumi/releases/tag/2.1.0"
+  "release_url": "https://github.com/Predidit/Kazumi/releases/tag/2.1.1"
 }

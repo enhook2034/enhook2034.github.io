@@ -2,19 +2,19 @@
   "id": "5tc5",
   "slug": "all-api-hub",
   "name": "All Api Hub",
-  "version": "3.36.0",
+  "version": "3.37.0",
   "description": {
     "en": "​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management",
     "cn": "一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，并提供高级渠道管理 | All-in-one New-API/Sub2API 账号中心：余额/用量仪表板、自动签到、一键密钥、价格对比、健康检查，以及高级渠道管理  "
   },
   "stars": 3217,
-  "updated_at": "2026-05-04T11:45:19Z",
+  "updated_at": "2026-05-07T15:36:01Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/qixing-jk/all-api-hub/releases/download/v3.36.0/all-api-hub-3.36.0-chrome.zip",
+  "download_url": "https://github.com/qixing-jk/all-api-hub/releases/download/v3.37.0/all-api-hub-3.37.0-chrome.zip",
   "homepage": "https://github.com/qixing-jk/all-api-hub",
   "category": "tool",
   "linuxdo": {
@@ -23,12 +23,12 @@
     "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/qixing-jk/all-api-hub/releases/tag/v3.36.0",
+  "release_url": "https://github.com/qixing-jk/all-api-hub/releases/tag/v3.37.0",
   "windows_assets": [
-    "all-api-hub-3.36.0-chrome.zip",
-    "all-api-hub-3.36.0-firefox.zip",
-    "all-api-hub-3.36.0-safari-xcode-bundle.zip",
-    "all-api-hub-3.36.0-safari.zip",
-    "all-api-hub-3.36.0-sources.zip"
+    "all-api-hub-3.37.0-chrome.zip",
+    "all-api-hub-3.37.0-firefox.zip",
+    "all-api-hub-3.37.0-safari-xcode-bundle.zip",
+    "all-api-hub-3.37.0-safari.zip",
+    "all-api-hub-3.37.0-sources.zip"
   ]
 }

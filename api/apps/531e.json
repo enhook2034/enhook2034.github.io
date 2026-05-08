@@ -2,24 +2,25 @@
   "id": "531e",
   "slug": "omniwm",
   "name": "OmniWM",
-  "version": "0.4.7.4",
+  "version": "0.4.8.1",
   "description": {
     "en": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
     "cn": "受 Niri/Hyprland 启发的 macOS 平铺窗口管理器  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-04-11T10:53:22Z",
+  "updated_at": "2026-05-05T19:17:46Z",
   "icon": "",
   "collections_tags": [
     "swift"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/BarutSRB/OmniWM/releases/download/v0.4.7.4/OmniWM-v0.4.7.4.zip",
+  "download_url": "https://github.com/BarutSRB/OmniWM/releases/download/v0.4.8.1/OmniWM-v0.4.8.1.zip",
   "homepage": "https://github.com/BarutSRB/OmniWM",
   "category": "tool",
   "windows_assets": [
-    "OmniWM-v0.4.7.4.zip"
+    "GhosttyKit.xcframework-v0.4.8.1.zip",
+    "OmniWM-v0.4.8.1.zip"
   ],
-  "release_url": "https://github.com/BarutSRB/OmniWM/releases/tag/v0.4.7.4"
+  "release_url": "https://github.com/BarutSRB/OmniWM/releases/tag/v0.4.8.1"
 }

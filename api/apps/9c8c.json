@@ -2,24 +2,24 @@
   "id": "9c8c",
   "slug": "opensre",
   "name": "opensre",
-  "version": "2026.5.5",
+  "version": "2026.5.8",
   "description": {
     "en": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
     "cn": "AI SRE 代理构建工具  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-05-05T01:16:19Z",
+  "updated_at": "2026-05-08T01:21:47Z",
   "icon": "",
   "collections_tags": [
     "python"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/Tracer-Cloud/opensre/releases/download/v2026.5.5/opensre_2026.5.5_windows-x64.zip",
+  "download_url": "https://github.com/Tracer-Cloud/opensre/releases/download/v2026.5.8/opensre_2026.5.8_windows-x64.zip",
   "homepage": "https://github.com/Tracer-Cloud/opensre",
   "category": "tool",
   "windows_assets": [
-    "opensre_2026.5.5_windows-x64.zip"
+    "opensre_2026.5.8_windows-x64.zip"
   ],
-  "release_url": "https://github.com/Tracer-Cloud/opensre/releases/tag/v2026.5.5"
+  "release_url": "https://github.com/Tracer-Cloud/opensre/releases/tag/v2026.5.8"
 }

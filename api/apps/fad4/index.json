@@ -2,25 +2,25 @@
   "id": "fad4",
   "slug": "iroh",
   "name": "iroh",
-  "version": "0.98.2",
+  "version": "1.0.0-rc.0",
   "description": {
     "en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
     "cn": "Rust 网络栈  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-04-28T13:55:25Z",
+  "updated_at": "2026-05-07T15:00:52Z",
   "icon": "",
   "collections_tags": [
     "rust"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/n0-computer/iroh/releases/download/v0.98.2/iroh-dns-server-v0.98.2-x86_64-pc-windows-msvc.zip",
+  "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-dns-server-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
   "homepage": "https://github.com/n0-computer/iroh",
   "category": "tool",
   "windows_assets": [
-    "iroh-dns-server-v0.98.2-x86_64-pc-windows-msvc.zip",
-    "iroh-relay-v0.98.2-x86_64-pc-windows-msvc.zip"
+    "iroh-dns-server-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
+    "iroh-relay-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip"
   ],
-  "release_url": "https://github.com/n0-computer/iroh/releases/tag/v0.98.2"
+  "release_url": "https://github.com/n0-computer/iroh/releases/tag/v1.0.0-rc.0"
 }

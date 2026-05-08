@@ -2,24 +2,24 @@
   "id": "e79f",
   "slug": "kai",
   "name": "Kai",
-  "version": "2.4.1",
+  "version": "2.5.0",
   "description": {
     "en": "OpenClaw alternative in your pocket",
     "cn": "移动版 OpenClaw 替代  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-05-01T22:41:54Z",
+  "updated_at": "2026-05-06T20:01:58Z",
   "icon": "",
   "collections_tags": [
     "kotlin"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/SimonSchubert/Kai/releases/download/v2.4.1/Kai-2.4.1-windows.msi",
+  "download_url": "https://github.com/SimonSchubert/Kai/releases/download/v2.5.0/Kai-2.5.0-windows.msi",
   "homepage": "https://github.com/SimonSchubert/Kai",
   "category": "tool",
   "windows_assets": [
-    "Kai-2.4.1-windows.msi"
+    "Kai-2.5.0-windows.msi"
   ],
-  "release_url": "https://github.com/SimonSchubert/Kai/releases/tag/v2.4.1"
+  "release_url": "https://github.com/SimonSchubert/Kai/releases/tag/v2.5.0"
 }

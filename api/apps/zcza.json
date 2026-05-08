@@ -2,19 +2,19 @@
   "id": "zcza",
   "slug": "golutra",
   "name": "Golutra",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": {
     "en": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
     "cn": "用于自动化、工作流和开发工具的多代理 AI 编排平台。Golutra 将 Codex、Claude Code 和 OpenClaw 转换为统一代理系统，支持并行执行、任务编排、长时间运行工作流以及 AI 生产力工作空间。  "
   },
   "stars": 3297,
-  "updated_at": "2026-05-01T10:11:35Z",
+  "updated_at": "2026-05-07T07:53:27Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/golutra/golutra/releases/download/v0.2.5/golutra_windows_x86_64.msi",
+  "download_url": "https://github.com/golutra/golutra/releases/download/v0.2.6/golutra_windows_x86_64.msi",
   "homepage": "https://github.com/golutra/golutra",
   "category": "tool",
   "linuxdo": {
@@ -23,7 +23,7 @@
     "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/xiaohuang/48/338864_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/golutra/golutra/releases/tag/v0.2.5",
+  "release_url": "https://github.com/golutra/golutra/releases/tag/v0.2.6",
   "windows_assets": [
     "golutra_windows_aarch64.msi",
     "golutra_windows_x86_64.msi",
