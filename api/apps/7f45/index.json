@@ -2,19 +2,19 @@
   "id": "7f45",
   "slug": "sublinkpro",
   "name": "sublinkPro",
-  "version": "1.1.12",
+  "version": "1.1.16",
   "description": {
     "en": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！",
     "cn": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️流量监控 🤖TG 远程管理 📜JS 脚本扩展 | 全新 Go+React UI，移动端友好！  "
   },
   "stars": 1133,
-  "updated_at": "2026-05-07T11:35:09Z",
+  "updated_at": "2026-05-11T03:20:21Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.1.12/sublinkPro-windows-amd64.exe",
+  "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.1.16/sublinkPro-windows-amd64.exe",
   "homepage": "https://github.com/zerodeng01/sublinkpro",
   "category": "tool",
   "linuxdo": {
@@ -23,7 +23,7 @@
     "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.12",
+  "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.16",
   "windows_assets": [
     "sublinkPro-windows-amd64.exe"
   ]

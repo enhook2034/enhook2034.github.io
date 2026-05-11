@@ -2,19 +2,19 @@
   "id": "1lmt",
   "slug": "ai-toolbox",
   "name": "Ai Toolbox",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "description": {
     "en": "Personal AI Toolbox",
     "cn": "个人 AI 工具箱  "
   },
   "stars": 681,
-  "updated_at": "2026-05-05T06:26:37Z",
+  "updated_at": "2026-05-08T15:40:21Z",
   "icon": "",
   "collections_tags": [
     "linuxdo"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/coulsontl/ai-toolbox/releases/download/v0.8.7/AI.Toolbox_0.8.7_x64-setup.exe",
+  "download_url": "https://github.com/coulsontl/ai-toolbox/releases/download/v0.8.8/AI.Toolbox_0.8.8_x64-setup.exe",
   "homepage": "https://github.com/coulsontl/ai-toolbox",
   "category": "tool",
   "linuxdo": {
@@ -23,11 +23,11 @@
     "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/baran/48/1758328_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.7",
+  "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.8",
   "windows_assets": [
-    "AI.Toolbox_0.8.7_amd64.AppImage",
-    "AI.Toolbox_0.8.7_x64-setup.exe",
-    "AI.Toolbox_0.8.7_x64_en-US.msi",
+    "AI.Toolbox_0.8.8_amd64.AppImage",
+    "AI.Toolbox_0.8.8_x64-setup.exe",
+    "AI.Toolbox_0.8.8_x64_en-US.msi",
     "AI.Toolbox_x64.app.tar.gz"
   ]
 }

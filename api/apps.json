@@ -201,14 +201,14 @@
     "id": "e5g5",
     "slug": "super-productivity",
     "name": "Super Productivity",
-    "version": "18.4.4",
+    "version": "18.5.0",
     "description": {
       "en": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
       "cn": "Super Productivity 是一款高级待办事项应用，集成了时间盒（Timeboxing）和时间跟踪功能。同时还支持与 Jira、GitLab、GitHub 和 Open Project 的集成。  "
     },
     "source": "ruanyifeng",
     "stars": 18854,
-    "updated_at": "2026-05-02T20:17:00Z",
+    "updated_at": "2026-05-09T19:24:59Z",
     "icon": "",
     "collections_tags": [
       "todo",
@@ -216,7 +216,7 @@
       "work"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/super-productivity/super-productivity/releases/download/v18.4.4/Super-Productivity-Setup-x64.exe",
+    "download_url": "https://github.com/super-productivity/super-productivity/releases/download/v18.5.0/Super-Productivity-Setup-x64.exe",
     "homepage": "https://super-productivity.com/",
     "category": "work",
     "windows_assets": [
@@ -228,7 +228,7 @@
       "superProductivity-x86_64.AppImage",
       "superProductivity.exe"
     ],
-    "release_url": "https://github.com/super-productivity/super-productivity/releases/tag/v18.4.4"
+    "release_url": "https://github.com/super-productivity/super-productivity/releases/tag/v18.5.0"
   },
   {
     "id": "b3x1",
@@ -450,19 +450,19 @@
     "id": "xaxv",
     "slug": "codex-manager",
     "name": "Codex Manager",
-    "version": "0.2.8",
+    "version": "0.3.1",
     "description": {
       "en": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。",
       "cn": "一个 Codex CLI 账号管理与切换工具，为 Codex CLI 提供本地网关转发。  "
     },
     "stars": 1662,
-    "updated_at": "2026-05-03T13:41:34Z",
+    "updated_at": "2026-05-10T15:38:39Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/qxcnm/Codex-Manager/releases/download/v0.2.8/CodexManager_0.2.8_x64-setup.exe",
+    "download_url": "https://github.com/qxcnm/Codex-Manager/releases/download/v0.3.1/CodexManager_0.3.1_x64-setup.exe",
     "homepage": "https://github.com/qxcnm/codex-manager",
     "category": "tool",
     "linuxdo": {
@@ -471,12 +471,12 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qxnm/48/1352128_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.2.8",
+    "release_url": "https://github.com/qxcnm/Codex-Manager/releases/tag/v0.3.1",
     "windows_assets": [
       "CodexManager-portable.exe",
       "CodexManager-service-windows-x86_64.zip",
-      "CodexManager_0.2.8_amd64.AppImage",
-      "CodexManager_0.2.8_x64-setup.exe"
+      "CodexManager_0.3.1_amd64.AppImage",
+      "CodexManager_0.3.1_x64-setup.exe"
     ]
   },
   {
@@ -514,19 +514,19 @@
     "id": "a508",
     "slug": "cc-desktop-zh-cn-win-portable",
     "name": "CC Desktop Zh Cn WIN Portable",
-    "version": "0.3.3",
+    "version": "0.3.10",
     "description": {
       "en": "A Windows open-source project collected from linux.do: CC Desktop Zh Cn WIN Portable.",
       "cn": "来自 linux.do 帖子“Windows 版本的 Claude Desktop 绿色中文汉化的脚本”的 Windows 开源项目。"
     },
     "stars": 17,
-    "updated_at": "2026-05-07T16:34:29Z",
+    "updated_at": "2026-05-09T09:21:16Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/download/v0.3.3/WIN-CC-Desktop-zh-CN-Portable-v0.3.3.zip",
+    "download_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/download/v0.3.10/WIN-CC-Desktop-zh-CN-Portable-v0.3.10.zip",
     "homepage": "https://github.com/fomo-run/cc-desktop-zh-cn-win-portable",
     "category": "tool",
     "linuxdo": {
@@ -535,9 +535,9 @@
       "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/onlyaigc/48/1060671_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.3.3",
+    "release_url": "https://github.com/FOMO-RUN/CC-desktop-zh-cn-WIN-portable/releases/tag/v0.3.10",
     "windows_assets": [
-      "WIN-CC-Desktop-zh-CN-Portable-v0.3.3.zip"
+      "WIN-CC-Desktop-zh-CN-Portable-v0.3.10.zip"
     ]
   },
   {
@@ -574,19 +574,19 @@
     "id": "7f45",
     "slug": "sublinkpro",
     "name": "sublinkPro",
-    "version": "1.1.12",
+    "version": "1.1.16",
     "description": {
       "en": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！",
       "cn": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️流量监控 🤖TG 远程管理 📜JS 脚本扩展 | 全新 Go+React UI，移动端友好！  "
     },
     "stars": 1133,
-    "updated_at": "2026-05-07T11:35:09Z",
+    "updated_at": "2026-05-11T03:20:21Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.1.12/sublinkPro-windows-amd64.exe",
+    "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.1.16/sublinkPro-windows-amd64.exe",
     "homepage": "https://github.com/zerodeng01/sublinkpro",
     "category": "tool",
     "linuxdo": {
@@ -595,7 +595,7 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.12",
+    "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.16",
     "windows_assets": [
       "sublinkPro-windows-amd64.exe"
     ]
@@ -759,19 +759,19 @@
     "id": "1r5v",
     "slug": "syncnos",
     "name": "SyncNos",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "description": {
       "en": "SyncNos is an open-source web clipper that saves AI chats, web articles, and video transcripts into Notion or Obsidian.",
       "cn": "SyncNos 是一个开源网页剪藏工具，可将 AI 对话、网页文章和视频字幕保存到 Notion 或 Obsidian。  "
     },
     "stars": 130,
-    "updated_at": "2026-04-20T09:26:25Z",
+    "updated_at": "2026-05-10T14:29:32Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/chiimagnus/SyncNos/releases/download/v1.6.1/syncnos-webclipper-chrome-v1.6.1.zip",
+    "download_url": "https://github.com/SyncNos/SyncNos-Webclipper/releases/download/v1.6.2/syncnos-webclipper-chrome-v1.6.2.zip",
     "homepage": "https://github.com/chiimagnus/syncnos",
     "category": "tool",
     "linuxdo": {
@@ -780,10 +780,10 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/hawki/48/996813_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.1",
+    "release_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.2",
     "windows_assets": [
-      "syncnos-webclipper-chrome-v1.6.1.zip",
-      "syncnos-webclipper-edge-v1.6.1.zip"
+      "syncnos-webclipper-chrome-v1.6.2.zip",
+      "syncnos-webclipper-edge-v1.6.2.zip"
     ]
   },
   {
@@ -1040,19 +1040,19 @@
     "id": "1lmt",
     "slug": "ai-toolbox",
     "name": "Ai Toolbox",
-    "version": "0.8.7",
+    "version": "0.8.8",
     "description": {
       "en": "Personal AI Toolbox",
       "cn": "个人 AI 工具箱  "
     },
     "stars": 681,
-    "updated_at": "2026-05-05T06:26:37Z",
+    "updated_at": "2026-05-08T15:40:21Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/coulsontl/ai-toolbox/releases/download/v0.8.7/AI.Toolbox_0.8.7_x64-setup.exe",
+    "download_url": "https://github.com/coulsontl/ai-toolbox/releases/download/v0.8.8/AI.Toolbox_0.8.8_x64-setup.exe",
     "homepage": "https://github.com/coulsontl/ai-toolbox",
     "category": "tool",
     "linuxdo": {
@@ -1061,11 +1061,11 @@
       "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/baran/48/1758328_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.7",
+    "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.8",
     "windows_assets": [
-      "AI.Toolbox_0.8.7_amd64.AppImage",
-      "AI.Toolbox_0.8.7_x64-setup.exe",
-      "AI.Toolbox_0.8.7_x64_en-US.msi",
+      "AI.Toolbox_0.8.8_amd64.AppImage",
+      "AI.Toolbox_0.8.8_x64-setup.exe",
+      "AI.Toolbox_0.8.8_x64_en-US.msi",
       "AI.Toolbox_x64.app.tar.gz"
     ]
   },
@@ -1475,7 +1475,7 @@
     "id": "1xq8",
     "slug": "qkeymapper",
     "name": "QKeyMapper",
-    "version": "1.3.8.20260424",
+    "version": "1.3.8.20260508",
     "description": {
       "en": "[按键映射工具] QKeyMapper，Qt开发Win10&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。",
       "cn": "QKeyMapper 按键映射工具（Qt 开发，无需修改注册表或重启）  "
@@ -1487,7 +1487,7 @@
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/Zalafina/QKeyMapper/releases/download/v1.3.8.20260424/QKeyMapper_v1.3.8.20260424_Qt6_x64.zip",
+    "download_url": "https://github.com/Zalafina/QKeyMapper/releases/download/v1.3.8.20260508/QKeyMapper_v1.3.8.20260424_Qt6_x64.zip",
     "homepage": "https://github.com/zalafina/qkeymapper",
     "category": "tool",
     "linuxdo": {
@@ -1496,11 +1496,14 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/uoht/48/993204_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/Zalafina/QKeyMapper/releases/tag/v1.3.8.20260424",
+    "release_url": "https://github.com/Zalafina/QKeyMapper/releases/tag/v1.3.8.20260508",
     "windows_assets": [
       "QKeyMapper_v1.3.8.20260424_Qt5_x64.zip",
       "QKeyMapper_v1.3.8.20260424_Qt5_x86.zip",
-      "QKeyMapper_v1.3.8.20260424_Qt6_x64.zip"
+      "QKeyMapper_v1.3.8.20260424_Qt6_x64.zip",
+      "QKeyMapper_v1.3.8.20260508_Qt5_x64.zip",
+      "QKeyMapper_v1.3.8.20260508_Qt5_x86.zip",
+      "QKeyMapper_v1.3.8.20260508_Qt6_x64.zip"
     ]
   },
   {
@@ -1596,20 +1599,20 @@
     "id": "a3b9",
     "slug": "zed",
     "name": "zed",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": {
       "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "cn": "Zed：高性能多人代码编辑器  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-06T21:42:44Z",
+    "updated_at": "2026-05-08T20:11:28Z",
     "icon": "",
     "collections_tags": [
       "rust"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/zed-industries/zed/releases/download/v1.1.6/Zed-x86_64.exe",
+    "download_url": "https://github.com/zed-industries/zed/releases/download/v1.1.7/Zed-x86_64.exe",
     "homepage": "https://github.com/zed-industries/zed",
     "category": "tool",
     "windows_assets": [
@@ -1618,7 +1621,7 @@
       "zed-remote-server-windows-x86_64.zip",
       "Zed-x86_64.exe"
     ],
-    "release_url": "https://github.com/zed-industries/zed/releases/tag/v1.1.6"
+    "release_url": "https://github.com/zed-industries/zed/releases/tag/v1.1.7"
   },
   {
     "id": "70f4",
@@ -1827,7 +1830,7 @@
     "windows_assets": [
       "Feather_Catalyst.zip"
     ],
-    "release_url": "https://github.com/CLARATION/Feather/releases/tag/v2.8.2"
+    "release_url": "https://github.com/claration/Feather/releases/tag/v2.8.2"
   },
   {
     "id": "4dea",
@@ -1894,49 +1897,51 @@
     "id": "26f0",
     "slug": "meshcore-open",
     "name": "meshcore-open",
-    "version": "Alpha8",
+    "version": "Alpha9",
     "description": {
       "en": "Open-source Flutter client for MeshCore LoRa mesh networking devices",
       "cn": "MeshCore LoRa 网络 Flutter 客户端  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-04-15T05:08:29Z",
+    "updated_at": "2026-05-10T02:40:43Z",
     "icon": "",
     "collections_tags": [
       "dart"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/zjs81/meshcore-open/releases/download/Alpha8/MeshCore-Linux-Build.zip",
+    "download_url": "https://github.com/zjs81/meshcore-open/releases/download/Alpha9/meshcore_open-9.0.0-android.zip",
     "homepage": "https://github.com/zjs81/meshcore-open",
     "category": "tool",
-    "windows_assets": [],
-    "release_url": "https://github.com/zjs81/meshcore-open/releases/tag/Alpha8"
+    "windows_assets": [
+      "meshcore_open-9.0.0-android.zip"
+    ],
+    "release_url": "https://github.com/zjs81/meshcore-open/releases/tag/Alpha9"
   },
   {
     "id": "e97a",
     "slug": "breeze",
     "name": "Breeze",
-    "version": "3.0.8",
+    "version": "3.0.9",
     "description": {
       "en": "Breeze 是一个漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai。采用 Flutter 开发。",
       "cn": "Breeze 漫画阅读器（插件支持多源）  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-07T09:46:42Z",
+    "updated_at": "2026-05-10T10:17:35Z",
     "icon": "",
     "collections_tags": [
       "dart"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/deretame/Breeze/releases/download/v3.0.8/windows-installer.exe",
+    "download_url": "https://github.com/deretame/Breeze/releases/download/v3.0.9/windows-installer.exe",
     "homepage": "https://github.com/deretame/Breeze",
     "category": "tool",
     "windows_assets": [
       "windows-installer.exe"
     ],
-    "release_url": "https://github.com/deretame/Breeze/releases/tag/v3.0.8"
+    "release_url": "https://github.com/deretame/Breeze/releases/tag/v3.0.9"
   },
   {
     "id": "8e7d",
@@ -1961,7 +1966,7 @@
     "windows_assets": [
       "pi-windows-x64.zip"
     ],
-    "release_url": "https://github.com/badlogic/pi-mono/releases/tag/v0.74.0"
+    "release_url": "https://github.com/earendil-works/pi/releases/tag/v0.74.0"
   },
   {
     "id": "e40b",
@@ -2020,26 +2025,26 @@
     "id": "9c8c",
     "slug": "opensre",
     "name": "opensre",
-    "version": "2026.5.8",
+    "version": "2026.5.11",
     "description": {
       "en": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
       "cn": "AI SRE 代理构建工具  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-08T01:21:47Z",
+    "updated_at": "2026-05-11T01:28:03Z",
     "icon": "",
     "collections_tags": [
       "python"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/Tracer-Cloud/opensre/releases/download/v2026.5.8/opensre_2026.5.8_windows-x64.zip",
+    "download_url": "https://github.com/Tracer-Cloud/opensre/releases/download/v2026.5.11/opensre_2026.5.11_windows-x64.zip",
     "homepage": "https://github.com/Tracer-Cloud/opensre",
     "category": "tool",
     "windows_assets": [
-      "opensre_2026.5.8_windows-x64.zip"
+      "opensre_2026.5.11_windows-x64.zip"
     ],
-    "release_url": "https://github.com/Tracer-Cloud/opensre/releases/tag/v2026.5.8"
+    "release_url": "https://github.com/Tracer-Cloud/opensre/releases/tag/v2026.5.11"
   },
   {
     "id": "0898",
@@ -2103,71 +2108,71 @@
     "id": "d378",
     "slug": "llamacpp",
     "name": "llama.cpp",
-    "version": "b9070",
+    "version": "b9102",
     "description": {
       "en": "LLM inference in C/C++",
       "cn": "C/C++ LLM 推理  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-08T05:20:27Z",
+    "updated_at": "2026-05-11T06:15:51Z",
     "icon": "",
     "collections_tags": [
       "c++"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/ggml-org/llama.cpp/releases/download/b9070/llama-b9070-bin-win-cuda-13.1-x64.zip",
+    "download_url": "https://github.com/ggml-org/llama.cpp/releases/download/b9102/llama-b9102-bin-win-cpu-x64.zip",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "category": "tool",
     "windows_assets": [
       "cudart-llama-bin-win-cuda-12.4-x64.zip",
       "cudart-llama-bin-win-cuda-13.1-x64.zip",
-      "llama-b9070-bin-ubuntu-openvino-2026.0-x64.tar.gz",
-      "llama-b9070-bin-ubuntu-rocm-7.2-x64.tar.gz",
-      "llama-b9070-bin-ubuntu-sycl-fp16-x64.tar.gz",
-      "llama-b9070-bin-ubuntu-sycl-fp32-x64.tar.gz",
-      "llama-b9070-bin-ubuntu-vulkan-x64.tar.gz",
-      "llama-b9070-bin-ubuntu-x64.tar.gz",
-      "llama-b9070-bin-win-cpu-arm64.zip",
-      "llama-b9070-bin-win-cpu-x64.zip",
-      "llama-b9070-bin-win-cuda-12.4-x64.zip",
-      "llama-b9070-bin-win-cuda-13.1-x64.zip",
-      "llama-b9070-bin-win-hip-radeon-x64.zip",
-      "llama-b9070-bin-win-opencl-adreno-arm64.zip",
-      "llama-b9070-bin-win-sycl-x64.zip",
-      "llama-b9070-bin-win-vulkan-x64.zip",
-      "llama-b9070-xcframework.zip"
+      "llama-b9102-bin-ubuntu-openvino-2026.0-x64.tar.gz",
+      "llama-b9102-bin-ubuntu-rocm-7.2-x64.tar.gz",
+      "llama-b9102-bin-ubuntu-sycl-fp16-x64.tar.gz",
+      "llama-b9102-bin-ubuntu-sycl-fp32-x64.tar.gz",
+      "llama-b9102-bin-ubuntu-vulkan-x64.tar.gz",
+      "llama-b9102-bin-ubuntu-x64.tar.gz",
+      "llama-b9102-bin-win-cpu-arm64.zip",
+      "llama-b9102-bin-win-cpu-x64.zip",
+      "llama-b9102-bin-win-cuda-12.4-x64.zip",
+      "llama-b9102-bin-win-cuda-13.1-x64.zip",
+      "llama-b9102-bin-win-hip-radeon-x64.zip",
+      "llama-b9102-bin-win-opencl-adreno-arm64.zip",
+      "llama-b9102-bin-win-sycl-x64.zip",
+      "llama-b9102-bin-win-vulkan-x64.zip",
+      "llama-b9102-xcframework.zip"
     ],
-    "release_url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9070"
+    "release_url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9102"
   },
   {
     "id": "7e9b",
     "slug": "onnxruntime",
     "name": "onnxruntime",
-    "version": "1.25.1",
+    "version": "1.26.0",
     "description": {
       "en": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "cn": "ONNX Runtime 推理加速器  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-04-27T21:46:20Z",
+    "updated_at": "2026-05-08T19:24:39Z",
     "icon": "",
     "collections_tags": [
       "c++"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/microsoft/onnxruntime/releases/download/v1.25.1/onnxruntime-win-x64-1.25.1.zip",
+    "download_url": "https://github.com/microsoft/onnxruntime/releases/download/v1.26.0/onnxruntime-win-x64-1.26.0.zip",
     "homepage": "https://github.com/microsoft/onnxruntime",
     "category": "tool",
     "windows_assets": [
-      "onnxruntime-win-arm64-1.25.1.zip",
-      "onnxruntime-win-arm64x-1.25.1.zip",
-      "onnxruntime-win-x64-1.25.1.zip",
-      "onnxruntime-win-x64-gpu-1.25.1.zip",
-      "onnxruntime-win-x64-gpu_cuda13-1.25.1.zip"
+      "onnxruntime-win-arm64-1.26.0.zip",
+      "onnxruntime-win-arm64x-1.26.0.zip",
+      "onnxruntime-win-x64-1.26.0.zip",
+      "onnxruntime-win-x64-gpu-1.26.0.zip",
+      "onnxruntime-win-x64-gpu_cuda13-1.26.0.zip"
     ],
-    "release_url": "https://github.com/microsoft/onnxruntime/releases/tag/v1.25.1"
+    "release_url": "https://github.com/microsoft/onnxruntime/releases/tag/v1.26.0"
   },
   {
     "id": "0bc7",
@@ -2224,27 +2229,27 @@
     "id": "002a",
     "slug": "redpanda",
     "name": "redpanda",
-    "version": "26.1.6",
+    "version": "26.1.7",
     "description": {
       "en": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
       "cn": "Redpanda 流数据平台  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-04-22T01:35:02Z",
+    "updated_at": "2026-05-08T12:48:18Z",
     "icon": "",
     "collections_tags": [
       "c++"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/redpanda-data/redpanda/releases/download/v26.1.6/rpk-windows-amd64.zip",
+    "download_url": "https://github.com/redpanda-data/redpanda/releases/download/v26.1.7/rpk-windows-amd64.zip",
     "homepage": "https://github.com/redpanda-data/redpanda",
     "category": "tool",
     "windows_assets": [
       "rpk-windows-amd64.zip",
       "rpk-windows-arm64.zip"
     ],
-    "release_url": "https://github.com/redpanda-data/redpanda/releases/tag/v26.1.6"
+    "release_url": "https://github.com/redpanda-data/redpanda/releases/tag/v26.1.7"
   },
   {
     "id": "466d",
@@ -2640,7 +2645,7 @@
       "rust"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-dns-server-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
+    "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-relay-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
     "homepage": "https://github.com/n0-computer/iroh",
     "category": "tool",
     "windows_assets": [
@@ -2705,27 +2710,27 @@
     "id": "4394",
     "slug": "codex-acp",
     "name": "codex-acp",
-    "version": "0.13.0",
+    "version": "0.14.0",
     "description": {
       "en": "",
       "cn": ""
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-03T22:57:52Z",
+    "updated_at": "2026-05-08T12:24:55Z",
     "icon": "",
     "collections_tags": [
       "rust"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/zed-industries/codex-acp/releases/download/v0.13.0/codex-acp-0.13.0-x86_64-pc-windows-msvc.zip",
+    "download_url": "https://github.com/zed-industries/codex-acp/releases/download/v0.14.0/codex-acp-0.14.0-x86_64-pc-windows-msvc.zip",
     "homepage": "https://github.com/zed-industries/codex-acp",
     "category": "tool",
     "windows_assets": [
-      "codex-acp-0.13.0-aarch64-pc-windows-msvc.zip",
-      "codex-acp-0.13.0-x86_64-pc-windows-msvc.zip"
+      "codex-acp-0.14.0-aarch64-pc-windows-msvc.zip",
+      "codex-acp-0.14.0-x86_64-pc-windows-msvc.zip"
     ],
-    "release_url": "https://github.com/zed-industries/codex-acp/releases/tag/v0.13.0"
+    "release_url": "https://github.com/zed-industries/codex-acp/releases/tag/v0.14.0"
   },
   {
     "id": "4878",
@@ -3139,26 +3144,26 @@
     "id": "a1e7",
     "slug": "omi",
     "name": "omi",
-    "version": "0.11.379+11379-macos",
+    "version": "Omi_CV1_v3.0.19",
     "description": {
       "en": "AI that sees your screen, listens to your conversations and tells you what to do",
       "cn": "AI 屏幕助手  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-07T01:40:01Z",
+    "updated_at": "2026-05-09T16:07:41Z",
     "icon": "",
     "collections_tags": [
       "dart"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/BasedHardware/omi/releases/download/v0.11.379%2B11379-macos/Omi.zip",
+    "download_url": "https://github.com/BasedHardware/omi/releases/download/Omi_CV1_v3.0.19/Omi_CV1_OTA_v3.0.19.zip",
     "homepage": "https://github.com/BasedHardware/omi",
     "category": "tool",
     "windows_assets": [
-      "Omi.zip"
+      "Omi_CV1_OTA_v3.0.19.zip"
     ],
-    "release_url": "https://github.com/BasedHardware/omi/releases/tag/v0.11.379+11379-macos"
+    "release_url": "https://github.com/BasedHardware/omi/releases/tag/Omi_CV1_v3.0.19"
   },
   {
     "id": "e562",

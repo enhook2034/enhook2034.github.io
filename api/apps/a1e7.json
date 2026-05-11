@@ -2,24 +2,24 @@
   "id": "a1e7",
   "slug": "omi",
   "name": "omi",
-  "version": "0.11.379+11379-macos",
+  "version": "Omi_CV1_v3.0.19",
   "description": {
     "en": "AI that sees your screen, listens to your conversations and tells you what to do",
     "cn": "AI 屏幕助手  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-05-07T01:40:01Z",
+  "updated_at": "2026-05-09T16:07:41Z",
   "icon": "",
   "collections_tags": [
     "dart"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/BasedHardware/omi/releases/download/v0.11.379%2B11379-macos/Omi.zip",
+  "download_url": "https://github.com/BasedHardware/omi/releases/download/Omi_CV1_v3.0.19/Omi_CV1_OTA_v3.0.19.zip",
   "homepage": "https://github.com/BasedHardware/omi",
   "category": "tool",
   "windows_assets": [
-    "Omi.zip"
+    "Omi_CV1_OTA_v3.0.19.zip"
   ],
-  "release_url": "https://github.com/BasedHardware/omi/releases/tag/v0.11.379+11379-macos"
+  "release_url": "https://github.com/BasedHardware/omi/releases/tag/Omi_CV1_v3.0.19"
 }
