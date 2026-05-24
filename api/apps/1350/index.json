@@ -2,25 +2,25 @@
   "id": "1350",
   "slug": "clashmi",
   "name": "clashmi",
-  "version": "1.0.22.802",
+  "version": "1.0.23.904",
   "description": {
     "en": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
     "cn": "Clash Mihomo 多平台客户端  "
   },
   "source": "github-trending",
   "stars": 0,
-  "updated_at": "2026-04-30T03:47:36Z",
-  "icon": "",
+  "updated_at": "2026-05-08T05:31:24Z",
+  "icon": "/icons/apps/clashmi.webp",
   "collections_tags": [
     "dart"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/KaringX/clashmi/releases/download/v1.0.22.802/clashmi_1.0.22.802_windows_x64.exe",
+  "download_url": "https://github.com/KaringX/clashmi/releases/download/v1.0.23.904/clashmi_1.0.23.904_windows_x64.exe",
   "homepage": "https://github.com/KaringX/clashmi",
   "category": "tool",
   "windows_assets": [
-    "clashmi_1.0.22.802_windows_x64.exe",
-    "clashmi_1.0.22.802_windows_x64.zip"
+    "clashmi_1.0.23.904_windows_x64.exe",
+    "clashmi_1.0.23.904_windows_x64.zip"
   ],
-  "release_url": "https://github.com/KaringX/clashmi/releases/tag/v1.0.22.802"
+  "release_url": "https://github.com/KaringX/clashmi/releases/tag/v1.0.23.904"
 }

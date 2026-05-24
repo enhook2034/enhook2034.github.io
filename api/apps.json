@@ -109,7 +109,7 @@
     "source": "linuxdo",
     "stars": 26745,
     "updated_at": "2026-03-10T01:16:42Z",
-    "icon": "",
+    "icon": "/icons/apps/keepassxc.webp",
     "collections_tags": [
       "security",
       "password",
@@ -155,7 +155,7 @@
     "source": "ruanyifeng",
     "stars": 17074,
     "updated_at": "2026-03-23T15:56:19Z",
-    "icon": "",
+    "icon": "/icons/apps/obsidian.webp",
     "collections_tags": [
       "knowledge",
       "notes",
@@ -182,7 +182,7 @@
     "source": "ruanyifeng",
     "stars": 1193,
     "updated_at": "2022-06-03T17:40:33Z",
-    "icon": "",
+    "icon": "/icons/apps/project-eye.webp",
     "collections_tags": [
       "health",
       "focus",
@@ -209,7 +209,7 @@
     "source": "ruanyifeng",
     "stars": 18854,
     "updated_at": "2026-05-09T19:24:59Z",
-    "icon": "",
+    "icon": "/icons/apps/super-productivity.webp",
     "collections_tags": [
       "todo",
       "time-tracking",
@@ -298,7 +298,7 @@
     },
     "stars": 1634,
     "updated_at": "2025-10-02T00:31:03Z",
-    "icon": "",
+    "icon": "/icons/apps/veloera.webp",
     "collections_tags": [
       "linuxdo"
     ],
@@ -381,19 +381,19 @@
     "id": "1wzs",
     "slug": "cherry-studio",
     "name": "Cherry Studio",
-    "version": "1.9.4",
+    "version": "1.9.5",
     "description": {
       "en": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
       "cn": "AI 生产力工作室，提供智能聊天、自主代理和 300+ 助手。统一访问前沿大模型  "
     },
     "stars": 44460,
-    "updated_at": "2026-04-30T14:04:41Z",
-    "icon": "",
+    "updated_at": "2026-05-12T10:34:58Z",
+    "icon": "/icons/apps/cherry-studio.webp",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.4/Cherry-Studio-1.9.4-x64-setup.exe",
+    "download_url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.5/Cherry-Studio-1.9.5-x64-setup.exe",
     "homepage": "https://github.com/cherryhq/cherry-studio",
     "category": "tool",
     "linuxdo": {
@@ -402,15 +402,15 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/qi_xing_jk/48/104039_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.4",
+    "release_url": "https://github.com/CherryHQ/cherry-studio/releases/tag/v1.9.5",
     "windows_assets": [
-      "Cherry-Studio-1.9.4-arm64-portable.exe",
-      "Cherry-Studio-1.9.4-arm64-setup.exe",
-      "Cherry-Studio-1.9.4-arm64.zip",
-      "Cherry-Studio-1.9.4-x64-portable.exe",
-      "Cherry-Studio-1.9.4-x64-setup.exe",
-      "Cherry-Studio-1.9.4-x64.zip",
-      "Cherry-Studio-1.9.4-x86_64.AppImage"
+      "Cherry-Studio-1.9.5-arm64-portable.exe",
+      "Cherry-Studio-1.9.5-arm64-setup.exe",
+      "Cherry-Studio-1.9.5-arm64.zip",
+      "Cherry-Studio-1.9.5-x64-portable.exe",
+      "Cherry-Studio-1.9.5-x64-setup.exe",
+      "Cherry-Studio-1.9.5-x64.zip",
+      "Cherry-Studio-1.9.5-x86_64.AppImage"
     ]
   },
   {
@@ -574,19 +574,19 @@
     "id": "7f45",
     "slug": "sublinkpro",
     "name": "sublinkPro",
-    "version": "1.1.16",
+    "version": "1.1.18",
     "description": {
       "en": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！",
       "cn": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️流量监控 🤖TG 远程管理 📜JS 脚本扩展 | 全新 Go+React UI，移动端友好！  "
     },
     "stars": 1133,
-    "updated_at": "2026-05-11T03:20:21Z",
+    "updated_at": "2026-05-12T16:15:15Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.1.16/sublinkPro-windows-amd64.exe",
+    "download_url": "https://github.com/ZeroDeng01/sublinkPro/releases/download/v1.1.18/sublinkPro-windows-amd64.exe",
     "homepage": "https://github.com/zerodeng01/sublinkpro",
     "category": "tool",
     "linuxdo": {
@@ -595,7 +595,7 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/zerodeng/48/1759600_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.16",
+    "release_url": "https://github.com/ZeroDeng01/sublinkPro/releases/tag/v1.1.18",
     "windows_assets": [
       "sublinkPro-windows-amd64.exe"
     ]
@@ -668,13 +668,13 @@
     "id": "1hyc",
     "slug": "animex",
     "name": "AnimeX",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "description": {
       "en": "AnimeX 是一个基于 Mikan Project、Bangumi.tv 与多储存桶后端的番剧管理系统，支持自动追番、媒体库搜刮、在线播放、用户权限、管理员面板、下载申请、PikPak / 115 / 本地 / NAS 存储和 Docker 一体化部署。",
       "cn": "AnimeX 是一个基于 Mikan Project、Bangumi.tv 和多存储桶后端的番剧管理系统，支持自动追番、媒体库整理、在线播放、用户权限、管理员面板、下载申请，以及 PikPak / 115 / 本地 / NAS 存储和 Docker 一体化部署。  "
     },
     "stars": 54,
-    "updated_at": "2026-04-25T08:27:42Z",
+    "updated_at": "2026-05-13T02:34:50Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
@@ -689,10 +689,8 @@
       "author_avatar_url": "https://cdn.ldstatic.com/letter_avatar/bilo8/48/5_c16b2ee14fe83ed9a59fc65fbec00f85.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/YinBuLiao/AnimeX/releases/tag/v0.1.1",
-    "windows_assets": [
-      "bangumi-pikpak-20260425-161836-windows-amd64.zip"
-    ]
+    "release_url": "https://github.com/YinBuLiao/AnimeX/releases/tag/v1.0.0",
+    "windows_assets": []
   },
   {
     "id": "1b50",
@@ -766,7 +764,7 @@
     },
     "stars": 130,
     "updated_at": "2026-05-10T14:29:32Z",
-    "icon": "",
+    "icon": "/icons/apps/syncnos.webp",
     "collections_tags": [
       "linuxdo"
     ],
@@ -780,7 +778,7 @@
       "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/hawki/48/996813_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.2",
+    "release_url": "https://github.com/SyncNos/SyncNos-Webclipper/releases/tag/v1.6.2",
     "windows_assets": [
       "syncnos-webclipper-chrome-v1.6.2.zip",
       "syncnos-webclipper-edge-v1.6.2.zip"
@@ -797,7 +795,7 @@
     },
     "stars": 3297,
     "updated_at": "2026-05-07T07:53:27Z",
-    "icon": "",
+    "icon": "/icons/apps/golutra.webp",
     "collections_tags": [
       "linuxdo"
     ],
@@ -852,19 +850,19 @@
     "id": "ylen",
     "slug": "openflare",
     "name": "OpenFlare",
-    "version": "1.5.0",
+    "version": "1.6.1",
     "description": {
       "en": "分布式CDN边缘节点, 由统一的控制中心对节点进行管控。",
       "cn": "分布式 CDN 边缘节点，由统一控制中心管理节点。  "
     },
     "stars": 51,
-    "updated_at": "2026-04-25T12:56:48Z",
+    "updated_at": "2026-05-13T04:12:21Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/Rain-kl/OpenFlare/releases/download/v1.5.0/openflare-server-windows-amd64.exe",
+    "download_url": "https://github.com/Rain-kl/OpenFlare/releases/download/v1.6.1/openflare-server-windows-amd64.exe",
     "homepage": "https://github.com/rain-kl/openflare",
     "category": "tool",
     "linuxdo": {
@@ -873,7 +871,7 @@
       "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/wyrm/48/428410_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/Rain-kl/OpenFlare/releases/tag/v1.5.0",
+    "release_url": "https://github.com/Rain-kl/OpenFlare/releases/tag/v1.6.1",
     "windows_assets": [
       "openflare-server-windows-amd64.exe"
     ]
@@ -1016,7 +1014,7 @@
     },
     "stars": 2621,
     "updated_at": "2026-03-03T03:25:19Z",
-    "icon": "",
+    "icon": "/icons/apps/myclaude.webp",
     "collections_tags": [
       "linuxdo"
     ],
@@ -1040,19 +1038,19 @@
     "id": "1lmt",
     "slug": "ai-toolbox",
     "name": "Ai Toolbox",
-    "version": "0.8.8",
+    "version": "0.8.9",
     "description": {
       "en": "Personal AI Toolbox",
       "cn": "个人 AI 工具箱  "
     },
     "stars": 681,
-    "updated_at": "2026-05-08T15:40:21Z",
+    "updated_at": "2026-05-12T00:24:30Z",
     "icon": "",
     "collections_tags": [
       "linuxdo"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/coulsontl/ai-toolbox/releases/download/v0.8.8/AI.Toolbox_0.8.8_x64-setup.exe",
+    "download_url": "https://github.com/coulsontl/ai-toolbox/releases/download/v0.8.9/AI.Toolbox_0.8.9_x64-setup.exe",
     "homepage": "https://github.com/coulsontl/ai-toolbox",
     "category": "tool",
     "linuxdo": {
@@ -1061,11 +1059,11 @@
       "author_avatar_url": "https://cdn.ldstatic.com/user_avatar/linux.do/baran/48/1758328_2.png"
     },
     "source": "linuxdo",
-    "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.8",
+    "release_url": "https://github.com/coulsontl/ai-toolbox/releases/tag/v0.8.9",
     "windows_assets": [
-      "AI.Toolbox_0.8.8_amd64.AppImage",
-      "AI.Toolbox_0.8.8_x64-setup.exe",
-      "AI.Toolbox_0.8.8_x64_en-US.msi",
+      "AI.Toolbox_0.8.9_amd64.AppImage",
+      "AI.Toolbox_0.8.9_x64-setup.exe",
+      "AI.Toolbox_0.8.9_x64_en-US.msi",
       "AI.Toolbox_x64.app.tar.gz"
     ]
   },
@@ -1599,20 +1597,20 @@
     "id": "a3b9",
     "slug": "zed",
     "name": "zed",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "description": {
       "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "cn": "Zed：高性能多人代码编辑器  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-08T20:11:28Z",
-    "icon": "",
+    "updated_at": "2026-05-12T18:17:56Z",
+    "icon": "/icons/apps/zed.webp",
     "collections_tags": [
       "rust"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/zed-industries/zed/releases/download/v1.1.7/Zed-x86_64.exe",
+    "download_url": "https://github.com/zed-industries/zed/releases/download/v1.1.8/Zed-x86_64.exe",
     "homepage": "https://github.com/zed-industries/zed",
     "category": "tool",
     "windows_assets": [
@@ -1621,7 +1619,7 @@
       "zed-remote-server-windows-x86_64.zip",
       "Zed-x86_64.exe"
     ],
-    "release_url": "https://github.com/zed-industries/zed/releases/tag/v1.1.7"
+    "release_url": "https://github.com/zed-industries/zed/releases/tag/v1.1.8"
   },
   {
     "id": "70f4",
@@ -1664,7 +1662,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-29T06:31:23Z",
-    "icon": "",
+    "icon": "/icons/apps/curl.webp",
     "collections_tags": [
       "c#"
     ],
@@ -1689,7 +1687,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2025-05-14T22:39:52Z",
-    "icon": "",
+    "icon": "/icons/apps/systeminformer.webp",
     "collections_tags": [
       "c#"
     ],
@@ -1715,7 +1713,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2025-12-21T19:17:10Z",
-    "icon": "",
+    "icon": "/icons/apps/mpv.webp",
     "collections_tags": [
       "c#"
     ],
@@ -1913,9 +1911,7 @@
     "download_url": "https://github.com/zjs81/meshcore-open/releases/download/Alpha9/meshcore_open-9.0.0-android.zip",
     "homepage": "https://github.com/zjs81/meshcore-open",
     "category": "tool",
-    "windows_assets": [
-      "meshcore_open-9.0.0-android.zip"
-    ],
+    "windows_assets": [],
     "release_url": "https://github.com/zjs81/meshcore-open/releases/tag/Alpha9"
   },
   {
@@ -1955,7 +1951,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-07T17:46:51Z",
-    "icon": "",
+    "icon": "/icons/apps/pi-mono.webp",
     "collections_tags": [
       "typescript"
     ],
@@ -1980,7 +1976,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2025-07-17T18:36:21Z",
-    "icon": "",
+    "icon": "/icons/apps/onlook.webp",
     "collections_tags": [
       "typescript"
     ],
@@ -2000,51 +1996,51 @@
     "id": "c06c",
     "slug": "finceptterminal",
     "name": "FinceptTerminal",
-    "version": "4.0.2",
+    "version": "4.0.3",
     "description": {
       "en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "cn": "FinceptTerminal 金融分析工具  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-04-24T17:30:12Z",
-    "icon": "",
+    "updated_at": "2026-05-12T10:01:09Z",
+    "icon": "/icons/apps/finceptterminal.webp",
     "collections_tags": [
       "python"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.0.2/FinceptTerminal-4.0.2-windows-x64-setup.exe",
+    "download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.0.3/FinceptTerminal-4.0.3-windows-x64-setup.exe",
     "homepage": "https://github.com/Fincept-Corporation/FinceptTerminal",
     "category": "tool",
     "windows_assets": [
-      "FinceptTerminal-4.0.2-windows-x64-setup.exe"
+      "FinceptTerminal-4.0.3-windows-x64-setup.exe"
     ],
-    "release_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/tag/v4.0.2"
+    "release_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/tag/v4.0.3"
   },
   {
     "id": "9c8c",
     "slug": "opensre",
     "name": "opensre",
-    "version": "2026.5.11",
+    "version": "2026.5.13",
     "description": {
       "en": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
       "cn": "AI SRE 代理构建工具  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-11T01:28:03Z",
-    "icon": "",
+    "updated_at": "2026-05-13T01:26:28Z",
+    "icon": "/icons/apps/opensre.webp",
     "collections_tags": [
       "python"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/Tracer-Cloud/opensre/releases/download/v2026.5.11/opensre_2026.5.11_windows-x64.zip",
+    "download_url": "https://github.com/Tracer-Cloud/opensre/releases/download/v2026.5.13/opensre_2026.5.13_windows-x64.zip",
     "homepage": "https://github.com/Tracer-Cloud/opensre",
     "category": "tool",
     "windows_assets": [
-      "opensre_2026.5.11_windows-x64.zip"
+      "opensre_2026.5.13_windows-x64.zip"
     ],
-    "release_url": "https://github.com/Tracer-Cloud/opensre/releases/tag/v2026.5.11"
+    "release_url": "https://github.com/Tracer-Cloud/opensre/releases/tag/v2026.5.13"
   },
   {
     "id": "0898",
@@ -2058,7 +2054,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-28T11:42:05Z",
-    "icon": "",
+    "icon": "/icons/apps/cli.webp",
     "collections_tags": [
       "go"
     ],
@@ -2088,7 +2084,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-01T17:17:31Z",
-    "icon": "",
+    "icon": "/icons/apps/syft.webp",
     "collections_tags": [
       "go"
     ],
@@ -2108,42 +2104,42 @@
     "id": "d378",
     "slug": "llamacpp",
     "name": "llama.cpp",
-    "version": "b9102",
+    "version": "b9128",
     "description": {
       "en": "LLM inference in C/C++",
       "cn": "C/C++ LLM 推理  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-11T06:15:51Z",
-    "icon": "",
+    "updated_at": "2026-05-13T02:26:13Z",
+    "icon": "/icons/apps/llamacpp.webp",
     "collections_tags": [
       "c++"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/ggml-org/llama.cpp/releases/download/b9102/llama-b9102-bin-win-cpu-x64.zip",
+    "download_url": "https://github.com/ggml-org/llama.cpp/releases/download/b9128/llama-b9128-bin-win-cpu-x64.zip",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "category": "tool",
     "windows_assets": [
       "cudart-llama-bin-win-cuda-12.4-x64.zip",
       "cudart-llama-bin-win-cuda-13.1-x64.zip",
-      "llama-b9102-bin-ubuntu-openvino-2026.0-x64.tar.gz",
-      "llama-b9102-bin-ubuntu-rocm-7.2-x64.tar.gz",
-      "llama-b9102-bin-ubuntu-sycl-fp16-x64.tar.gz",
-      "llama-b9102-bin-ubuntu-sycl-fp32-x64.tar.gz",
-      "llama-b9102-bin-ubuntu-vulkan-x64.tar.gz",
-      "llama-b9102-bin-ubuntu-x64.tar.gz",
-      "llama-b9102-bin-win-cpu-arm64.zip",
-      "llama-b9102-bin-win-cpu-x64.zip",
-      "llama-b9102-bin-win-cuda-12.4-x64.zip",
-      "llama-b9102-bin-win-cuda-13.1-x64.zip",
-      "llama-b9102-bin-win-hip-radeon-x64.zip",
-      "llama-b9102-bin-win-opencl-adreno-arm64.zip",
-      "llama-b9102-bin-win-sycl-x64.zip",
-      "llama-b9102-bin-win-vulkan-x64.zip",
-      "llama-b9102-xcframework.zip"
+      "llama-b9128-bin-ubuntu-openvino-2026.0-x64.tar.gz",
+      "llama-b9128-bin-ubuntu-rocm-7.2-x64.tar.gz",
+      "llama-b9128-bin-ubuntu-sycl-fp16-x64.tar.gz",
+      "llama-b9128-bin-ubuntu-sycl-fp32-x64.tar.gz",
+      "llama-b9128-bin-ubuntu-vulkan-x64.tar.gz",
+      "llama-b9128-bin-ubuntu-x64.tar.gz",
+      "llama-b9128-bin-win-cpu-arm64.zip",
+      "llama-b9128-bin-win-cpu-x64.zip",
+      "llama-b9128-bin-win-cuda-12.4-x64.zip",
+      "llama-b9128-bin-win-cuda-13.1-x64.zip",
+      "llama-b9128-bin-win-hip-radeon-x64.zip",
+      "llama-b9128-bin-win-opencl-adreno-arm64.zip",
+      "llama-b9128-bin-win-sycl-x64.zip",
+      "llama-b9128-bin-win-vulkan-x64.zip",
+      "llama-b9128-xcframework.zip"
     ],
-    "release_url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9102"
+    "release_url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9128"
   },
   {
     "id": "7e9b",
@@ -2157,7 +2153,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-08T19:24:39Z",
-    "icon": "",
+    "icon": "/icons/apps/onnxruntime.webp",
     "collections_tags": [
       "c++"
     ],
@@ -2178,26 +2174,26 @@
     "id": "0bc7",
     "slug": "mujoco",
     "name": "mujoco",
-    "version": "3.8.0",
+    "version": "3.8.1",
     "description": {
       "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "cn": "通用物理模拟器  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-04-24T23:03:38Z",
-    "icon": "",
+    "updated_at": "2026-05-11T13:59:30Z",
+    "icon": "/icons/apps/mujoco.webp",
     "collections_tags": [
       "c++"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/google-deepmind/mujoco/releases/download/3.8.0/mujoco-3.8.0-windows-x86_64.zip",
+    "download_url": "https://github.com/google-deepmind/mujoco/releases/download/3.8.1/mujoco-3.8.1-windows-x86_64.zip",
     "homepage": "https://github.com/google-deepmind/mujoco",
     "category": "tool",
     "windows_assets": [
-      "mujoco-3.8.0-windows-x86_64.zip"
+      "mujoco-3.8.1-windows-x86_64.zip"
     ],
-    "release_url": "https://github.com/google-deepmind/mujoco/releases/tag/3.8.0"
+    "release_url": "https://github.com/google-deepmind/mujoco/releases/tag/3.8.1"
   },
   {
     "id": "0571",
@@ -2211,7 +2207,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2025-09-24T18:27:49Z",
-    "icon": "",
+    "icon": "/icons/apps/sunshine.webp",
     "collections_tags": [
       "c++"
     ],
@@ -2237,7 +2233,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-08T12:48:18Z",
-    "icon": "",
+    "icon": "/icons/apps/redpanda.webp",
     "collections_tags": [
       "c++"
     ],
@@ -2479,7 +2475,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-03-19T22:21:30Z",
-    "icon": "",
+    "icon": "/icons/apps/protobuf.webp",
     "collections_tags": [
       "c++"
     ],
@@ -2498,32 +2494,29 @@
     "id": "a8f8",
     "slug": "camoufox",
     "name": "camoufox",
-    "version": "135.0.1-beta.24",
+    "version": "150.0.2-beta.25",
     "description": {
       "en": "🦊 Anti-detect browser",
       "cn": "🦊 防检测浏览器  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2025-03-15T21:59:27Z",
+    "updated_at": "2026-05-11T21:06:37Z",
     "icon": "",
     "collections_tags": [
       "c++"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/daijro/camoufox/releases/download/v135.0.1-beta.24/camoufox-135.0.1-beta.24-lin.x86_64.zip",
+    "download_url": "https://github.com/daijro/camoufox/releases/download/v150.0.2-beta.25/camoufox-150.0.2-alpha.25-lin.x86_64.zip",
     "homepage": "https://github.com/daijro/camoufox",
     "category": "tool",
     "windows_assets": [
-      "camoufox-135.0.1-beta.24-lin.arm64.zip",
-      "camoufox-135.0.1-beta.24-lin.i686.zip",
-      "camoufox-135.0.1-beta.24-lin.x86_64.zip",
-      "camoufox-135.0.1-beta.24-mac.arm64.zip",
-      "camoufox-135.0.1-beta.24-mac.x86_64.zip",
-      "camoufox-135.0.1-beta.24-win.i686.zip",
-      "camoufox-135.0.1-beta.24-win.x86_64.zip"
+      "camoufox-150.0.2-alpha.25-lin.arm64.zip",
+      "camoufox-150.0.2-alpha.25-lin.x86_64.zip",
+      "camoufox-150.0.2-alpha.25-mac.arm64.zip",
+      "camoufox-150.0.2-alpha.25-mac.x86_64.zip"
     ],
-    "release_url": "https://github.com/daijro/camoufox/releases/tag/v135.0.1-beta.24"
+    "release_url": "https://github.com/daijro/camoufox/releases/tag/v150.0.2-beta.25"
   },
   {
     "id": "5a29",
@@ -2537,7 +2530,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-06T15:49:01Z",
-    "icon": "",
+    "icon": "/icons/apps/rtk.webp",
     "collections_tags": [
       "rust"
     ],
@@ -2614,7 +2607,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2025-12-12T17:49:37Z",
-    "icon": "",
+    "icon": "/icons/apps/typst.webp",
     "collections_tags": [
       "rust"
     ],
@@ -2640,12 +2633,12 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-07T15:00:52Z",
-    "icon": "",
+    "icon": "/icons/apps/iroh.webp",
     "collections_tags": [
       "rust"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-relay-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
+    "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-dns-server-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
     "homepage": "https://github.com/n0-computer/iroh",
     "category": "tool",
     "windows_assets": [
@@ -2658,27 +2651,27 @@
     "id": "710b",
     "slug": "qdrant",
     "name": "qdrant",
-    "version": "1.17.1",
+    "version": "1.18.0",
     "description": {
       "en": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloudhttps://cloud.qdrant.io/",
       "cn": "Qdrant 向量数据库  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-03-27T08:37:25Z",
-    "icon": "",
+    "updated_at": "2026-05-11T15:04:38Z",
+    "icon": "/icons/apps/qdrant.webp",
     "collections_tags": [
       "rust"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/qdrant/qdrant/releases/download/v1.17.1/qdrant-x86_64-pc-windows-msvc.zip",
+    "download_url": "https://github.com/qdrant/qdrant/releases/download/v1.18.0/qdrant-x86_64-pc-windows-msvc.zip",
     "homepage": "https://github.com/qdrant/qdrant",
     "category": "tool",
     "windows_assets": [
       "qdrant-x86_64-pc-windows-msvc.zip",
       "qdrant-x86_64.AppImage"
     ],
-    "release_url": "https://github.com/qdrant/qdrant/releases/tag/v1.17.1"
+    "release_url": "https://github.com/qdrant/qdrant/releases/tag/v1.18.0"
   },
   {
     "id": "ea99",
@@ -2692,7 +2685,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-13T11:27:39Z",
-    "icon": "",
+    "icon": "/icons/apps/servo.webp",
     "collections_tags": [
       "rust"
     ],
@@ -2718,7 +2711,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-08T12:24:55Z",
-    "icon": "",
+    "icon": "/icons/apps/codex-acp.webp",
     "collections_tags": [
       "rust"
     ],
@@ -2774,7 +2767,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-05-02T02:39:56Z",
-    "icon": "",
+    "icon": "/icons/apps/sdl.webp",
     "collections_tags": [
       "c#"
     ],
@@ -2858,7 +2851,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-21T20:10:35Z",
-    "icon": "",
+    "icon": "/icons/apps/obs-studio.webp",
     "collections_tags": [
       "c#"
     ],
@@ -2888,7 +2881,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-23T11:54:27Z",
-    "icon": "",
+    "icon": "/icons/apps/openblas.webp",
     "collections_tags": [
       "c#"
     ],
@@ -2920,7 +2913,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-27T17:04:47Z",
-    "icon": "",
+    "icon": "/icons/apps/netdata.webp",
     "collections_tags": [
       "c#"
     ],
@@ -2947,7 +2940,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-14T13:07:27Z",
-    "icon": "",
+    "icon": "/icons/apps/shipwright.webp",
     "collections_tags": [
       "c#"
     ],
@@ -2992,26 +2985,26 @@
     "id": "e79f",
     "slug": "kai",
     "name": "Kai",
-    "version": "2.5.0",
+    "version": "2.5.1",
     "description": {
       "en": "OpenClaw alternative in your pocket",
       "cn": "移动版 OpenClaw 替代  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-06T20:01:58Z",
+    "updated_at": "2026-05-13T00:29:00Z",
     "icon": "",
     "collections_tags": [
       "kotlin"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/SimonSchubert/Kai/releases/download/v2.5.0/Kai-2.5.0-windows.msi",
+    "download_url": "https://github.com/SimonSchubert/Kai/releases/download/v2.5.1/Kai-2.5.1-windows.msi",
     "homepage": "https://github.com/SimonSchubert/Kai",
     "category": "tool",
     "windows_assets": [
-      "Kai-2.5.0-windows.msi"
+      "Kai-2.5.1-windows.msi"
     ],
-    "release_url": "https://github.com/SimonSchubert/Kai/releases/tag/v2.5.0"
+    "release_url": "https://github.com/SimonSchubert/Kai/releases/tag/v2.5.1"
   },
   {
     "id": "c31b",
@@ -3025,7 +3018,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-19T05:11:00Z",
-    "icon": "",
+    "icon": "/icons/apps/android.webp",
     "collections_tags": [
       "kotlin"
     ],
@@ -3050,7 +3043,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-23T10:11:51Z",
-    "icon": "",
+    "icon": "/icons/apps/kotlin.webp",
     "collections_tags": [
       "kotlin"
     ],
@@ -3127,7 +3120,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2025-12-13T18:03:36Z",
-    "icon": "",
+    "icon": "/icons/apps/gkd.webp",
     "collections_tags": [
       "kotlin"
     ],
@@ -3144,26 +3137,26 @@
     "id": "a1e7",
     "slug": "omi",
     "name": "omi",
-    "version": "Omi_CV1_v3.0.19",
+    "version": "0.11.396+11396-macos",
     "description": {
       "en": "AI that sees your screen, listens to your conversations and tells you what to do",
       "cn": "AI 屏幕助手  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-05-09T16:07:41Z",
-    "icon": "",
+    "updated_at": "2026-05-13T05:56:25Z",
+    "icon": "/icons/apps/omi.webp",
     "collections_tags": [
       "dart"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/BasedHardware/omi/releases/download/Omi_CV1_v3.0.19/Omi_CV1_OTA_v3.0.19.zip",
+    "download_url": "https://github.com/BasedHardware/omi/releases/download/v0.11.396%2B11396-macos/Omi.zip",
     "homepage": "https://github.com/BasedHardware/omi",
     "category": "tool",
     "windows_assets": [
-      "Omi_CV1_OTA_v3.0.19.zip"
+      "Omi.zip"
     ],
-    "release_url": "https://github.com/BasedHardware/omi/releases/tag/Omi_CV1_v3.0.19"
+    "release_url": "https://github.com/BasedHardware/omi/releases/tag/v0.11.396+11396-macos"
   },
   {
     "id": "e562",
@@ -3228,7 +3221,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-04-28T10:15:33Z",
-    "icon": "",
+    "icon": "/icons/apps/karing.webp",
     "collections_tags": [
       "dart"
     ],
@@ -3246,27 +3239,27 @@
     "id": "1350",
     "slug": "clashmi",
     "name": "clashmi",
-    "version": "1.0.22.802",
+    "version": "1.0.23.904",
     "description": {
       "en": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
       "cn": "Clash Mihomo 多平台客户端  "
     },
     "source": "github-trending",
     "stars": 0,
-    "updated_at": "2026-04-30T03:47:36Z",
-    "icon": "",
+    "updated_at": "2026-05-08T05:31:24Z",
+    "icon": "/icons/apps/clashmi.webp",
     "collections_tags": [
       "dart"
     ],
     "download_count": 0,
-    "download_url": "https://github.com/KaringX/clashmi/releases/download/v1.0.22.802/clashmi_1.0.22.802_windows_x64.exe",
+    "download_url": "https://github.com/KaringX/clashmi/releases/download/v1.0.23.904/clashmi_1.0.23.904_windows_x64.exe",
     "homepage": "https://github.com/KaringX/clashmi",
     "category": "tool",
     "windows_assets": [
-      "clashmi_1.0.22.802_windows_x64.exe",
-      "clashmi_1.0.22.802_windows_x64.zip"
+      "clashmi_1.0.23.904_windows_x64.exe",
+      "clashmi_1.0.23.904_windows_x64.zip"
     ],
-    "release_url": "https://github.com/KaringX/clashmi/releases/tag/v1.0.22.802"
+    "release_url": "https://github.com/KaringX/clashmi/releases/tag/v1.0.23.904"
   },
   {
     "id": "f870",
@@ -3332,7 +3325,7 @@
     "source": "github-trending",
     "stars": 0,
     "updated_at": "2026-03-05T17:22:57Z",
-    "icon": "",
+    "icon": "/icons/apps/hiddify-app.webp",
     "collections_tags": [
       "dart"
     ],

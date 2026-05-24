@@ -18,8 +18,6 @@
   "download_url": "https://github.com/zjs81/meshcore-open/releases/download/Alpha9/meshcore_open-9.0.0-android.zip",
   "homepage": "https://github.com/zjs81/meshcore-open",
   "category": "tool",
-  "windows_assets": [
-    "meshcore_open-9.0.0-android.zip"
-  ],
+  "windows_assets": [],
   "release_url": "https://github.com/zjs81/meshcore-open/releases/tag/Alpha9"
 }

@@ -10,12 +10,12 @@
   "source": "github-trending",
   "stars": 0,
   "updated_at": "2026-05-07T15:00:52Z",
-  "icon": "",
+  "icon": "/icons/apps/iroh.webp",
   "collections_tags": [
     "rust"
   ],
   "download_count": 0,
-  "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-relay-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
+  "download_url": "https://github.com/n0-computer/iroh/releases/download/v1.0.0-rc.0/iroh-dns-server-v1.0.0-rc.0-x86_64-pc-windows-msvc.zip",
   "homepage": "https://github.com/n0-computer/iroh",
   "category": "tool",
   "windows_assets": [

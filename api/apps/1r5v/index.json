@@ -9,7 +9,7 @@
   },
   "stars": 130,
   "updated_at": "2026-05-10T14:29:32Z",
-  "icon": "",
+  "icon": "/icons/apps/syncnos.webp",
   "collections_tags": [
     "linuxdo"
   ],
@@ -23,7 +23,7 @@
     "author_avatar_url": "https://cdn.linux.do/user_avatar/linux.do/hawki/48/996813_2.png"
   },
   "source": "linuxdo",
-  "release_url": "https://github.com/chiimagnus/SyncNos/releases/tag/v1.6.2",
+  "release_url": "https://github.com/SyncNos/SyncNos-Webclipper/releases/tag/v1.6.2",
   "windows_assets": [
     "syncnos-webclipper-chrome-v1.6.2.zip",
     "syncnos-webclipper-edge-v1.6.2.zip"

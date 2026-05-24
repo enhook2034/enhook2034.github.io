@@ -10,7 +10,7 @@
   "source": "github-trending",
   "stars": 0,
   "updated_at": "2026-04-13T11:27:39Z",
-  "icon": "",
+  "icon": "/icons/apps/servo.webp",
   "collections_tags": [
     "rust"
   ],
