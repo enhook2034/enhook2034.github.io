@@ -10,7 +10,7 @@
   "source": "github-trending",
   "stars": 0,
   "updated_at": "2026-04-14T10:37:18Z",
-  "icon": "",
+  "icon": "/icons/apps/sniffnet.webp",
   "collections_tags": [
     "rust"
   ],

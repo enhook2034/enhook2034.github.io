@@ -10,7 +10,7 @@
   "source": "github-trending",
   "stars": 0,
   "updated_at": "2026-04-23T13:41:33Z",
-  "icon": "",
+  "icon": "/icons/apps/cc-switch.webp",
   "collections_tags": [
     "rust"
   ],
