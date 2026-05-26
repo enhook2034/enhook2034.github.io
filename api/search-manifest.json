@@ -1,0 +1,18 @@
+{
+  "version": "FA411E41F932",
+  "count": 93,
+  "indexUrl": "/api/search-index.json",
+  "indexBytes": 45721,
+  "generatedAt": "2026-05-26T17:20:36.0889820Z",
+  "fields": [
+    "name",
+    "slug",
+    "id",
+    "tags",
+    "category",
+    "descEn",
+    "descCn",
+    "nameBigrams",
+    "descCnBigrams"
+  ]
+}

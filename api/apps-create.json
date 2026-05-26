@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1767",
+    "slug": "explorer-tab-utility",
+    "name": "ExplorerTabUtility",
+    "version": "2.5.0",
+    "size": "831 KB",
+    "publisher": "w4po",
+    "license": "Free",
+    "screenshots": [],
+    "description": {
+      "en": "🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!",
+      "cn": "🚀 强化 Windows 11 的文件资源管理器：自动将窗口转换为标签页、复制标签页、重新打开已关闭的标签页等等！  "
+    },
+    "source": "xuanli199",
+    "stars": 2669,
+    "updated_at": "2025-05-04T22:41:35Z",
+    "icon": "/icons/apps/explorer-tab-utility.webp",
+    "collections_tags": [
+      "file-management",
+      "windows",
+      "workflow"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/w4po/ExplorerTabUtility/releases/download/v2.5.0/ExplorerTabUtility_v2.5.0_Setup.exe",
+    "homepage": "https://github.com/w4po/ExplorerTabUtility",
+    "category": "create",
+    "windows_assets": [
+      "ExplorerTabUtility_v2.5.0_arm64_Net9.0_FrameworkDependent.zip",
+      "ExplorerTabUtility_v2.5.0_arm64_NetFW4.8.1.zip",
+      "ExplorerTabUtility_v2.5.0_Setup.exe",
+      "ExplorerTabUtility_v2.5.0_x64_Net9.0_FrameworkDependent.zip",
+      "ExplorerTabUtility_v2.5.0_x64_NetFW4.8.1.zip",
+      "ExplorerTabUtility_v2.5.0_x86_Net9.0_FrameworkDependent.zip",
+      "ExplorerTabUtility_v2.5.0_x86_NetFW4.8.1.zip"
+    ],
+    "release_url": "https://github.com/w4po/ExplorerTabUtility/releases/tag/v2.5.0"
+  },
+  {
+    "id": "a3cf",
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "version": "1.12.7",
+    "size": "415 KB",
+    "publisher": "Obsidian MD",
+    "license": "免费",
+    "screenshots": [
+      "https://obsidian.md/assets/screenshots/obsidian-graph-view.png",
+      "https://obsidian.md/assets/screenshots/obsidian-canvas.png"
+    ],
+    "description": {
+      "en": "Community plugins list, theme list, and releases of Obsidian.",
+      "cn": "Obsidian 的社区插件列表、主题列表和发布版本。  "
+    },
+    "source": "ruanyifeng",
+    "stars": 17074,
+    "updated_at": "2026-03-23T15:56:19Z",
+    "icon": "/icons/apps/obsidian.webp",
+    "collections_tags": [
+      "knowledge",
+      "notes",
+      "markdown"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.exe",
+    "homepage": "https://obsidian.md/",
+    "category": "create",
+    "windows_assets": [
+      "Obsidian-1.12.7.exe"
+    ],
+    "release_url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.12.7"
+  }
+]

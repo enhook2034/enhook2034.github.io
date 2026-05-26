@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d9f3",
+    "slug": "project-eye",
+    "name": "Project Eye",
+    "version": "1.4.3",
+    "description": {
+      "en": "😎 一个基于20-20-20规则的用眼休息提醒Windows软件",
+      "cn": "😎 一个基于 20-20-20 规则的用眼休息提醒 Windows 软件  "
+    },
+    "source": "ruanyifeng",
+    "stars": 1193,
+    "updated_at": "2022-06-03T17:40:33Z",
+    "icon": "/icons/apps/project-eye.webp",
+    "collections_tags": [
+      "health",
+      "focus",
+      "work"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/Planshit/ProjectEye/releases/download/1.4.3/ProjectEye.zip",
+    "homepage": "https://github.com/Planshit/ProjectEye",
+    "category": "work",
+    "windows_assets": [
+      "ProjectEye.zip"
+    ],
+    "release_url": "https://github.com/Planshit/ProjectEye/releases/tag/1.4.3"
+  },
+  {
+    "id": "e5g5",
+    "slug": "super-productivity",
+    "name": "Super Productivity",
+    "version": "18.5.0",
+    "description": {
+      "en": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+      "cn": "Super Productivity 是一款高级待办事项应用，集成了时间盒（Timeboxing）和时间跟踪功能。同时还支持与 Jira、GitLab、GitHub 和 Open Project 的集成。  "
+    },
+    "source": "ruanyifeng",
+    "stars": 18854,
+    "updated_at": "2026-05-09T19:24:59Z",
+    "icon": "/icons/apps/super-productivity.webp",
+    "collections_tags": [
+      "todo",
+      "time-tracking",
+      "work"
+    ],
+    "download_count": 0,
+    "download_url": "https://github.com/super-productivity/super-productivity/releases/download/v18.5.0/Super-Productivity-Setup-x64.exe",
+    "homepage": "https://super-productivity.com/",
+    "category": "work",
+    "windows_assets": [
+      "Super-Productivity-Setup-arm64.exe",
+      "Super-Productivity-Setup-x64.exe",
+      "Super-Productivity-Setup.exe",
+      "superProductivity-arm64.exe",
+      "superProductivity-x64.exe",
+      "superProductivity-x86_64.AppImage",
+      "superProductivity.exe"
+    ],
+    "release_url": "https://github.com/super-productivity/super-productivity/releases/tag/v18.5.0"
+  }
+]

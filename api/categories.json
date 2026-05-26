@@ -1,0 +1,78 @@
+{
+  "total_apps": 93,
+  "category_count": 4,
+  "latest_updated": "2026-05-13T04:12:21.0000000",
+  "categories": {
+    "tool": {
+      "count": 89,
+      "top_apps": [
+        {
+          "id": "d9f4",
+          "slug": "bulk-crap-uninstaller",
+          "name": "Bulk Crap Uninstaller",
+          "icon": "/icons/apps/bulk-crap-uninstaller.webp"
+        },
+        {
+          "id": "c5ae",
+          "slug": "sniffnet",
+          "name": "sniffnet",
+          "icon": "/icons/apps/sniffnet.webp"
+        },
+        {
+          "id": "5a29",
+          "slug": "rtk",
+          "name": "rtk",
+          "icon": "/icons/apps/rtk.webp"
+        },
+        {
+          "id": "606e",
+          "slug": "protobuf",
+          "name": "protobuf",
+          "icon": "/icons/apps/protobuf.webp"
+        }
+      ],
+      "latest_updated": "2026-05-13T04:12:21.0000000"
+    },
+    "create": {
+      "count": 2,
+      "top_apps": [
+        {
+          "id": "1767",
+          "slug": "explorer-tab-utility",
+          "name": "ExplorerTabUtility",
+          "icon": "/icons/apps/explorer-tab-utility.webp"
+        },
+        {
+          "id": "a3cf",
+          "slug": "obsidian",
+          "name": "Obsidian",
+          "icon": "/icons/apps/obsidian.webp"
+        }
+      ],
+      "latest_updated": "2026-03-23T15:56:19.0000000"
+    },
+    "develop": {
+      "count": 0,
+      "top_apps": [],
+      "latest_updated": null
+    },
+    "work": {
+      "count": 2,
+      "top_apps": [
+        {
+          "id": "d9f3",
+          "slug": "project-eye",
+          "name": "Project Eye",
+          "icon": "/icons/apps/project-eye.webp"
+        },
+        {
+          "id": "e5g5",
+          "slug": "super-productivity",
+          "name": "Super Productivity",
+          "icon": "/icons/apps/super-productivity.webp"
+        }
+      ],
+      "latest_updated": "2026-05-09T19:24:59.0000000"
+    }
+  }
+}
