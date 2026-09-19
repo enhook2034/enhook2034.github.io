@@ -3,7 +3,7 @@
   "count": 93,
   "indexUrl": "/api/search-index.json",
   "indexBytes": 45721,
-  "generatedAt": "2026-09-19T03:38:01.7028861Z",
+  "generatedAt": "2026-09-19T03:42:01.4774645Z",
   "fields": [
     "name",
     "slug",

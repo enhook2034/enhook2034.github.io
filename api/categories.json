@@ -3,6 +3,24 @@
   "category_count": 4,
   "latest_updated": "2026-05-13T04:12:21.0000000",
   "categories": {
+    "work": {
+      "count": 2,
+      "top_apps": [
+        {
+          "id": "d9f3",
+          "slug": "project-eye",
+          "name": "Project Eye",
+          "icon": "/icons/apps/project-eye.webp"
+        },
+        {
+          "id": "e5g5",
+          "slug": "super-productivity",
+          "name": "Super Productivity",
+          "icon": "/icons/apps/super-productivity.webp"
+        }
+      ],
+      "latest_updated": "2026-05-09T19:24:59.0000000"
+    },
     "tool": {
       "count": 89,
       "top_apps": [
@@ -55,24 +73,6 @@
       "count": 0,
       "top_apps": [],
       "latest_updated": null
-    },
-    "work": {
-      "count": 2,
-      "top_apps": [
-        {
-          "id": "d9f3",
-          "slug": "project-eye",
-          "name": "Project Eye",
-          "icon": "/icons/apps/project-eye.webp"
-        },
-        {
-          "id": "e5g5",
-          "slug": "super-productivity",
-          "name": "Super Productivity",
-          "icon": "/icons/apps/super-productivity.webp"
-        }
-      ],
-      "latest_updated": "2026-05-09T19:24:59.0000000"
     }
   }
 }
